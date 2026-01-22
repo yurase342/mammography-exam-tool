@@ -1,0 +1,434 @@
+{
+  "examNumber": 15,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "15",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "DMQC フェントムを使った日常的な管理について誤っているのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "受入試験の試験器として使用できる。",
+        "b": "DR 受像器のキャリブレーションは不要である。",
+        "c": "乳房圧迫板を 40 ㎜厚の PMMA に接するように配置する。",
+        "d": "DMQC 専用の画像解析ソフトウエアで画像解析を行う。",
+        "e": "CNR、STCF、低コントラストの測定が可能である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）受入試験の試験器として使用できない。 （２）DR 受像器のキャリブレーションを実施する。 ※ DMQC フェントムを使った日常的な管理"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "SCTF(空間分解能)について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "厚さ 40 ㎜の PMMA ファントムを使用する。",
+        "b": "測定用チャートを PMMA の上に配置する。",
+        "c": "測定用チャートの撮影時は圧迫板を外す。",
+        "d": "胸壁側から 40 ㎜の位置に測定用チャートの線群がくるように配置する。",
+        "e": "密着撮影は大焦点で 2 ～ 4lp/mm、拡大撮影は大焦点で 4 ～ 8LP/mm を測定する。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）胸壁側から 60 ㎜の位置に測定用チャートの線群がくるように配置する。 （５）密着撮影は大焦点で 2 ～ 4lp/mm、拡大撮影は小焦点で 4 ～ 8LP/mm を測定する。 ※ SCTF(空間分解能)"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "ダイナミックレンジについて誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "ステップウェッジファントムは胸壁側に配置する。",
+        "b": "ステップウェッジファントムのウェッジ部は胸壁側に配置する。",
+        "c": "高さ 3 ㎜の階段が 14 段あるステップウェッジファントムを使用する。",
+        "d": "標準偏差が 0 になるステップの段数を求め、視認される部分は省略してよい。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）ステップウェッジファントムのウェッジ部は乳頭側に配置する。 （３）高さ 3 ㎜の階段が 12 段あるステップウェッジファントムを使用する。 ※ダイナミックレンジ"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "画像歪みについて誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "2 メッシュ以上の金網を使用する。",
+        "b": "乳房圧迫板を PMMA に接するように配置する。",
+        "c": "金網を厚さ 20 ㎜の PMMA で挟み、乳房指示台の上に置く。",
+        "d": "密着試験に用いる 40 メッシュの金網は使用できない。",
+        "e": "加圧なしで照射できない装置の場合は最低圧迫圧で照射する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control"
+      ],
+      "explanation": "（１）4 メッシュ以上の金網を使用する。 ※画像歪み ・線形 0.5 ㎜以上、4 メッシュ以上の金網を使用する。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "Ｘ線画像に最も影響を与えるものはどれか。",
+      "choices": {
+        "a": "量子化ノイズ",
+        "b": "光量子ノイズ",
+        "c": "Ｘ線量子モトル",
+        "d": "フィルムの粒状",
+        "e": "増感紙の構造モトル"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（３）Ｘ線量子モトル ※増感紙－フィルム系による X 線写真のノイズ構成 増感紙の構造モトルは増感紙の蛍光体の構造の不均一性に関係するものである。フィルム"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "CR システムの光量子ノイズに該当するのはどれか。",
+      "choices": {
+        "a": "X 線量子",
+        "b": "捕獲電子",
+        "c": "電気信号",
+        "d": "輝尽発光光",
+        "e": "デジタル信号"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）X 線量子：X 線量子ノイズ （２）捕獲電子：構造ノイズ （４）電気信号：電気系ノイズ"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "撮影線量に依存しない固定ノイズに該当しないのはどれか。すべて選べ。",
+      "choices": {
+        "a": "構造ノイズ",
+        "b": "光量子ノイズ",
+        "c": "電気系ノイズ",
+        "d": "量子化ノイズ",
+        "e": "X 線量子ノイズ"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）構造ノイズ：撮影線量に依存しない固定ノイズ （３）電気系ノイズ：撮影線量に依存しない固定ノイズ （４）量子化ノイズ：撮影線量に依存しない固定ノイズ"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "カテゴリー 3 はどれか。",
+      "choices": {
+        "a": "腫瘤の境界不明瞭、微細分葉状である。",
+        "b": "腫瘤にスピキュラを伴うが、明瞭でない。",
+        "c": "石灰化の分布が領域性で淡く不明瞭である。",
+        "d": "石灰化の分布が区域性で淡く不明瞭である。",
+        "e": "FAD で内部構造の濃度が周囲乳腺と比べてやや高い。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（１）腫瘤の境界不明瞭、微細分葉状である：カテゴリー 4。 （２）腫瘤にスピキュラを伴うが、明瞭でない：カテゴリー 4。 （３）石灰化の分布が領域性で淡く不明瞭である：カテゴリー 2。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "腺房が集まって小葉になる。",
+        "b": "腺葉は 1 つの乳房で 25 ～ 30 個である。",
+        "c": "胸骨筋は胸骨に沿うように縦走する小筋である。",
+        "d": "乳房は鎖骨と胸骨に支えられ大胸筋の上に横たわっている。",
+        "e": "TDLU は腺房上皮＋小葉内終末乳管＋小葉外終末乳管である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "explanation": "（２）腺葉は 1 つの乳房で 15 ～ 20 個である。 ※胸骨筋 胸骨に平行に走行する筋肉。大胸筋の表面で胸骨に沿うように縦走ないし斜走する小筋(異"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌は腺房から発生する。",
+        "b": "乳癌は腺上皮に発生する。",
+        "c": "良性の病変は小葉から発生する。",
+        "d": "Rotter のリンパ節は Level Ⅲである。",
+        "e": "乳房内リンパ節は腋窩リンパ節に分類される。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）乳癌は TDLU から発生する。 （４）Rotter のリンパ節は Level Ⅱである。 ※乳癌の発生母地"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "浸潤性乳管癌の充実型に該当するのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "腺管形成が不明瞭である。",
+        "b": "浸潤癌胞巣は小さい。",
+        "c": "中心部が線維化を示す。",
+        "d": "間質結合織の増殖を伴う。",
+        "e": "びまん性に発育する。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（２）浸潤癌胞巣は小さい：硬性型。 （４）間質結合織の増殖を伴う：硬性型。 （５）びまん性に発育する：硬性型。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "腺腫に亜分類に属するのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳管腺腫",
+        "b": "管状腺腫",
+        "c": "乳頭部腺腫",
+        "d": "授乳性腺腫",
+        "e": "腺筋上皮腫"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）管状腺腫：腺腫に亜分類。 （４）授乳性腺腫：腺腫に亜分類。 ※腺腫"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "非浸潤性小葉癌の亜型はどれか。すべて選べ。",
+      "choices": {
+        "a": "篩状型",
+        "b": "面疱型",
+        "c": "古典型",
+        "d": "多形型",
+        "e": "充実-乳頭型"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（１）篩状型 （２）面疱型 （５）充実-乳頭型"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "乳癌は非浸潤癌、微小浸潤癌、浸潤癌、Paget 病に大別する。",
+        "b": "非浸潤癌を乳管癌と小葉癌、浸潤癌を乳管癌と特殊型に分ける。",
+        "c": "浸潤性乳管癌は腺管形成型、充実型、硬性型の 3 つに分ける。",
+        "d": "被包型乳頭癌で間質浸潤を伴わないものは非浸潤性乳管癌に含まれる。",
+        "e": "微小浸潤癌は間質浸潤が 1 ㎜以下のもので、乳管癌、小葉癌いずれもある。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（３）浸潤性乳管癌は腺管形成型、充実型、硬性型、その他の 4 つに分ける。 ※悪性腫瘍 ・非浸潤癌、微小浸潤癌、浸潤癌および Paget 病に大別する。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "線維腺腫の分類から画像で癌腫様の所見を示すものはどれか。",
+      "choices": {
+        "a": "管外型",
+        "b": "管内型",
+        "c": "管周囲型",
+        "d": "類臓器型",
+        "e": "乳腺症型"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（５）乳腺症型 ※乳腺症型 上皮成分が多いために時として画像で癌腫様の所見を示す。また細胞診では時として篩状"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "臨床 T 因子について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "T1 には亜分類がある。",
+        "b": "TX は評価不可能である。",
+        "c": "異常乳頭分泌例は T0 に分類する。",
+        "d": "浸潤を伴わない Paget 病は Tis である。",
+        "e": "炎症性乳癌は T4c に分類される。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）異常乳頭分泌例は最終病理診断によって Tis、T1mi などに確定分類する。 （５）炎症性乳癌は T4d に分類される。 ※ T0：原発巣を認めず。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "早期乳癌に該当するのはどれか。すべて選べ。",
+      "choices": {
+        "a": "Stage 0",
+        "b": "Stage Ⅰ A",
+        "c": "Stage Ⅰ B",
+        "d": "Stage Ⅱ A",
+        "e": "Stage Ⅱ B"
+      },
+      "correctAnswer": "a",
+      "category": "pathology",
+      "categories": [
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）Stage 0：早期乳癌 （２）Stage Ⅰ A：早期乳癌 （３）Stage Ⅰ B：早期乳癌"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "標本化について誤っているのはどれか。2 つ選べ。 （１）画像上では正方形(四角形の領域)に小分けされている。",
+      "choices": {
+        "a": "サンプリングピッチを小さくすれば画素数が多くなる。",
+        "b": "サンプリングピッチが細かいほど空間分解能が上がる。",
+        "c": "サンプリングピッチをを小さくすればデータ量は少なくなる。",
+        "d": "サンプリングピッチは空間周波数として表現することはできない。"
+      },
+      "correctAnswer": "d",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）サンプリングピッチをを小さくすればデータ量は増加する。 （５）サンプリングピッチは空間周波数としても表現することができる。 ※画像のデジタル化"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "量子化について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "量子化レベル数は A/D 変換器のビット数に依存する。",
+        "b": "量子化レベル数が大きいほど濃度分解能が悪くなる。",
+        "c": "量子化レベル数を増加させると量子化誤差は小さくなる。",
+        "d": "量子化レベル数が少なくなると縞状のアーチファクトを呈する。",
+        "e": "医用 X 線画像は量子化レベル数を 8 ビット以上にするのが良い。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）量子化レベル数が大きいほど濃度分解能が良くなる。 （５）医用 X 線画像は量子化レベル数を 10 ビット以上にするのが良い。 ※量子化"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "ラチチュードは平均階調度の平行な部分と同じである。",
+        "b": "CNR とは鮮鋭度を保った状態でのノイズの程度である。",
+        "c": "マンモグラフィ用シャウカステンの輝度は 3500cd/㎡以上である。",
+        "d": "受診者撮影時、平均乳腺線量は 1 方向で 3mGy を超えてはいけない。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）直線部に肩部と足部と呼ばれる領域を足した領域である。フィルムに再現しうる露 光量の幅である。 （２）CNR とはコントラスト雑音比である。"
+    }
+  ]
+}

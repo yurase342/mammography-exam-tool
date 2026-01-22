@@ -1,0 +1,375 @@
+{
+  "examNumber": 5,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 17,
+  "sourceType": "taisaku",
+  "round": "5",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "大きさ 2 ㎝以下は早期癌である。",
+        "b": "乳癌の基本治療は手術である。",
+        "c": "ステージ 0 の 5 年生存率はほぼ 100 ％である。",
+        "d": "遠隔転移がある場合、T の大きさに関わらず M1 となる。",
+        "e": "薬物療法にはホルモン療法、化学療法、分子標的療法がある。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（１）乳癌の大きさが 2 ㎝以下でリンパ節転移がなく、遠隔転移のない場合をいう。 非浸潤癌やパジェット病も含まれる。 ※ステージ 0"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "MMG インバーター装置について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "リプル率が大きい。",
+        "b": "三相電源でも使用できる。",
+        "c": "電源の位相に依存する。",
+        "d": "周波数は 5MHz は主流である。"
+      },
+      "correctAnswer": "a",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）リプル率が小さい。 （５）周波数は数十 kHz は主流である。 ※インバーター式装置の変圧器形"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌罹患率は 1 位である。",
+        "b": "乳癌死亡率は 3 位である。",
+        "c": "特異度が上がると偽陰性は少なくなる。",
+        "d": "乳癌検診では視触診は推奨している。",
+        "e": "乳癌検診での超音波検査は導入の可能性がある。"
+      },
+      "correctAnswer": "b",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）乳癌死亡率は 5 位である。 （４）乳癌検診では視触診は推奨しなくなった。 ※乳癌検診"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "フィルムは高感度高コントラストである。",
+        "b": "CR の高線量域では X 線量子モトルが支配的である。",
+        "c": "デジタル X 線システムでも構造ノイズが支配的である。",
+        "d": "センシトメトリで 2 ステップは 2 倍の露光量になる。",
+        "e": "濃度計は拡散光濃度計で、定期的なキャリブレーションが必要である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）CR の高線量域では構造ノイズが支配的である。 （３）デジタル X 線システムでも X 線量子モトルが支配的である。 ※センシトメトリ"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "MMG 装置の AEC について正しいのはどれか。",
+      "choices": {
+        "a": "カセッテ前面検出方式である。",
+        "b": "電離箱検出器を使用している。",
+        "c": "半導体検出器の種類は Si、Ge である。",
+        "d": "管電圧特性では管電圧が低いと露光量が小さくなる。",
+        "e": "被写体厚特性では被写体厚が厚くなると露光量が大きくなる。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）カセッテ後面検出方式である。 （２）半導体検出器を使用している。 （４）管電圧特性では管電圧が高くなるほど露光量が小さくなる。",
+      "image": "mammo/taisaku/5/q5.png"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "画像検出系の入力はピクセル値、出力は検出器に入射する X 線量である。",
+        "b": "画像処理系の入力はピクセル値、出力は処理済みのピクセル値である。",
+        "c": "画像表示系の入力は処理済みのピクセル値、出力はソフトコピーの場合は光 学濃度である。",
+        "d": "オーバーオール特性の入力は相対 X 線量、出力は光学濃度である。",
+        "e": "デジタル特性曲線の入力は相対 X 線量の常用対数、すなわちアナログ系の特 性曲線と同じスケールを使用している。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）画像検出系の入力は検出器に入射する X 線量、出力はピクセル値である。 （３）画像表示系の入力は処理済みのピクセル値、出力はソフトコピーの場合は輝度で ある。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "モニタの定期的な管理で目視評価はどれか。2 つ選べ。",
+      "choices": {
+        "a": "最大輝度および輝度比試験",
+        "b": "コントラスト応答試験",
+        "c": "輝度均一試験",
+        "d": "色度と照度",
+        "e": "アーチファクト試験"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）輝度均一試験：目視評価 （５）アーチファクト試験：目視評価 ※目視で行うデジタル定期管理項目",
+      "image": "mammo/taisaku/5/q8.png"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "画像から何の試験に使うものか。",
+      "choices": {
+        "a": "画像歪み",
+        "b": "乗算的ラグ加算",
+        "c": "システム感度",
+        "d": "ダイナミックレンジ"
+      },
+      "correctAnswer": "d",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（４）空間分解能(SCTF)"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "デジタル特性曲線が直線だと入出力の関係は線形である。",
+        "b": "デジタル特性曲線の任意の点の接線の傾きを階調度という。",
+        "c": "特性曲線作成の際、相対 X 線量を変化させるには管電圧を変化させる。",
+        "d": "ブートストラップ法とは、高管電圧と低管電圧で撮影した 2 枚の画像から 特性曲線を得る方法である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）ディジタル特性曲線は横軸のみ対数を取っているので、この曲線が直線だからと いって線形ということにはならない。 （３）管電圧を変化させると X 線質が変わり検出器の吸収特性が変わるので、管電圧を"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "X 線画像コントラストについて正しいのはどれか。",
+      "choices": {
+        "a": "X 線コントラストとは濃度差△D のことである。",
+        "b": "階調度 G は MTF から求められる。",
+        "c": "X 線コントラストが 0 でもデジタル階調処理によってコントラストを強調 できる。",
+        "d": "X 線コントラストは 2 つの物質の X 線量の差△E を平均 X 線量 E で割って 得られる。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（１）2 点間の濃度差が X 線画像コントラストである。X 線コントラストとは被検体透 過後の 2 点間の X 線強度差である。 （２）X 線画像コントラストは X 線コントラストと階調度との積である"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "デジタル X 線画像システムについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "“生データ”と呼ばれているいるのは画像処理の出力である。",
+        "b": "正規化処理とは入射 X 線量のばらつきを補正して常に一定のピクセル値範囲 に収める機能である。",
+        "c": "階調処理は入出力に影響されない。",
+        "d": "画像表示系の入力は処理済みのピクセル値である。",
+        "e": "イメージャーとドライフィルムを組み合わせた特性曲線は表現可能な範囲で 直線性が保たれている。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）“生データ”と呼ばれているいるのは、画像検出系の出力である。 （３）階調処理は入出力に影響される。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "ポジショニングでの強い圧迫は大きな効果ではない。",
+        "b": "CC 撮影は正面を向かせず、少し内側寄りに向かせる。",
+        "c": "MLO 撮影は乳腺組織全体を最も広く描出することができる。",
+        "d": "接線撮影は乳腺の重なり部分に適する。",
+        "e": "スポット撮影は標準撮影よりコントラストが良い。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy"
+      ],
+      "explanation": "（２）CC 撮影は正面を向かせる。少し内側寄りに向くと外側が欠ける。",
+      "image": "mammo/taisaku/5/q14.png"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "画像から何の試験に使うものか。",
+      "choices": {
+        "a": "照度試験",
+        "b": "全体評価試験",
+        "c": "輝度均一性試験",
+        "d": "コントラスト応答試験",
+        "e": "最大輝度および輝度比試験"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（３）輝度均一性試験 ※輝度均一性試験(目視試験) ・TG18-UNL80 テストパターン(または全白画面)",
+      "image": "mammo/taisaku/5/q15_3.png"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "定期管理で圧迫板を外さないのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "SCTF",
+        "b": "HVL",
+        "c": "X 線の出力",
+        "d": "X 線の再現性及び直線性",
+        "e": "AEC 作動時の CNR 確認"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）SCTF：圧迫板を外す。 （２）HVL：圧迫板を外す。 （４）X 線の再現性及び直線性：圧迫板を外す。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "X 線出力の定期管理について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線量計検出器の実効中心は支持台胸壁端から 40 ㎜に配置する。",
+        "b": "大焦点選択時の空気カーマ率は 7.0mGy/s 以上とする。",
+        "c": "X 線の直線性は複数の mAs で測定を行う。",
+        "d": "X 線の再現性は 5 回の測定値において変動係数が 0.02 以下とする。",
+        "e": "測定値のばらつきがある場合は繰り返し測定回数を 5 回以上行う。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）線量計検出器の実効中心は支持台胸壁端から 60 ㎜に配置する。 （４）X 線の再現性は 5 回の測定値において変動係数が 0.05 以下とする。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "画像検出器の線形性について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "厚さ 40 ㎜の PMMA を乳房支持台に配置する。",
+        "b": "乳房圧迫板を PMMA に接するように配置する。",
+        "c": "線量計検出器の実効入射面を乳房支持台の左右中央、胸壁から 60 ㎜の点に 合わせる。",
+        "d": "判定基準は R2 ＞ 90 ％である。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）入射空気カーマと画素値の平均値を一次式で近似し、相関係数の二乗(R2)を求め る。 （５）判定基準は R2 ＞ 99 ％である。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "低コントラスト分解能試験について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "厚さ 60 ㎜の PMMA を乳房支持台に配置する。",
+        "b": "乳房圧迫板を PMMA に接するように配置する。",
+        "c": "厚さ 10 ㎜の PMMA を 3 枚取り除き、低コントラスト検出能評価ファントム を配置する。",
+        "d": "低コントラスト検出能評価ファントムの上に厚さ 10 ㎜の PMMA ファントム を 3 枚配置する。",
+        "e": "収集した画像を目視で観察する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）厚さ 50 ㎜の PMMA を乳房支持台に配置する。 （４）低コントラスト検出能評価ファントムの上に PMMA ファントムを 2 枚配置する。"
+    }
+  ]
+}

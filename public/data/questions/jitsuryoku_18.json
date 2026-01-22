@@ -1,0 +1,452 @@
+{
+  "examNumber": 18,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "18",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "乳腺細胞が集まると腺房になり、腺房が集まって小葉になる。",
+        "b": "乳癌のほとんどは乳管上皮細胞から発生する。",
+        "c": "非浸潤性小葉癌は乳管上皮細胞から発生する。",
+        "d": "非浸潤性乳管癌は低悪性度である。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（５）非浸潤性乳管癌は低～高悪性度である。面疱型は高悪性度。 ※腺房 ・乳腺細胞が集まると腺房になり、腺房が集まって小葉になる。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "葉状腫瘍は上皮と間質の両方が増殖する病変である。",
+        "b": "嚢胞内乳頭腫と非浸潤癌はマンモグラフィーでは判別ができない。",
+        "c": "浸潤性乳管乳癌は筋上皮、基底膜を超えるが、稀に乳管成分を含むことがあ る。",
+        "d": "悪性葉状腫瘍は高頻度でスピキュラを形成する。",
+        "e": "線維腺腫は臨床画像で癌に似た形態をとる。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）悪性葉状腫瘍はスピキュラを形成することはまずない。 （５）線維腺腫は臨床画像で稀に癌に似た形態をとることがあるが、似た形態ではな い。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "浸潤性乳管癌で乳管上皮成分が一番多いものは、腺管形成型である。",
+        "b": "硬性型は結合性が強いため、脂肪組織を巻き込むことは少ない。",
+        "c": "乳管内乳頭腫は乳腺症の一つである｡",
+        "d": "異型乳管過形成は両側乳房に及ぶ乳癌発生のリスクである。",
+        "e": "線維腺腫は上皮と間質の両方が増殖する病変である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）硬癌は結合性が強いため脂肪組織を巻き込むことが多い。 （３）乳管乳頭腫症は乳腺症の一つである｡ ※浸潤性乳管癌"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "石灰化について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳腺症は分泌型の石灰化を伴う。",
+        "b": "篩状型は壊死型の石灰化を呈する。",
+        "c": "多形成不均一の石灰化を伴う DCIS は高悪性度である。",
+        "d": "異栄養性石灰化は明らかな良性の石灰化である。",
+        "e": "淡く不明瞭な石灰化は分泌型の石灰化である。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）篩状(cribriform pattern)型は分泌型の石灰化を呈する。 （３）多形成不均一の石灰化を伴う DCIS は低～中悪性度である。 ※篩状パターン：篩状構造(cribriform pattern)"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳管内癌、非浸潤性乳管癌、DCIS は同義語で、Tis に分類される。",
+        "b": "腋窩リンパ節に癌が浸潤している場合、非定形乳房切除術が行われる。",
+        "c": "センチネルリンパ節は X 線透視下では確認できない。",
+        "d": "20 ～ 30 歳代で触診、画像上で境界明瞭な腫瘤があった場合、線維腺腫を考え て針生検はせずに経過観察で良い。",
+        "e": "胸筋温存乳房切除術には大小胸筋を温存する Patey 法と大胸筋のみを温存する Aush-incloss 法がある。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）20 ～ 30 歳代で触診、画像上で境界明瞭な腫瘤があった場合、悪性の可能性も あるので、針生検を行った上で経過観察するのか判断する。 （５）胸筋温存乳房切除術には大小胸筋を温存する Aushincloss 法と大胸筋のみを温存"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "吸収端とはエネルギーが急に不連続になることである。",
+        "b": "Mo と W は特性 X 線のみ発生させる。",
+        "c": "同じ管電圧では Mo/Mo より Mo/Rh のほうが mAs 値が少ない。",
+        "d": "特性 X 線エネルギーはターゲット物質により決まり、フィルターには関係な い。",
+        "e": "実効焦点はＸ線管軸に垂直に下ろした位置である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（２）Mo と W は連続 X 線からなる混合 X 線を利用している。 ※実焦点 加速された電子がターゲットに衝突し、エックス線が発生する部分(長方形)。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "MMG 装置について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "胸壁側は乳頭側より半価層が大きく濃度が高い。",
+        "b": "焦点サイズが 0.3 ㎜の時の管軸方向は、0.65 ㎜以下である。",
+        "c": "AEC は半導体検出器が主流である。",
+        "d": "AEC は大きさが変わっても精度は同じである。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）胸壁側は乳頭側より半価層が小さく濃度が高い。 （５）AEC は大きさで精度が変わる。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "線吸収係数は乳腺組織より乳癌の方が大きい。",
+        "b": "写真濃度が 0.3 増加するごとに透過光量が 1/2 になる。",
+        "c": "同じ乳房の厚さにおいて管電圧を変えずに mAs 値を大きくすると、コントラ ストも大きくなる。",
+        "d": "乳房用フィルムは感光系の緑色を使用する。",
+        "e": "蛍光体をバックにするのは感度と鮮鋭度を高くするためである。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（３）焦点の大きさ、撮影距離、管電流、撮影時間はコントラストに影響しない因子 である。 ※蛍光体をバックにするのは感度と鮮鋭度を高くするためである(講習会で説明)。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "直接、間接変換方式 FPD について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "直接および間接変換では TFT を使用する。",
+        "b": "a-Se は結晶質、a-Si は非晶質である。",
+        "c": "両者とも電荷に変換している。"
+      },
+      "correctAnswer": "b",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）間接変換方式 FPD のシンチレータ(CsI)は柱状結晶の構造である。 （３）a-Se、a-Si ともに非晶質である。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "被写体コントラストの因子であるのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線減弱係数",
+        "b": "管電流",
+        "c": "被写体の厚さ",
+        "d": "焦点の大きさ",
+        "e": "増感紙"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "※被写体コントラストの影響因子 被写体の厚さ、線減弱係数、造影剤の使用、散乱線の有無。 ※被写体コントラストに影響しない因子"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳房構造を記載するのは乳腺への隠れやすさを表すためである。",
+        "b": "不均一高濃度は乳腺濃度が 40 ～ 50 ％程度である。",
+        "c": "カテゴリー N とは読影不能のことである。",
+        "d": "乳癌取扱い規約で乳頭は E、乳輪は E ´である。",
+        "e": "腫瘤の辺縁が一部乳腺と重なり、全周が終えなかったため評価困難とした。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）不均一高濃度は脂肪濃度が 40 ～ 50 ％程度である。 （４）乳癌取扱い規約では乳頭は E ´、乳輪は E である。 ※乳癌取扱い規約での部位"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌になるのは 40 歳代後半より 60 歳代の方が多い。",
+        "b": "乳癌検診は指針として MMG とエコーを検診ですることを推奨している。",
+        "c": "乳癌検診では豊胸術者は 80N までしか圧迫してはいけない。",
+        "d": "米国は乳癌の発生率は増えているが、死亡率は下がっている。",
+        "e": "ペースメーカーの人も積極的に乳癌検診をうけるべきである。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）乳癌検診では豊胸術者は適応外である。 （５）乳癌検診ではペースメーカーの人は適応外である。 ※乳癌検診"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "構築の乱れで高濃度を認めたのでカテゴリー 5 とした。",
+        "b": "ポップコーン状石灰化をカテゴリー 2 とした。",
+        "c": "非対称性リンパ節で腫大を認めないのでカテゴリー 1 とした。",
+        "d": "過誤腫をカテゴリー 2 とした。",
+        "e": "腋窩リンパ節、乳房リンパ節で悪性を疑うものをカテゴリー 4 とした。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）構築の乱れがあり、手術瘢痕に一致するものをカテゴリー 2、手術瘢痕のない ものはカテゴリー 4 とする。 （５）腋窩リンパ節、乳房リンパ節で悪性を疑うリンパ節を認めるものをカテゴリー"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "MLO 撮影について誤っているのはどれか。",
+      "choices": {
+        "a": "C 領域は通常乳頭より上に見える。",
+        "b": "常に一定の角度にする必要はない。",
+        "c": "腹部が入っていても十分に乳腺が前方に伸ばせないことがある。",
+        "d": "大胸筋を入れすぎると乳腺の圧迫が不十分になることがある。",
+        "e": "大胸筋が乳頭の位置まで入っていると前方に十分に乳腺を引き出しているとい える。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "image_reading"
+      ],
+      "explanation": "（５）（× or △相対的判断）大胸筋が乳頭の位置まで入っていても、上方前方へ十分 に引き出さないと十分引き出しているとはいえない。高濃度乳房など十分引き 出せないことがある。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "CC 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "両手を使って乳腺を十分に引き出す。",
+        "b": "正対より非検側に向かせる。",
+        "c": "支持台を高くすると乳房下部がブラインドエリアとなりやすい。",
+        "d": "ML と組み合わせることで病変の位置が把握できる。",
+        "e": "CC 撮影でもしっかり外側が入るようにする。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）CC では片手を使って乳腺を十分に引き出す。 （２）被験者を撮影台に向かって正面に立たせる。正対より非検側に向かせると、内側 が欠ける。"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "拡大スポット撮影は密着スポット撮影に比べてコントラストが良い。",
+        "b": "スポット撮影は散乱線の減少によりコントラストや分解能が良くなる。",
+        "c": "石灰化や辺縁を描出するのに拡大スポット撮影が最適である。",
+        "d": "圧迫は 100 ～ 140N を目安とする。",
+        "e": "乳房圧 6 ㎝を超える人を撮影する時、Rh/Rh フィルターを使用する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading"
+      ],
+      "explanation": "（１）拡大スポット撮影は密着スポット撮影に比べてコントラストは悪い。 ※マンモグラフィ乳房圧迫圧 文献では 80 ～ 120N、100 ～ 140N、100 ～ 150N、「耐えられる最大の圧迫」と記載されて"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "濃度計は精度± 0.02、0 ～ 4.0 以上測定できるものが望ましい。",
+        "b": "濃度測定では拡散濃度計を使用する。",
+        "c": "乳腺後領域の濃度も 1.2 ～ 1.59 にする必要がある。",
+        "d": "デジタルマンモグラフィでは写真 1 枚につき 3mGy を超えてはならない。",
+        "e": "圧迫厚の表示精度は圧迫圧 100 ～ 120N のとき± 5 ㎜以内である。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）乳腺濃度は乳腺実質の最も高い(乳腺密度の高い)部分の写真(光学)濃度で、臨 床画像上では乳腺実質内の最も低い(白い)部分を光学濃度計で測定することに より評価できる。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "6 ヶ月に一度行う品質管理項目はどれか。2 つ選べ。",
+      "choices": {
+        "a": "圧迫板の確認",
+        "b": "プリンタの管理",
+        "c": "アーチファクトの評価"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）明室フィルム交換機の清掃(挿入口など)：毎日 （４）明室フィルム交換機の清掃(内部)：1 ヶ月毎 （５）アーチファクトの評価：１年毎"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "デジタルマンモグラフィ精度管理について誤っているのはどれか。",
+      "choices": {
+        "a": "CNR は関心領域と背景画像の平均画素値の差を背景画像の画素値の標準偏差 で除したものである。",
+        "b": "ダイナミックレンジにはステップウェッジ状の PMMA ファントムを使用する。",
+        "c": "画像歪みの確認は線形 0.5 ㎜以上、4 メッシュ以上の金網を使用する。",
+        "d": "外部濃度階調の確認は必ず階調確認用のステップウェジパターンを使用する。",
+        "e": "モニタの管理は操作モニターのみを管理すれば良い。"
+      },
+      "correctAnswer": "e",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（５）モニタの管理は読影用モニタも管理しなければならない。",
+      "image": "mammo/jitsuryoku/18/q19.png"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "ファントム画像評価について誤っているのはどれか。2 つ選べ。 ①乳頭側 ②ファントム中心 ③アクリル円板 ④胸壁側",
+      "choices": {
+        "a": "石灰化は拡大鏡で観察する。",
+        "b": "④より①の方が濃度が高い。",
+        "c": "③と④で 0.41 あるので基準を満たし ている。",
+        "d": "濃度は②で測定する。",
+        "e": "この評価の仕方は間違っている。 156 ファントム"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）①より④の方が濃度が高い。 （３）②と③で濃度測定する。 ※②と③で濃度測定しなければならない。"
+    }
+  ]
+}

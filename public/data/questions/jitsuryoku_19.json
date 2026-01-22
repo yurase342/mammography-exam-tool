@@ -1,0 +1,443 @@
+{
+  "examNumber": 19,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "19",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "嚢胞内乳頭腫は良性の上皮性腫瘍である。",
+        "b": "早期乳癌は大きさに関係なく、乳管内に留まったものをいう。",
+        "c": "女性化乳房は腫瘍様病変に含まれる。",
+        "d": "腫瘤があり、痛みを伴う場合、良性であることが稀である。",
+        "e": "浸潤癌の乳管内進展は少なくはない。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）早期乳癌は大きさが 2 ㎝以下でリンパ節転移がなく、遠隔転移のない場合をい う。非浸潤癌やパジェット病も含まれる。 （４）腫瘤があり痛みを伴う場合、良性の方が多い。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳管内乳頭腫が末端部にできることは少なくはない。",
+        "b": "葉状腫瘍は増大すると皮膚浸潤がみられる。",
+        "c": "粘液癌は特殊型の中でも発生頻度が少ない。",
+        "d": "乳癌で骨、軟化を伴うものは悪性度が高い。",
+        "e": "DCIS で中心に壊死性石灰化がある場合、栄養血管はほとんどみられない。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）葉状腫瘍は皮膚・胸筋への腫瘍性浸潤はみられない。 （３）特殊型で発生頻度がやや高いのは粘液癌、髄様癌、浸潤性小葉癌である。 ※乳管内乳頭腫"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "CR システムで粒状性が悪かった。粒状性に関係のないのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "量子モトル",
+        "b": "検出器の構造ノイズ",
+        "c": "散乱線",
+        "d": "撮影距離",
+        "e": "光量子ノイズ"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）散乱線：粒状性とは無関係。 （４）撮影距離：粒状性とは無関係。 ※ CR システムにおける画像粒状性の支配因子"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "潜像退行について誤っているのはどれか。",
+      "choices": {
+        "a": "経過時間約 4 時間で、約 10 ～ 15 ％のフィルムの感度が低下する。",
+        "b": "露光後フィルムの保存状態に影響を与える。",
+        "c": "現像温度が高いほど多くみられる。",
+        "d": "フィルムの種類には影響を与えない。",
+        "e": "撮影してから現像までに数分で濃度低下をきたすことがある。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（４）フィルムの種類にも影響される。 ※潜像退行 フィルム乳剤中につくられた潜像が経時変化によって現像後のフィルム濃度が照射直後の"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "Ｘ線写真コントラストを改善する方法について誤っているのはどれか。",
+      "choices": {
+        "a": "ガンマの低いフィルムを用いる。",
+        "b": "付加フィルタを薄くする。",
+        "c": "管電圧を低くする。",
+        "d": "高グリッド比のグリッドを用いる。",
+        "e": "可動絞りで撮影範囲をできるだけ絞り込む。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（１）ガンマの高いフィルムを用いる。 ※Ｘ線写真コントラストを改善する方法 ・付加フィルタを薄くする。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "ピックオフの原因について誤っているのはどれか。",
+      "choices": {
+        "a": "進行速度が一定でない。",
+        "b": "ローラの表面が滑らかでない。",
+        "c": "両面乳剤フィルムの場合に多く発生する。",
+        "d": "処理液の活性が低い。",
+        "e": "給水の水道管からの鉄サビなどの異物。"
+      },
+      "correctAnswer": "c",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "explanation": "（３）片面乳剤フィルムの場合に多く発生する。 ※ピックオフマーク ピックオフマークはフィルム上の非常に小さい明るい点でフィルムベースから乳剤が剥が"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "写真濃度 0.3 とは透過光が入射光の 50 ％になる場合の濃度である。",
+        "b": "増感紙の蛍光体は硫化ガドリニウムを使っている。",
+        "c": "コントラストが高くなると粒状性と鮮鋭度は悪くなる。",
+        "d": "グリッドによるコントラスト改善係数は、乳房厚が増すと大きくなる。",
+        "e": "照射野の大きさは散乱線含有率に影響される。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）コントラストが高くなると鮮鋭度は良くなるが、粒状性は悪くなる。 （４）グリッドによるコントラスト改善係数は乳房厚が増すと小さくなる。 ※写真濃度 0.3"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "Mo、Rh の原子番号は 42、45 である。",
+        "b": "間接変換方式 DR はシンチレータを用い、X 線を一度光に変換する。",
+        "c": "焦点はターゲットから垂直に下ろした面積である。",
+        "d": "階調数 N とビット M の関係式は 2 の M 乗である。",
+        "e": "粒状性が良いとノイズが多い。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）実効焦点はターゲットから垂直に下ろした面積である。 （５）粒状性が良いとノイズが少ない。 ※ Mo、Rh の原子番号"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "次のうち誤っているのはどれか。 （１）日本女性の癌(粗)死亡率は第 1 位が胃癌、2 位が乳癌である。",
+      "choices": {
+        "a": "出産回数が少ないほど乳癌に罹りやすい。",
+        "b": "日本女性の年齢調整死亡率は乳癌が第 1 位である。",
+        "c": "壮年期の癌死亡率は乳癌が第 1 位である。",
+        "d": "わが国の癌年齢調整罹患率は乳癌が第 1 位である。"
+      },
+      "correctAnswer": "c",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（３）日本女性の年齢調整死亡率は乳癌が第 5 位である。 ※日本女性の癌(粗)死亡率 ・第 1 位が胃癌、2 位が乳癌である。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ポジショニングを行うときは可動性組織を固定組織に移動する。",
+        "b": "乳房の可動組織は外側と下部で、内側と上部は固定組織である。",
+        "c": "圧迫は 100 ～ 140N を目安とする。",
+        "d": "CC 方向では MLO に比べて乳腺の伸びが悪いため、圧迫板で伸ばす。",
+        "e": "MLO 撮影において圧迫板は可動性組織から固定組織へ圧迫していく。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）CC 方向では乳房を手で伸ばすように押さえ、圧迫板で伸ばしていく。 （５）MLO 撮影において圧迫板は固定領域から可動領域にかけて圧迫していく。 ※ポジショニング"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "MMG 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "CC 撮影では受診者の背後から両手を使って乳腺を十分に引き出す。",
+        "b": "MLO 撮影で大胸筋が入りすぎると乳腺部分の圧迫が不十分となる。",
+        "c": "MLO 撮影では手で先に乳房を押さえて乳腺を広げてから圧迫板で圧迫する。",
+        "d": "以前撮影した写真がある場合、それを見て AEC の位置を合わせる。",
+        "e": "石灰乳石灰化は CC 方向で tea cup サインを呈する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）CC 撮影では背後からではなく、非検側横前から片手で乳腺を十分に引き出す。 （５）石灰乳石灰化は MLO、ML 方向で tea cup サインを呈する。 ※ MLO 撮影"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "拡大撮影は通常の撮影より鮮鋭度が良い。",
+        "b": "接線撮影は乳房の中心にあるものに適している。",
+        "c": "スポット撮影は散乱線の減少によりコントラスト、分解能が良くなる。",
+        "d": "デジタルシステムでは腫瘤性病変にも拡大スポット撮影を行う。",
+        "e": "LMO 撮影は小さな乳房の撮影や男性乳房の撮影に適している。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "pathology",
+        "digital_imaging"
+      ],
+      "explanation": "（２）接線撮影は乳房の中心にあるものは不適であるが、腫瘤を引き出して撮影する ことで施行可能である。 ※拡大撮影"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "マンモグラフィの小焦点は 0.15 × 0.15 ㎜である。",
+        "b": "脂肪性乳房で 3 ㎝、コントラストをつけるため Rh フィルターを使う。",
+        "c": "乳房厚 6 ㎝を超える人を撮影する時、Rh/Rh フィルターを使用する。",
+        "d": "アナログシステムでは照射時間が 2 秒以下になるようにする。",
+        "e": "デジタルマンモグラフィでは線量を下げると濃度が下がる。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２） 3 ～ 5 ㎝の場合、26 ～ 28kVp で Mo/Mo が適切である。 （５）基本的に濃度は一定である。 ※マンモグラフィの小焦点"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。 （１）X 線フィルムを出力して濃度計測する際、ベース(支持体)側を受光面に向け る。",
+      "choices": {
+        "a": "CR は相反則不軌が気にならないので撮影時間を長くしても良い。",
+        "b": "増感紙の主発光色は緑色発光である",
+        "c": "皮膚の表面線量は平均乳腺線量の 2 ～ 3 倍である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）X 線フィルムを出力して濃度計測するときは乳剤側を受光面に向ける。 （２）相反則不軌が気にならないからといって撮影時間を長くしても良いわけではない。 ※相反則不軌"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "読影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "嚢胞内乳頭腫は境界明瞭な腫瘤像を示すため、カテゴリー 3 に分類する。",
+        "b": "脂肪の乳房の中に辺縁明瞭な腫瘤があり、カテゴリー 3 とした。",
+        "c": "微細分枝状石灰化の集族性をカテゴリー 5 とした。",
+        "d": "区域性に分布する中心透亮性石灰化が見られたのでカテゴリー 2 とした。",
+        "e": "両側にびまん性に多形成不均一な石灰化を認め、カテゴリー 2 とした。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）のう胞内乳頭腫は限定して、すべてカテゴリー 3 に分類するのではなく、ケー スによって画像状乳腺実質の少ない乳房において高濃度場合はカテゴリー 4 と することがある。"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "インバータ式装置について誤っているのはどれか。",
+      "choices": {
+        "a": "三相電源でも使用できる。",
+        "b": "単相電源でも同じような位相になる。",
+        "c": "周波数は数十 kHz は主流である。",
+        "d": "立ち上がり、立下りが早い。",
+        "e": "リプル率が大きい。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（５）リプル率が小さい。X 線装置の管電圧波形のリプル率 5 ％以下であることが必 要である(文献)。講習会では 4 ％以下と説明。 ※インバータ式装置"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "X 線装置の性能評価手順について正しいのはどれか。",
+      "choices": {
+        "a": "X 線出力→管電圧→線質→平均乳腺線量",
+        "b": "X 線出力→線質→平均乳腺線量→管電圧",
+        "c": "管電圧→線質→平均乳腺線量→ X 線出力",
+        "d": "管電圧→ X 線出力→線質→平均乳腺線量",
+        "e": "管電圧→ X 線出力→平均乳腺線量→線質"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "explanation": "（４）管電圧→ X 線出力→線質→平均乳腺線量：管電圧と出力の順番も、この通りじ ゃないと不正解。 ※ X 線装置の性能評価手順"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "ファントム画像評価について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線維の半分以上が見え、その位置と方向が正しければ 0.5 点とする。",
+        "b": "線維は半分以上見えたら 1 点とする。",
+        "c": "試料の描出は前回試験結果と 1 点以上の相違がないこと。",
+        "d": "腫瘤の濃度差として正しい位置で見えるが、円形の形状が不明瞭なとき 0.5 点 とする。"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）線維は半分以上見えたら 0.5 点とする。 （３）試料の描出は前回試験結果と 0.5 点以上の相違がないこと。 ※ファントム画像評価"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "AEC の性能評価について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "CR はハードコピーで評価する",
+        "b": "管理は 6 ヶ月毎に行う。",
+        "c": "DR は SNR を評価する。",
+        "d": "線量測定を行う。",
+        "e": "再現性の変動係数は 0.05 以下である。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）システム感度を用いて評価する。 （２）AEC の定期的な品質管理は 1 年ごとである。 ※ AEC の性能評価"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "SCTF の 4lp/㎜と 8lp/㎜では 4lp/㎜の値が小さい。",
+        "b": "CNR の線量値は積分してできる照射時間である。",
+        "c": "LCD はバックライトの輝度が上がると、最高輝度、最低輝度が同じ比率で上 がる。",
+        "d": "液晶モニタは GSTF を使う。",
+        "e": "位相コントラスト技術は被写体画像境界部分の X 線の屈折を利用したエッジ 効果を得る技術である。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（１）SCTF の 4lp/㎜と 8lp/㎜では 8lp/㎜の値が小さい。 ※ CNR の線量値 積分してできる照射時間である。"
+    }
+  ]
+}

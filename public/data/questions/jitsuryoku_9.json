@@ -1,0 +1,426 @@
+{
+  "examNumber": 9,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "9",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳管内乳頭腫のほとんどが非浸潤性癌になる。",
+        "b": "葉状腫瘍は皮膚に赤色の炎症が出てこない。",
+        "c": "異型乳管過形成は両側乳癌の危険因子である。",
+        "d": "硬化性腺症には間質の線維化がみられる。",
+        "e": "両側性の炎症性乳癌は極めて稀である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）乳管内乳頭腫は乳癌のリスク因子であるが、ほとんど非浸潤癌になるとは限ら ない。 （２）葉状腫瘍は皮膚に赤色の炎症が出てくる。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "鋳型状石灰化は非面疱型壊死によるものである。",
+        "b": "橙皮様、豚皮様変化は特にリンパ管浸潤した乳癌にみられる。",
+        "c": "腫瘤はマンモグラフィーより超音波検査の方が良い。",
+        "d": "腫瘤があり、痛みを伴う場合、良性の方が多い。",
+        "e": "異栄養石灰化は中心壊死を起こしているので血流が少ない。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（１）鋳型状石灰化は面疱型壊死によるものである。 ※鋳型状石灰化 高悪性度非浸潤性乳管癌(面疱型)特有の「鋳型状石灰化」(線状、分枝状石灰化)である。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "paget 病は MMG でも US でも検出困難である。",
+        "b": "腺管形成型は高分化な浸潤性乳管癌である。",
+        "c": "スピキュラを伴うもので最も多いのは硬癌である。",
+        "d": "粘液癌は US で後方エコーが特徴である。",
+        "e": "Fibroadenoma は閉経前より閉経後の方が発生頻度が高い。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（５）線維腺腫は一般的に若年(10 歳代後半から 30 歳代に多い)に発症するといわれ、 閉経後には頻度が少ないため、エストロゲンの影響が示唆されている。 ※ paget 病"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "皮膚の石灰化は悪性を否定できないことがある。",
+        "b": "センチネルリンパ節生検は TisN0M0、T1N0M0 に行う。",
+        "c": "予後を予測する上で組織学的リンパ節転移の個数を用いている。",
+        "d": "血性分泌物の起因は非浸潤性乳管癌がほとんどである。",
+        "e": "乳房皮膚の発赤では乳腺炎、乳輪下膿瘍などの炎症性疾患を第一に考える。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（４）血性分泌物の起因は乳頭腫(乳管内乳頭腫)がほとんどである。 ※皮膚の石灰化 皮膚の汗腺内に起こる石灰化であり、中心透亮性で集簇あるいは散在性で多角形または球"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌検診では特異度より感度を上げたほうが良い。",
+        "b": "豊胸術実施者は乳癌検診対象外である。",
+        "c": "乳癌健診で乳房の構成を記載するのは所見と関係があるからである。",
+        "d": "術後のマンモグラフィ検診は有用である。",
+        "e": "tea cup sign は MLO で楕円形の石灰化を示す。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）乳癌検診では特異度、感度ともに上げたほうが良い。 （５）tea cup sign は MLO で三日月状(半月状)の石灰化を示す。 ※豊胸術者への対応"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "AEC は乳頭部が入るようにする。",
+        "b": "CC 撮影は伸ばしにくいので、MLO 撮影より強く圧迫する。",
+        "c": "MLO 撮影での圧迫板は広背筋より前にある。",
+        "d": "拡大撮影とスポット撮影を組み合わせて行うと良い。",
+        "e": "XCC 撮影は乳房内側に重点を置いた撮影である。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（１）AEC の検出器は乳腺組織の中心(乳頭の後ろ側)に合わせる。 （２）一概にいえない。 （５）XCC 撮影は乳房外側に重点を置いた撮影である。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "標準撮影で外側が欠けた場合の追加撮影は XCC 撮影だけで良い。",
+        "b": "CC 撮影は背後からのアプローチが良い。",
+        "c": "ポジショニングで手で乳腺を広げて圧迫をしたら鮮鋭度が良くなる。",
+        "d": "触知不能である腫瘤に対してスポット撮影をするのは適切である。",
+        "e": "MLO 撮影は乳腺下部、腹部のところにシワができるのは体とホルダー に隙間があるため、隙間がなくなるように体を移動する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）追加撮影は XCC 撮影だけで良いわけではない。他に追加する場合がある。 （２）CC 撮影での背後からのアプローチは術者に不快感を与える。 ※ポジショニング"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っているのはどれか。 （１）ポジショニングを行うときは可動性組織を固定組織側に移動(圧迫)する。",
+      "choices": {
+        "a": "A 領域にある病変が MLO 撮影で乳頭より下側にくることがある。",
+        "b": "CC 撮影では MLO 撮影よりも広がりにくいため、圧迫板で広げて撮影する。",
+        "c": "A 領域の最適撮影法は SIO 撮影である。",
+        "d": "FB 撮影は上部に mass があるものに使用する。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（３）CC 撮影では手で引き伸ばし押さえながら圧迫板で圧迫する。 ※ポジショニング ・可動性組織を固定組織側に移動(圧迫)する。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "Mo/Mo、Mo/Rh、Rh/Rh について誤っているのはどれか。",
+      "choices": {
+        "a": "線質は Rh/Rh が一番硬い。",
+        "b": "Mo/Mo は Mo/Rh よりも R/s が小さい。",
+        "c": "管電圧によっては Rh/Rh より Mo/Rh の方が半価層が厚くなることがある。",
+        "d": "Mo/Rh よりも Mo/Mo の方がエックス線強度が大きい 。",
+        "e": "同じ管電圧で 1mAs 当たりの被ばく線量が最も多いのは Mo/Mo である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（２）Mo/Mo は Mo/Rh よりも R/s(線量率)が大きい。 ※線質 ・Mo/Mo → Mo/Rh → Rh/Rh → W/Rh の順に線質が硬くなる。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "マンモグラフィの画像コントラストに関係しないのはどれか。",
+      "choices": {
+        "a": "管電圧",
+        "b": "mAs 値",
+        "c": "ターゲット/フィルターの組み合わせ",
+        "d": "圧迫不良",
+        "e": "撮影距離"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（５）撮影距離：関係がない。 ※Ｘ線画像コントラストを改善する方法 ①管電圧を低くする(Ｘ線質)、②付加フィルタを薄くする(Ｘ線質)、③ガンマの高いフィ"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "デジタルについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "標本化とは濃度を離散した整数値へ変換する。",
+        "b": "CR の高線量域では X 線検出器の光量子モトルが支配的である。",
+        "c": "輝尽性蛍光体にはルミネッセンスピークがある。",
+        "d": "CR システムの輝尽性蛍光体には BaFI:Eu.2 ＋が使用されている。",
+        "e": "DQE はアナログとの対比、デジタル同士の評価に用いられる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）量子化とは濃度を離散した整数値へ変換する。 （２）CR の高線量域では X 線検出器の構造ノイズが支配的である。 ※輝尽性蛍光体"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "MMG 撮影機器について誤っているのはどれか。",
+      "choices": {
+        "a": "拡大撮影では密着撮影に比べて解像度が良い。",
+        "b": "管電圧は 25 ～ 32kV で 1kV 以下の設定ができること。",
+        "c": "電動式の圧迫機構では最大 200 Ｎとする。",
+        "d": "焦点サイズの公称値は 0.1 ㎜と 0.3 ㎜である。",
+        "e": "0.8 ～ 1.0 ㎜厚の Be 窓は唯一の固有ろ過である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）拡大撮影では密着撮影に比べて解像度が悪い。 ※ MMG 撮影機器 ・管電圧は 25 ～ 32kV で 1kV 以下の設定ができること。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "MMG のターゲット/フィルターの組み合わせのうち、使用されないのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "Mo/Mo",
+        "b": "Mo/Rh",
+        "c": "Rh/Mo",
+        "d": "Rh/Rh",
+        "e": "W/Al"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）Rh/Mo：MMG には適さない。 （５）W/Al ：MMG には適さない。 ※最近の問題では 1 つ選べ。この場合、正解：Rh/Mo"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "半価層が大きくなると実効エネルギーが小さくなる。",
+        "b": "マンモグラフィでは相反則不軌がないので長時間撮影しても画像が悪化しない。",
+        "c": "相対露光量が log0.15 のとき、1 ステップの相対露光量は√ 2 倍になる。",
+        "d": "粒状性で一番関係しているのは量子モトルである。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）X 線の線質は半価層で表示したり、半価層値から換算して求めた実効エネルギー (keV)で表示される。したがって、半価層が大きくなると実効エネルギーも大きく なる。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "画像表示システムとは液晶モニタを対象とし、GSDF をモニタ上に描出できる システムのことである。",
+        "b": "ADG はマンモグラフィにおける被ばくによるリスク評価できない。",
+        "c": "グレースケールとは白と黒、灰色だけの表現方法で色情報を含まない。",
+        "d": "LCD は液晶モニタである。",
+        "e": "モニタ管理は毎日、拡大率、ウインドウ幅、レベルを一定にしておく必要があ る。"
+      },
+      "correctAnswer": "b",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（２）ADG はマンモグラフィにおける被ばくによるリスク評価に最も用いられている 数値である。 ※画像表示システム"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "ファントム画像評価(S/F)について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "各試料の評価は大きいものから始め、得点が 0 または 0.5 点で止め、それ以上 は評価しない。",
+        "b": "線維は半分以上見えたら 0.5 点とする。",
+        "c": "石灰化は 2 ～ 3 個見えたら 0.5 点とする。",
+        "d": "試料の描出は前回試験結果と 1 点以上の相違がないこと。",
+        "e": "各試料の得点を合わせた総合得点のみで判定する。"
+      },
+      "correctAnswer": "d",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）試料の描出は前回試験結果と 0.5 点以上の相違がないこと。 （５）各試料の得点を合わせた総合得点のみで判定しない。 ※ファントム画像評価(S/F)"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "品質管理について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "シャウカステンの管理：1 ヵ月毎",
+        "b": "S/F の密着性：1 年毎",
+        "c": "暗室内のカブリ：6 ヵ月毎",
+        "d": "X 線装置の評価：1 年毎",
+        "e": "システムの評価：1 年毎"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）シャウカステンの管理：6 ヵ月毎 （２）S/F の密着性：6 ヵ月毎 ※定期管理"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "管電圧の精度と再現性について誤っているのはどれか。",
+      "choices": {
+        "a": "X 線照射野モードをマニュアルにする。",
+        "b": "臨床で多用する管電圧と臨床で用いる最大管電圧および最小管電圧で実施する。",
+        "c": "大焦点を使用する。",
+        "d": "設定管電圧 24 ～ 32kV の場合の管電圧の表示精度は± 10 ％以内である。",
+        "e": "管電圧の再現性の変動係数は 0.02 以下である。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（４）設定管電圧 24 ～ 32kV の場合の管電圧の表示精度は± 5 ％以内である。 ※管電圧の精度と再現性(1 年ごと実施) ・マンモグラフィの管電圧の範囲内において、精度± 2 ％以内(または± 0.7kV 以内)以内の"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "AEC 作動時の AGD の確認について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "圧迫板なしの半価層を使用する。",
+        "b": "線量計検出器の実効中心を胸壁から 60 ㎜のところに置く。",
+        "c": "線量計検出器の実効中心は乳房支持台から高さ 40 ㎜のところに置く。",
+        "d": "AEC を作動させて、X 線照射しなくても良い。",
+        "e": "PMMA 厚 40 ㎜においてグリッド有りの場合、3mGy 以下とする。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）圧迫板ありの半価層を使用する。 （４）臨床に使う照射モードを選択し、AEC を作動させて X 線照射する。 ※ AEC 作動時の AGD の確認"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "IEC による AEC 作動時の平均乳腺線量(AGD)について誤っているのはどれか。",
+      "choices": {
+        "a": "PMMA 厚が大きくなるほど係数 g の値は小さくなる。",
+        "b": "Mo/Mo の係数 s の値は 1 である。",
+        "c": "Mo/Rh の係数 s の値は 1 より小さい。",
+        "d": "HVL の測定値が大きくなるほど係数 g の値は大きくなる。",
+        "e": "乳腺量 50 ％から異なる乳腺量を補正する係数は 1 とする。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "explanation": "（３）Mo/Rh の係数 s の値は 1 より大きい。 ※ IEC による AEC 作動時の平均乳腺線量(AGD)を求める関係式(Dance の式) 次式に従い、平均乳腺線量 AGD を算出する。"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "examNumber": 9,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "9",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "乳腺は 5 ～ 10 個の腺葉からなる。",
+        "b": "壊死型石灰化は良性でもしばしばある。",
+        "c": "過誤腫のような混合性腫瘍は脂肪濃度を含むとは表現しない。",
+        "d": "カテゴリーは形状、辺縁、内部構造を考慮して決定する。",
+        "e": "乳房を構成しているのは乳腺、脂肪組織、結合組織、皮膚である。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（１）乳腺組織は 15 ～ 25 個の乳腺葉に分かれる。乳腺は通常 20 個前後の腺房からな り、乳汁を通す役目の乳管と乳汁を産生する小葉により構成される。 （２）壊死型石灰化は壊死した癌細胞に石灰沈着したもので、良性にはみられない。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "散乱 X 線によって画像のコントラストが低下する。",
+        "b": "画像のコントラストは撮影時の X 線エネルギーに依存する。",
+        "c": "大焦点の X 線管を使った場合、幾何学的半影は小さくなる。",
+        "d": "X 線管焦点-被検体間距離を離せばヒール効果は大きくなる。",
+        "e": "被検体と検出器の距離が離れると幾何学的半影は大きくなる。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）大焦点の X 線管を使った場合、幾何学的半影は大きくなる。 （４）X 線管焦点-被検体間距離を離せばヒール効果は小さくなる。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "X 線画像の粒状性について正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "散乱線が増えると向上する。",
+        "b": "受像システムの MTF が大きい方が悪くなる。",
+        "c": "ウィナースペクトルの値が大きくなると良くなる。",
+        "d": "受像システムのグラジエント G が大きいと良くなる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）撮影時の X 線量(X 線量子数)が増えると向上する。 （４）ウィナースペクトルの値が大きくなると悪くなる。 （５）受像システムのグラジエント G が大きいと悪くなる。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "標本化間隔が小さい画像は空間分解能が高い。",
+        "b": "標本化が狭いとナイキスト周波数は低くなる。",
+        "c": "エリアシング誤差は標本化によって生じる。",
+        "d": "ディジタル化は先に標本化してから量子化する。",
+        "e": "量子モトルは量子数の統計的なゆらぎによるノイズ成分である。"
+      },
+      "correctAnswer": "b",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（２）標本化が狭いとナイキスト周波数は高くなる。 ※エリアシング誤差 標本化によって生じる。ナイキスト周波数よりも高い空間周波数成分が低い空間周波数成"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "ディジタル X 線画像コントラストについて正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "X 線管電流はコントラストに大きな影響を与える。",
+        "b": "被写体の厚さは被写体コントラストに影響を与える。",
+        "c": "散乱線はその含有率が増えればコントラストを向上させる。",
+        "d": "デジタル特性曲線の階調度は画像のコントラストに影響を与える。",
+        "e": "階調処理を用いた LUT の階調は処理画像のコントラストに影響を与えない。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（１）X 線管電流はコントラストに大きな影響を与えない。 （３）散乱線はその含有率が増えればコントラストを低下させる。 （５）階調処理を用いた LUT の階調は処理画像のコントラストに影響を与える。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "粒状性に関係ないのはどれか。すべて選べ。",
+      "choices": {
+        "a": "焦点",
+        "b": "mAs 値",
+        "c": "量子モトル",
+        "d": "構造モトル",
+        "e": "付加フィルター"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（５）付加フィルター：コントラストに関係する。 ※粒状性に関係する因子 X 線光子数(線量：管電流)、検出器の構造。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "WHO では浸潤癌は 3 型に分類される。",
+        "b": "WHO では浸潤性乳管癌は 3 つに分類される。",
+        "c": "乳管内乳頭腫は非上皮性腫瘍である。",
+        "d": "浸潤性乳癌は乳管成分を含まない。",
+        "e": "脂肪を含まず境界明瞭な疾患には線維線腫と葉状腫瘍がある。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（２）WHO では浸潤性乳管癌は分類されない。 （３）乳管内乳頭腫は上皮性腫瘍である。 （４）浸潤性乳癌は乳管成分を含む。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "カブリが高いとコントラストは良くなる。",
+        "b": "MMG スクリーンは X 線が当たると緑色になる。",
+        "c": "AEC は線量率を微分してタイマーを計算している。",
+        "d": "オルソフィルムはレギュラーに比べて変換効率が高い。",
+        "e": "X 線エネルギーが高いほど被写体コントラストは小さくなる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）カブリが高いとコントラストは悪くなる。 （３）AEC は線量率を積分してタイマーを計算している。 ※ AEC"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "拡大撮影は焦点皮膚間距離が 40 ㎝以上が許容される。",
+        "b": "スポット撮影は乳腺全体撮影よりコントラストが良い。",
+        "c": "標準撮影で良悪の判定つかない石灰化に拡大撮影を追加した。",
+        "d": "接線撮影は乳腺の重なり部分に病変がある場合に適している。",
+        "e": "ML 撮影で下、CC 撮影で乳頭より内側に見えるのは C 領域である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）拡大撮影は焦点皮膚間距離が 20 ㎝以上が許容される。 （５）ML 撮影で下、CC 撮影で乳頭より内側に見えるのは B 領域である。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "誤っているのはどれか。すべて選べ。 （１）Stage0 は Tis(非浸潤癌)、N0、M0 である。",
+      "choices": {
+        "a": "高濃度乳房と高脂肪食は乳癌リスク因子である。",
+        "b": "葉状腫瘍と線維腺腫は手術の適応となる疾患である。",
+        "c": "微小浸潤癌は間質浸潤の大きさが 1 ㎜以下のものである。",
+        "d": "薬物療法には内分泌治療、化学療法、分子標的治療がある。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）高脂肪食は乳癌リスク因子ではない。閉経前後に関わらず総脂肪摂取の増加が乳 癌発症リスクを増加させるかどうかは結論付けられない。 （３）線維腺腫は手術は原則的には不要であり、閉経とともに退縮するのが一般的であ"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "血性の分泌物は乳癌の可能性が高い。",
+        "b": "Tis には浸潤を伴わない Paget 病は含まれない。",
+        "c": "Paget 病の予後は随伴する乳癌の有無と病期に依存する。",
+        "d": "遠隔転移しているものは T に関係なくステージⅢである。",
+        "e": "臨床においては“領域”という言葉をリンパ節に使用している。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）血性の分泌物は乳癌の可能性は低い。血性分泌物の最も多いのは乳管内乳頭腫であ る。単孔性の場合、90 ％以上が良性である。 （２）Tis には浸潤を伴わない Paget 病が含まれる。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "管電圧の表示精度は± 10 ％以下である。",
+        "b": "スポット撮影では画像のコントラストが向上する。",
+        "c": "焦点サイズ大きい程、鮮鋭度が良くなる。",
+        "d": "皮膚の吸収線量は乳腺の吸収線量の 2 ～ 3 倍である。",
+        "e": "ダイナミックレンジはスキンライン付近の乳房情報を取得できているか確認す る。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）設定管電圧 24 ～ 32kV の表示精度は± 5 ％以内。 （３）焦点サイズ大きい程、鮮鋭度が悪くなる。 （４）皮膚入射面吸収線量は平均乳腺線量は約 5 倍との報告。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "連続 X 線は制動放射である。",
+        "b": "リプル率が大きいと別の装置でも出力が小さい。",
+        "c": "濃度分解能はアナログよりデジタルのほうが良い。",
+        "d": "ウインドウ幅を狭くするとコントラストは上がる。",
+        "e": "インバータ式装置は立ち上がりと立下りの 75 ％の部分を撮影に使用している。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（３）濃度分解能はアナログよりデジタルのほうが悪い。 ※連続 X 線 X 線管中の加速された電子が対陰極内で運動エネルギーを失う際の制動放射である。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "日本の乳癌検診について誤っているはそれか。すべて選べ。 （１）乳がん健診受診率は約 47 ％(2019 年)である。",
+      "choices": {
+        "a": "対策型検診は有効性が確立されている。",
+        "b": "局部療法と全身療法により死亡率が減少している。",
+        "c": "住民健診は個人対象のためガイドラインが確立されていない。",
+        "d": "乳がん検診は MMG が原則であり、視触診は省いても良い。"
+      },
+      "correctAnswer": "d",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（４）住民健診は国が主体なのでガイドラインがある。 ・乳癌検診受診率 47.4 ％(2019 年：40 ～ 69 歳)"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "関係のないのはどれか。すべて選べ。",
+      "choices": {
+        "a": "間接変換－ a-Se",
+        "b": "輝尽蛍光体－ CR",
+        "c": "量子化－濃度分解能",
+        "d": "標本化－空間分解能",
+        "e": "ヒストグラム－度数分布"
+      },
+      "correctAnswer": "a",
+      "category": "image_reading",
+      "categories": [
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（１）間接変換－ a-Si ※ヒストグラム 縦軸に度数、横軸に階級をとった統計グラフの一種で、データの分布状況を視覚的に認識"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "MMG 用グリッドについて正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "直線グリッドである。",
+        "b": "DR は静止グリッドである。",
+        "c": "中間物質はアルミである。",
+        "d": "グリッド比は 8：1 ～ 12：1 である",
+        "e": "グリッド比とは鉛泊の高さを鉛泊の間隔で除した値である。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（２）リニア(移動型)グリッドを使用している。 （３）中間物質はファイバ(紙)、エアギャップである。 （４）グリッド比は 4：1 または 5：1 のものが使用されている。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "X 線管公称管電圧は波高値、kV である。",
+        "b": "管電圧の表示精度は± 10 ％である。",
+        "c": "管電流時間積の表示精度は± 10 ％＋ 0.2mAs である。",
+        "d": "X 線出力の直線性は 0.05 である。",
+        "e": "X 線出力の再現性の変動係数は 0.02 である。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（２）管電圧の表示精度は設定管電圧 24 ～ 32kV の表示精度は± 5 ％以内。上記以外の管 電圧の表示精度は± 10 ％以内。 （４）X 線出力の直線性の確認は、次式から求める。mAs 値あたりの線量を X1 および"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "サンプリングは空間分解能に影響しない。",
+        "b": "乳腺組織は乳癌腫瘤より線吸収係数が大きい。",
+        "c": "特性曲線はわずかな露光量の変化が出力に影響しない。",
+        "d": "X 線管は放射口以外は絶縁と冷却のため、油で覆われている。",
+        "e": "管電圧波形の立ち上がりと立下り部の管電圧の 75 ％が撮影時間である。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "pathology",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（１）サンプリングは空間分解能に影響する。 （２）乳腺組織は乳癌腫瘤より線吸収係数が小さい。 （３）特性曲線はわずかな露光量の変化が出力に影響する。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "過誤腫は良悪性の鑑別が必要である。",
+        "b": "硬化性腺症は小葉内に間質浸潤をする。",
+        "c": "温存療法後に梁柱の肥厚を生じた。",
+        "d": "非浸潤癌の約 10 ％は非浸潤性小葉癌である。",
+        "e": "小葉は母乳をつくり、間質は乳房の形を支える役目がある。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）過誤腫は良悪性の鑑別は不要である。 （３）温存療法後に梁柱の肥厚は生じない。 （４）非浸潤癌の 0.1 ％は非浸潤性小葉癌である。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "モニタの定期管理で目視評価を行うのはどれか。すべて選べ。",
+      "choices": {
+        "a": "階調確認",
+        "b": "コントラスト応答特性",
+        "c": "輝度均一性試験",
+        "d": "グレースケール",
+        "e": "最大輝度および最低輝度"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）輝度均一性試験：目視評価 （４）グレースケール：目視評価 ※モニタの目視評価"
+    }
+  ]
+}

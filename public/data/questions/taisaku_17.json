@@ -1,0 +1,419 @@
+{
+  "examNumber": 17,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "17",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "特性 X 線に関係するのはどれか。",
+      "choices": {
+        "a": "クラマースの式",
+        "b": "モーズレーの法則",
+        "c": "メスパウワー効果",
+        "d": "ディエン・ハントの法則",
+        "e": "ガイガーヌッタルの法則"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（２）モーズレーの法則 ※モーズレイの法則 原子番号が高くなるほど特性 X 線波長が短くなることを確立した式である。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "インバータ式 X 線高圧装置について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "方形波形と共振形の 2 種類ある。",
+        "b": "電源は単相または 3 相が用いられる。",
+        "c": "AC-DC コンバータは一次電圧の調整を行う。",
+        "d": "DC-DC コンバータは電圧を平滑にする。",
+        "e": "ブリッジ整流回路を経て X 線管へ直流電圧を供給する。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）AC-DC コンバータは電圧を平滑にする。 （４）DC-DC コンバータは一次電圧の調整を行う。 ※インバータ式 X 線高圧装置"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "X 線管焦点について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "乳房撮影用 X 線管でのターゲット角は 7 ～ 20 °である。",
+        "b": "実焦点は陰極からの加速電子が衝突する面積である。",
+        "c": "実効焦点は中心 X 線束に沿って投影された焦点の大きさである。",
+        "d": "X 線焦点が小さいほどボケ像は小さく鮮鋭な画像が得られる。",
+        "e": "ターゲット角が小さいと実焦点面積に対し実効焦点面積が大きくなる。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（５）ターゲット角が小さいと実焦点面積に対し実効焦点面積が小さくなる。 ※ターゲット角と焦点サイズ ターゲット角は実焦点面と基準軸とがなす角度として定義されている。診断用 X 線管に"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "Ｘ線出力について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線質は X 線の透過力を示し、半価層によって表示される。",
+        "b": "流量は X 線束中で単位面積当たりの光子数を示している。",
+        "c": "照射線量は X エネルギー流量に比例して X 線強度を示している。",
+        "d": "管電圧は特性 X 線スペクトルにおいて最大エネルギーを決定する。",
+        "e": "X 線撮影領域に置いて出力照射線量はほぼ管電圧の 3 乗に比例する。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）管電圧は制動 X 線スペクトルにおいて最大エネルギーを決定する。 （５）X 線撮影領域に置いて X 線出力照射線量 kv はほぼ管電圧の 2 乗に比例する。 ※ X 線出力の諸因子"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "短時間許容負荷を大きくする因子として正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "陽極角度を小さくする。",
+        "b": "実焦点面積を大きくする。",
+        "c": "陽極の回転数を小さくする。",
+        "d": "管電圧波形のリプル率を大きくする。",
+        "e": "ターゲットの回転軌道直径を小さくする。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）陽極の回転数を大きくする。 （４）管電圧波形のリプル率を小さくする。 （５）ターゲットの回転軌道直径を大きくする。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "鮮鋭度に一番影響しない因子はどれか。",
+      "choices": {
+        "a": "散乱線",
+        "b": "乳剤層",
+        "c": "被写体厚",
+        "d": "蛍光体層",
+        "e": "撮影時間"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（３）被写体厚：コントラストに影響する因子。 ※鮮鋭度 鮮鋭度低下の要因は主に幾何学的不鋭、運動による不鋭、感光材料による不鋭である。な"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "符号化した 2 進数がデジタルデータである。",
+        "b": "画素 1 個の大きさをマトリックサイズという。",
+        "c": "縦横の画素の個数をピクセルスサイズという。",
+        "d": "アナログ値を離散値で近似するのが量子化である。",
+        "e": "アナログ画像を点の集合に変換する操作が標本化である。"
+      },
+      "correctAnswer": "b",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）画素 1 個の大きさをピクセルサイズという。 （３）縦横の画素の個数をマトリックスサイズという。 ※標本化と量子化"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "オーバーオール特性曲線の縦軸に該当するのはどれか。",
+      "choices": {
+        "a": "X 線量",
+        "b": "画素値",
+        "c": "発光量",
+        "d": "出力値",
+        "e": "X 線強度"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（４）出力値 ※オーバーオール特性曲線 相対照射量に対してレーザーイメジャーなどによってフィルム上に写真濃度として出力し"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "デジタル画像で入射 X 線量に依存するノイズはどれか。2 つ選べ。",
+      "choices": {
+        "a": "量子化ノイズ",
+        "b": "光量子モトル",
+        "c": "電気系ノイズ",
+        "d": "X 線量子モトル",
+        "e": "IP の構造モトル"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）光量子モトル （４）X 線量子モトル ※デジタル画像における入射 X 線量に依存するノイズ"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "X 線の半価層測定に適しているのはどれか。",
+      "choices": {
+        "a": "空気電離箱",
+        "b": "ガラス線量計",
+        "c": "フリッケ線量計",
+        "d": "ゲルマニウム半導体検出器",
+        "e": "NAI シンチレーション検出器"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（１）空気電離箱 ※ X 線の線質測定 X 線の線質測定には照射線量の絶対測定が可能である自由空気電離箱が一次標準器として",
+      "image": "mammo/taisaku/17/q10.png"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "図はタングステン陽極の X 線管が発生する X 線エネルギースペクトルである。 この時の管電圧(kV)はどれか。",
+      "choices": {
+        "a": "40",
+        "b": "60",
+        "c": "80",
+        "d": "100",
+        "e": "120"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（５）120 ※最大エネルギー＝管電圧 デュ・エンハントの式から X 線の最大エネルギー(最短波長)は物質によらず一定であり、"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "IP について正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "蛍光体は CsI が使用される。",
+        "b": "フェーディング現象は起こらない。",
+        "c": "二次励起光を照射すると青色に発光する。",
+        "d": "消去光を照射しても繰り返し使用は不可能である。",
+        "e": "増感紙-フィルム系に比べてダイナミックレンジが狭い。"
+      },
+      "correctAnswer": "c",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "explanation": "（１）蛍光体は CsI が使用されない。 （２）フェーディング現象は起きる。 （４）消去光を照射しても繰り返し使用は可能である。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "医用 X 線高電圧装置について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "6 ピーク形は単相電源でも作動する。",
+        "b": "12 ピーク形は三相電源で作動する。",
+        "c": "定電圧形の出力管電圧のリプル百分率は 5 ～ 8 ％である。",
+        "d": "変圧器形インバータ式の X 線照射エネルギーはコンデンサから供給される。",
+        "e": "エネルギー蓄積型インバータ式の X 線照射エネルギーはコンデンサから供給さ れる。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）6 ピーク形は三相電源で作動する。 （３）定電圧形の出力管電圧のリプル百分率は 4 ％以下である。 （４）変圧器形インバータ式の X 線照射エネルギーは電源設備から供給される。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "X 線管装置で誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "X 線強度は管電圧の 2 乗に反比例する。",
+        "b": "管電流は電極間距離の 2 乗に反比例する。",
+        "c": "実効焦点面積は実焦点面積よりも小さい。",
+        "d": "X 線強度は陰極側よりも陽極側で大きくなる。",
+        "e": "ターゲット角度が小さいほど実焦点面積は大きい。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）X 線強度は管電圧の 2 乗に比例する。 （４）X 線強度は陰極側よりも陽極側で低下する。 ※ X 線強度"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "自動露出制御装置について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "被覆特性は被写体厚に依存しない。",
+        "b": "管電圧特性は採光方式に依存する。",
+        "c": "センサは 2 ～ 3 個設置されている。",
+        "d": "センサは被写体透過後の X 線を検出する。",
+        "e": "センサの大きさはフィルム濃度に影響しない。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）被覆特性は被写体厚に依存する。 （５）センサの大きさはフィルム濃度に影響する。 ※自動露出制御装置"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "マンモグラフィの拡大撮影について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "微細石灰化の描出を目的とする。",
+        "b": "拡大率は 1.5 ～ 2.0 倍程度である。",
+        "c": "格子比の高いグリッドを使用する。",
+        "d": "密着撮影よりも皮膚線量は増加する。",
+        "e": "焦点受像面間距離を 120 ㎝程度にする。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）格子比の低いグリッドを使用する。 （５）焦点受像面間距離を 80 ㎝程度にする。 ※拡大撮影"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "特性 X 線について正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "エネルギーは元素固有である。",
+        "b": "エネルギースペクトルは連続である。",
+        "c": "K αの放出確率は K βよりも大きい。",
+        "d": "K αのエネルギーは K βよりも大きい。",
+        "e": "蛍光吸収率は原子番号が大きいほど小さい。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（２）エネルギースペクトルは線である。 （４）K αのエネルギーは K βよりも小さい。 （５）蛍光吸収率は原子番号が大きいほど大きい。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "PACS 導入によるフィルムレス化について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "画像保管スペースが削除される。",
+        "b": "過去画像との比較が簡単になる。",
+        "c": "画像の紛失がなくなるわけではない。",
+        "d": "法的には画像を永久保存する義務がある。",
+        "e": "病棟と外来とで同時に画像を見ることができる。"
+      },
+      "correctAnswer": "d",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "explanation": "（４）法的には画像を永久保存する義務はない。 ※法的な義務 ・保管された画像データが操作ミスやハードウエアの故障によって紛失することが起こりえ"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "RIS は物流管理システムのことである。",
+        "b": "SSL はデータを暗号化する方式である。",
+        "c": "HIS は医用画像保管管理システムのことである。",
+        "d": "ファイアウォールはセキュリティ対策に有効である。",
+        "e": "テレラジオロジーとは放射線治療情報のことである。"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（１）RIS は予約から検査結果までの管理を行うシステムのことである。 （３）HIS は病院管理(電子カルテ、医事会計、薬局管理など)システムのことである。 （５）テレラジオロジーとは遠隔放射線診断のことである。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "乳房温存療法の全乳房照射で正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "腋窩リンパ節は照射範囲に入れる。",
+        "b": "傍胸骨リンパ節は照射範囲に入れる。",
+        "c": "治療成績は乳房全摘術より劣る。",
+        "d": "切除断端陽性では追加照射が必要である。",
+        "e": "照射範囲はホルモン感受性に影響されない。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（１）腋窩郭清を行わない場合は照射範囲に入れる。 （２）腋窩郭清を行わない場合は照射範囲に入れる。 （３）治療成績は乳房全摘術と同等である。"
+    }
+  ]
+}

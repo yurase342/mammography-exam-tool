@@ -1,0 +1,416 @@
+{
+  "examNumber": 2,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 19,
+  "sourceType": "taisaku",
+  "round": "2",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "乳癌は再発すれば治らない。",
+        "b": "20 歳以上の乳癌は稀である。",
+        "c": "腺葉は 1 つの乳房で数 10 個を形成する。",
+        "d": "飲酒や閉経後肥満で乳癌の危険性が増加する。",
+        "e": "閉経するとエストロゲン分泌がなくなるので、乳癌になる確率が減少する。"
+      },
+      "correctAnswer": "e",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（５）閉経後のほうが乳癌になる確率が増加する。 ＊乳癌は再発すれば治らない：講習会で講義説明。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳腺のあるところにしか乳癌は発生しない。",
+        "b": "乳腺組織の中で、CC ´領域に癌が発生する確率は約 70 ％である。",
+        "c": "中心壊死がある非浸潤乳管癌は中心壊死しているので増殖性が弱い。",
+        "d": "乳癌の悪性は非浸潤癌、微小浸潤癌、浸潤癌、バジェットに分けられる。",
+        "e": "乳癌検診において視触診は推奨しないとガイドラインが変更になった。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）乳腺組織の中で、CC ´領域に癌が発生する確率は約 50 ％である。 （３）中心壊死がある非浸潤乳管癌は中心壊死しているので増殖性が強い。 ※コメド(面疱)型"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "被写体コントラストに影響しないものはどれか。2 つ選べ。",
+      "choices": {
+        "a": "カブリ",
+        "b": "mAs",
+        "c": "散乱線",
+        "d": "被写体の厚さ",
+        "e": "フィルター"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）カブリ：被写体コントラストに影響しない。フィルムコントラストに影響する。 （２）mAs：被写体コントラストに影響しない。 ※被写体コントラスト"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "連続 X 線は制動放射である。",
+        "b": "入射光の 30 ％の写真濃度は 0.3 である。",
+        "c": "K 吸収端エネルギーはターゲットに依存する。",
+        "d": "モニタの解像度はピクセルサイズと同じである。",
+        "e": "MMG 用 S/F システムは低感度増感紙、高コントラストフィルムを使ってい る。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）入射光の 50 ％の写真濃度は 0.3 である。 （５）マンモ用 S/F システムは高感度増感紙、高コントラストフィルムを使っている。 ※連続 X 線"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "マンモ用グリッドについて誤っているのはどれか。",
+      "choices": {
+        "a": "グリッドの中間物質はエアギャップである。",
+        "b": "集束型グリッドを使用している。",
+        "c": "移動型グリッド密度は 36 本が良い。",
+        "d": "グリッド比は 8：1 ～ 10：1 である。",
+        "e": "グリッド比は鉛泊の高さを鉛泊の間隔で除した値である。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "screening"
+      ],
+      "explanation": "（４）グリッド比は 4：1 ～ 6：1 である。 ※グリッド比 鉛泊の高さ h と鉛泊の 間隔 w との比 h/w で定義されている。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "精度管理に使用されるファントムについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "アーチファクト ACR推奨ファントム",
+        "b": "空間分解能測定 PMMA ファントム",
+        "c": "X 線出力の再現性 PMMA ファントム",
+        "d": "低コントラスト分解能 CDMAM ファントム"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）アーチファクト：PMMA ファントム （４）X 線出力の再現性：ファントムは使用しない。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "MMG 装置の AEC について誤っているのはどれか。",
+      "choices": {
+        "a": "乳房の下、受光部の上である。",
+        "b": "半導体検出器 si である。",
+        "c": "カセッテ後面検出方式である。",
+        "d": "MMG 装置の圧迫板の表示は検出器より広くしている。",
+        "e": "大きさや形はメーカーや同一メーカーでも装置によっても違うことがある。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）AEC は乳房の下、受光部の下である。 ※圧迫板の表示と実際の検出器の大きさ 圧迫板の端部がビームの経路と干渉する可能性であるので、圧迫板の表示は検出器より広"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "粒状性に影響が少ないものはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線量",
+        "b": "増感紙",
+        "c": "構造モトル",
+        "d": "散乱線",
+        "e": "焦点の大きさ"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）散乱線：粒状性に影響しない。 （５）焦点の大きさ：粒状性に影響が少ない。 ※粒状性の構成"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "正しいのはどれか。",
+      "choices": {
+        "a": "過誤腫は良悪性の鑑別を要することかある。",
+        "b": "領域性の多形成の石灰化を認めたため、カテゴリー 3 とした。",
+        "c": "肪性の乳房に円形の腫瘤を認めたため、カテゴリー 4 とした。",
+        "d": "高濃度の構築の乱れを見つけたのでカテゴリー 5 とした。",
+        "e": "びまん性、微小円形の石灰化は吸引穿刺針生検の対象である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "explanation": "（１）過誤腫はカテゴリー 2。鑑別不要。 （３）境界明瞭平滑な高濃度の腫瘤を認めた場合、カテゴリー 4 とする。 （４）高濃度の構築の乱れは、多発したり、石灰化や乳頭陥凹、乳腺の収縮などを伴"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "圧迫器について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "電動のみで圧迫できること。",
+        "b": "圧迫はデッドマン方式である。",
+        "c": "停電時に手動で圧迫が解除されること。",
+        "d": "圧迫厚の表示精度は± 5 ㎜以内である。",
+        "e": "圧迫圧の持続性は 1 分間で－ 20N 以内が望ましい。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）電動または空気圧。 （５）圧迫圧の持続性は 1 分間で－ 10N 以内が望ましい。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "感度が上がると偽陰性率が低くなる。",
+        "b": "特異度が上がると偽陽性率が低くなる。",
+        "c": "偽陰性率は１－感度である。",
+        "d": "偽陽性率は１－特異度である。",
+        "e": "陽性反応適中度が上がると偽陽性率が高くなる。"
+      },
+      "correctAnswer": "e",
+      "category": "screening",
+      "categories": [
+        "screening"
+      ],
+      "explanation": "（５）陽性反応適中度が上がると偽陽性率が少なくなる。 ※陽性反応適中度 a(真陽性)/〔a(真陽性)＋ b(偽陽性)〕：有徴正診率"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "Ｘ線出力の測定について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "圧迫板を X 線装置側にできる限り近づけて配置する。",
+        "b": "検出器中心部を胸壁から 60 ㎜に配置する。",
+        "c": "絞りマスクを 350 ㎜に配置する。",
+        "d": "照射野を 60 ㎜× 60 ㎜にする。",
+        "e": "大焦点選択時の空気カーマ率は 7.0mGy 以上とする。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）絞りマスクを 300 ㎜未満に配置すれば良い。 （４）照射野を 50 ㎜× 50 ㎜以下にする。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "特性曲線 A、B について誤っているのはどれか。2 つ選べ。 A B 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0 0 0.5 1.0 1.5 2.0 2.5 3.0 3.5",
+      "choices": {
+        "a": "カブリは同じである",
+        "b": "コントラストは A より B の方が高い。",
+        "c": "A と B の平均階調度は同じである",
+        "d": "A と B の感度は同じである。",
+        "e": "ステップ 1 からステップ 3 になると露光量が 2 倍になる。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）コントラストは同じである。 （４）感度は A の方が大きい。グラフが左側にいくほど感度が高くなる。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "Mo/Mo と Mo/Rh について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "半価層は Mo/Rh のほうが大きい。",
+        "b": "Mo フィルター厚と Rh フィルタ厚は同じである。",
+        "c": "K 吸収端は Mo/Rh のほうが大きい。",
+        "d": "線量率は同じ条件であれば、Mo/Rh の方が高い。",
+        "e": "実効エネルギーは同じ条件であれば、Mo/Rh の方が高い。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）Mo フィルターの方が厚い。Mo(0.03 ㎜)、Rh(0.025 ㎜)。 （４）線量率は同じ条件であれば Mo/Mo の方が高い。"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "焦点の性能評価について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "16 ～ 20lp/mm まで評価できる X 線用チャートを使用する。",
+        "b": "チャート内の背景濃度は 1.7 ～ 2.0 になるように mAs 値を設定する。",
+        "c": "チャートはパターン像の全長が最も描出されている最も高い周波数を読む。",
+        "d": "臨床に用いる中で最も高感度のスクリーンで測定する。",
+        "e": "分解能は幅寸法 13 lp/㎜以上、長さ寸法 11 lp/㎜以上である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）チャート内の背景濃度は 1.2 ～ 1.6 になるように mAs 値を設定する。 （３）チャートはパターン像の長さの半分以上が明瞭に描出している最も高い周波数 を読む。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "マンモグラフィ X 線入射スペクトルについて正しいものはどれか。 6000 6000 4000 4000 2000 2000 0 10 20 30 0 10 20 30 keV keV 図 A 図 B",
+      "choices": {
+        "a": "管電圧が違う。",
+        "b": "mAs が違う。",
+        "c": "ターゲットが違う。",
+        "d": "フィルターが違う。",
+        "e": "乳房の透過後の図である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（２）mAs が違う。 図 A、図 B ともに Mo/Mo で乳房透過前のスペクトル図である。K αと K βのピークの 高さ(光子数)が違う。図の最大管電圧がどちらも 30Kv で同じ。mAs が減少すると図 B"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "CC 撮影について正しいのはどれか。",
+      "choices": {
+        "a": "乳腺が伸びにくいので圧迫板で伸ばすと良い。",
+        "b": "外側乳房を入れるために体を非検側の方へ向ける。",
+        "c": "内側をしっかり入れれば外側は欠けても良い。",
+        "d": "上部を入れるために乳房支持台を inframammary foldより上にする。",
+        "e": "支持台を高くすると乳房下部がブラインドエリアとなりやすい。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "explanation": "（１）片手で引っ張りだす。 （２）被検者を撮影台に向かって正面に立たせる。正対より非検側に向かせると内側が 欠ける。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "MLO 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "内側深部を良く描出できる。",
+        "b": "髪の毛が入るのに注意が必要である。",
+        "c": "角度は体型によって変える。",
+        "d": "乳腺を広く描出できる撮影である。",
+        "e": "大胸筋を入れすぎると D 領域の一部が欠けることがある。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）内側深部はブラインドエリアである。 （２）CC 撮影では髪の毛が入るのに注意が必要である。",
+      "image": "mammo/taisaku/2/q19.png"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "胸壁端の欠損確認の評価について誤っているものはどれか。2 つ選べ。 A B C D",
+      "choices": {
+        "a": "鉄球 AD は鉄球 BC より焦点から近い。",
+        "b": "この画像は基準を満たしている。",
+        "c": "この画像では圧迫板によるアーチファクト評価ができる。",
+        "d": "鉄球 AB と鉄球 CD は焦点の位置が乳頭側にある。",
+        "e": "CR、FPD では構造的欠損はない。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）この画像では圧迫板によるアーチファクト評価はできない。 （５）規格化されていないだけで。CR、FPD にも構造的欠損はある。 ※胸壁端の欠損確認"
+    }
+  ]
+}

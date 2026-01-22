@@ -1,0 +1,398 @@
+{
+  "examNumber": 3,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 18,
+  "sourceType": "taisaku",
+  "round": "3",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "デジタル X 線画像コントラストへの影響が一番小さいものはどれか。",
+      "choices": {
+        "a": "散乱線",
+        "b": "被写体の厚さ",
+        "c": "X 線管電流",
+        "d": "デジタル特性曲線",
+        "e": "階調処理に用いた LUT"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（３）X 線管電流 ※デジタル X 線画像コントラスト 被写体コントラスト、デジタル特性曲線の階調度、階調処理に用いた LUT の階調度に 影"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "デジタルＸ線画像の入出力特性について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "デジタル特性曲線は写真濃度で表す。",
+        "b": "デジタル特性曲線は相対Ｘ線強度で表す。",
+        "c": "ディスプレイの特性はＸ線量で表す。",
+        "d": "オーバーオール特性曲線はピクセル値で表す。",
+        "e": "特性曲線の測定法にタイムスケール法を用いる。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）デジタル特性曲線は相対Ｘ線強度で表す。 （３）ディスプレイの特性は輝度で表す。 （４）オーバーオール特性曲線は相対Ｘ線強度で表す。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "デジタルＸ線画像の入出力特性について誤っているのはどれか。",
+      "choices": {
+        "a": "デジタル特性曲線の入力はＸ線量で出力はピクセル値で表される。",
+        "b": "デジタル特性曲線の縦軸はピクセル値、横軸は相対照射線量の対数で表す。",
+        "c": "オーバーオール特性曲線システム全体の入出力特性を示す曲線である。",
+        "d": "キャリブレーションカーブはピクセル値と写真濃度との関係を示す曲線である。",
+        "e": "画像表示系の出力はソフトコピーの場合、光学濃度である。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（５）画像表示系の入力は処理済みのピクセル値である。出力はソフトコピーの場合 に輝度である。 ※オーバーオール特性曲線"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "乳癌について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "家族性乳癌は乳癌全体の約 50 ％である。",
+        "b": "乳がんリスクに肥満があるが、影響があるのは閉経後の肥満である。",
+        "c": "乳癌の外科治療は局所治療、放射線治療、内分泌療法は全身療法である。",
+        "d": "Auchincloss-Madden法は大小両胸筋を温存し、乳房切除、リンパ節の切除を行 う。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）家族性乳癌は乳癌全体の 5 ～ 10 ％である。 （４）放射線治療放は局所治療である。 ※乳癌の治療に用いられる薬"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "乳癌検診の MMG 画像、結果は 5 年保存である。",
+        "b": "乳癌検診では MMG と US の併用を推奨している。",
+        "c": "dense breast 対策については超音波の導入の検討がなされている。",
+        "d": "乳房圧迫は高い圧力が大きな効果ではない。",
+        "e": "MLO 角度の合わせ方は間違っても 65 度のような数値で覚えてはいけない。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（２）乳癌検診では MMG と US の併用を推奨していない。直前の講義でも超音波が検 診に入るよりも視触診を無くして MMG 単独検診を推奨する方が早くなりそう。 1 月の講義で説明。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "石灰化について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌の石灰化は分泌型と壊死型に分けられる。",
+        "b": "分泌型の石灰化は乳腺症でもできる。",
+        "c": "分泌型の石灰化は形態から良悪性の分別ができる。",
+        "d": "悪性葉状腫瘍の骨成分は壊死型石灰化となる。",
+        "e": "分泌型石灰化は粘液癌にもできる。"
+      },
+      "correctAnswer": "c",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）分泌型の石灰化は形態から良悪性の分別がでない。 （４）悪性葉状腫瘍の骨成分は間質型石灰化となる。 ※乳房の石灰化"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "アナログ式マンモグラフィの拡大撮影で正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "焦点受像面間距離は 1.2 m に設定する。",
+        "b": "微細石灰化の描出を目的とする。",
+        "c": "格子比の高いグリッドを使用する。",
+        "d": "拡大率は 4 ～ 5 倍程度とする。",
+        "e": "密着撮影よりも皮膚線量が増加する。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）焦点受像面間距離は 90 ～ 100 ㎝に設定する。 （３）格子比の高いグリッドは使用しない。 （４）拡大率は 1.5 ～ 2 倍程度である"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "加算的ラグ効果、乗算的ラグ効果の受入試験(DR、CR 受像器)について誤って いるのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "加算的ラグ効果は現在の X 線パターンと関わりのない以前の X 線パターンの影 響が現在の画像へ加算される現象をいう。",
+        "b": "ステンレス板を乳房支持台上に配置する。",
+        "c": "乳房圧迫板をファントムから離して配置する。",
+        "d": "加圧なしで照射できない装置の場合は最高圧迫圧で圧迫する。",
+        "e": "読影の支障となる残像現象がないことを確認する。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）乳房圧迫板をファントムに接するように配置する。 （４）加圧なしで照射できない装置の場合は最低圧迫圧で圧迫する。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "粒状性に影響を与えない因子はどれか。",
+      "choices": {
+        "a": "焦点サイズ",
+        "b": "構造モトル",
+        "c": "撮影線量",
+        "d": "量子モトル",
+        "e": "スクリーンモトル"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）焦点サイズ：粒状性に影響が最も少ない。 ※粒状性に影響を与える因子 X 線光子数(線量：管電流)、検出器の構造。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "平均乳腺線量が増加すると CNR は高くなる。",
+        "b": "CNR は被写体透過後の線量により決定される。",
+        "c": "現在の X 線パターンと関わりのない以前の X 線パターンの影響が現在の画像 へ加算される現象を乗算的ラグ効果という。",
+        "d": "以前の X 線照射時の影響が残存し、撮影時の正常な画像形成時の感度に影響 を与え、本来の出力とは異なった出力値を出す現象を加算的ラグ効果という。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "screening"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）現在の X 線パターンと関わりのない以前の X 線パターンの影響が現在の画像 へ加算される現象を加算的ラグ効果という。 （５）以前の X 線照射時の影響が残存し、撮影時の正常な画像形成時の感度に影響"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "リプル百分率について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "定電圧形の管電圧リプル百分率は 4 ％を超えている。",
+        "b": "リプル百分率は管電流が小さいほど小さくなる。",
+        "c": "リプル百分率は高電圧ケーブルが長いほど大きくなる。",
+        "d": "三相装置は単相装置に比べてリプル百分率が小さい。",
+        "e": "乳房装置ではリプル百分率が大きい装置のほうが出力が小さい。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）定電圧形の管電圧リプル百分率は 4 ％を超えない。 （３）リプル百分率は高電圧ケーブルが長いほど小さくなる。 ※リプル百分率"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "乳癌検診について誤っているのはどれか。",
+      "choices": {
+        "a": "マンモグラフィによる検診を原則とする。",
+        "b": "視触診については推奨しないが、仮に視触診を実施する場合は視触診のみで良 い。",
+        "c": "対象年齢は 40 歳以上で、検診間隔は 2 年に 1 度である。",
+        "d": "超音波検査については死亡率減少効果や検診の実施体制等について引き続き検 証していく必要がある。",
+        "e": "検診実施機関は画像及び検診結果を少なくとも 5 年間保存しなければならない。"
+      },
+      "correctAnswer": "b",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（２）視触診については推奨しないが、仮に視触診を実施する場合はマンモグラフィと 併用する。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "画像コントラスト＝被写体コントラスト×受像系コントラストである。",
+        "b": "デジタル画像は線量が低いと粒状性が悪くなる。",
+        "c": "マトリックスサイズが大きいほど空間分解能が良くなる。",
+        "d": "ピクセルサイズが大きいほど空間分解能が良くなる。",
+        "e": "デジタルは焦点性能を評価しない。その代わりに SCTF の測定を行う。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（４）ピクセルサイズが小さほど空間分解能が良くなる。 ※マトリックスサイズ 画素数は「横方向の列数×縦方向の列数」で表現される。これをマトリックスサイズとい"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "連続 X 線は制動放射である。",
+        "b": "K 吸収端エネルギーはターゲットに依存しない。",
+        "c": "MLO 撮影の角度は一定ではない。",
+        "d": "圧迫では高い圧力が大きな効果をうむ。",
+        "e": "ポジショニングは圧迫板と乳腺の動きは逆なので、ホルダーに乗せる前に乳腺 をしっかりと入れておく。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）K 吸収端エネルギーはターゲットに依存する。フィルタにも依存する。 （４）圧迫では高い圧力が大きな効果をうむ訳ではない。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "被写体コントラストに影響されないものはどれか。2 つ選べ。",
+      "choices": {
+        "a": "管電圧",
+        "b": "管電流",
+        "c": "mAs 値",
+        "d": "被写体厚",
+        "e": "線減弱係数"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）管電流：影響されない。 （３）mAs 値：影響されない。 ※被写体コントラスト"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "浸潤癌は間質に浸潤がみられるものである。",
+        "b": "乳腺のあるところにしか乳癌は発生しない。",
+        "c": "CC ´領域に癌が発生する確率は 70 ％である。",
+        "d": "乳癌は再発すれば治らないが、補助療法が大切である。",
+        "e": "飲酒や閉経前肥満で乳癌の危険性が増加する。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）CC ´領域に癌が発生する確率は 55 ％である。 （５）飲酒や閉経後肥満で乳癌の危険性が増加する。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "管内型の線維腺腫はカテゴリー 3 とする。",
+        "b": "領域性の多形成の石灰化を認めたため、カテゴリー 3 とした。",
+        "c": "区域性の FAD ＝ SAD はカテゴリー 4 を推奨する。",
+        "d": "脂肪性の乳房に円形の高濃度腫瘤を認めたため、カテゴリー 4 とした。",
+        "e": "非対称性乳房で片方にリンパ節が見えたので大きさに関係なく、カテゴリー 3 とする。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）管内型の線維腺腫はカテゴリー 3 と限定するのではなく、境界明瞭平滑な高濃度 の腫瘤を認めた場合、カテゴリー 4 とすることがある。 （５）大きさに関係がある。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "乳癌について誤っているのはどれか。",
+      "choices": {
+        "a": "basal-like 乳癌とは筋上皮あるいは基底細胞の性質をもつタイプの乳癌である。",
+        "b": "basal-like 乳癌は多くがトリプルネガティブである。",
+        "c": "ホルモン受容体陽性タイプは Luminal タイプと呼ばれている。",
+        "d": "ホルモン受容体陽性乳癌にはホルモン療法が推奨される。",
+        "e": "トリプルネガティブ乳癌は抗 HER2 療法が推奨されている。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（５）トリプルネガティブ乳癌は化学療法が推奨されている。 ※トリプルネガティブ乳癌(TNBC) 主として基底細胞様(basal-like)と呼ばれる分子サブタイプによって構成されている。エ"
+    }
+  ]
+}

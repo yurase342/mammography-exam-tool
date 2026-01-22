@@ -1,0 +1,413 @@
+{
+  "examNumber": 11,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 19,
+  "sourceType": "taisaku",
+  "round": "11",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "マンモグラフィについて誤っているのはどれか。",
+      "choices": {
+        "a": "乳腺と乳癌の線減弱係数の差は 0.05 である。",
+        "b": "画像は高コントラスト、高鮮鋭度が良い。",
+        "c": "Be 窓のところにも絶縁油が必要である。",
+        "d": "最近では Al、Ag の付加フィルタもある。",
+        "e": "光照射野ミラーは回避するものもある。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（３）Be 窓のところには絶縁油はない。 ※ Be 窓 Be 窓のところには余分な吸収がないように絶縁油がない。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "マンモグラフィについて誤っているのはどれか。 （１）X 線焦点-受像面距離(SID)は 60 ～ 70 ㎝くらいで短い。",
+      "choices": {
+        "a": "W ターゲットでは特性Ｘ線は無関係である。",
+        "b": "Al フィルタにはＫ吸収端がないのでなだらかに X 線が無くなっていく。",
+        "c": "コントラスト分解能はデジタル系＞増感紙フィルム系である。",
+        "d": "CR の AEC センサー位置不良の場合は線量不足になる。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "〔２〕正解（５） （５）CR の AEC センサー位置不良の場合は自動濃度補正により適正濃度になるが、粒状 性が悪くなる。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "トモシンセシスについて誤っているのはどれか。",
+      "choices": {
+        "a": "高濃度乳房にも有効である。",
+        "b": "1 回の撮影により 1 ㎜感覚で表示可能である。",
+        "c": "1 回の圧迫で 2D と 3D の撮影が同時に行える。",
+        "d": "グリッド除去で撮影ても散乱線はソフトウエアで除去できない。",
+        "e": "Ｘ線管を 50 °回転させ、その間 2 °ごとに 25 回の低線量照射を行う。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "image_reading"
+      ],
+      "explanation": "（４）グリッド除去で撮影し、散乱線はソフトウエアで除去できる。 ※トモシンセシス 1 回の断層撮影で複数の高さ裁断面を再構成する撮影技術である。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "トモシンセシスについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌検出率が上昇し、偽陰性が増加する。",
+        "b": "偽病変に見える所見を除去し、偽陽性を減少させることができる。",
+        "c": "乳癌と正常乳腺を分離させた画像を作成することが可能である。",
+        "d": "強く圧迫する必要がないので、かなり痛みが軽減される。",
+        "e": "シリコン検出器を用いることにより従来のMMGと同様の照射線量で撮影できる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）乳癌検出率が上昇し、偽陰性が減少する。 （５）セレン検出器を用いることにより従来のMMGと同様の照射線量で撮影できる。 ※検出器効率と線量"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "モニタ診断はウインドニングする。",
+        "b": "モニタはワークステーション全体である。",
+        "c": "ビューワはワークステーションの一部である。",
+        "d": "表示できる画素数は撮影した画素数より小さい。",
+        "e": "画像コントラストは被写体コントラスト×受像系コントラストである。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）モニタはワークステーションの一部である。 （３）ビューワはワークステーション全体である。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "短時間許容負荷を大きくする因子について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "実効焦点面積を大きくする。",
+        "b": "陽極角度を大きくする。",
+        "c": "陽極の回転数を大きくする。",
+        "d": "焦点軌道直径を大きくする。",
+        "e": "リプル百分率を大きくする。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）陽極角度を小さくする。 （５）リプル百分率を小さくする。 ※短時間負荷"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "X 線の出力について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "流量は X 線束中で単位面積当たりの光子数をいう。",
+        "b": "線質は X 線透過力を示し、半価層によっても表示される。",
+        "c": "管電圧を上げると線量が小さくなり、X 線発生率が増大する。",
+        "d": "照射線量は X 線の流量に反比例して X 線強度とも呼ばれている。",
+        "e": "特性 X 線はターゲット物質に依存してエネルギーが異なる。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）管電圧を上げると線量が大きくなり、X 線発生率が増大する。 （４）照射線量は X 線の流量に比例して X 線強度とも呼ばれている。 ※ X 線出力の諸因子"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "デジタルについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ピクセルサイズが大きいと空間分解能が良い。",
+        "b": "データ量は縦ピクセル×横ピクセルである。",
+        "c": "マトリクスサイズが小さくなるほど画素寸法は大きくなる。",
+        "d": "サンプリング間隔は標本化の画質への影響を及ぼす。",
+        "e": "サンプリングアパーチャーの大きさはシステム感度に影響する。"
+      },
+      "correctAnswer": "a",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）ピクセルサイズが小さいと空間分解能が良い。 （２）データ量は(総)画素数×階調(数)である。 ※ピクセルサイズ"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "視覚系の情報処理について信号形成に関係する器官はどれか。",
+      "choices": {
+        "a": "眼球",
+        "b": "網膜",
+        "c": "視索",
+        "d": "視神経",
+        "e": "大脳"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "anatomy"
+      ],
+      "explanation": "（２）網膜：信号形成 ※視覚系の情報処理 視覚への刺激は約 380 ～ 780nm の波長範囲にある光エネルギーである。視覚系に入力さ"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "視覚の時間周波数特性に関係するのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "フリッカー",
+        "b": "マッハ効果",
+        "c": "臨界融合周波数",
+        "d": "ウェーバーの法則",
+        "e": "バンドパスフィルタ型の特性"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（２）マッハ効果：明暗境界部分のエッジ強調。 （４）ウェーバーの法則：明るさに対する感覚 （５）バンドパスフィルタ型の特性：空間周波数特性"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "視覚の空間周波数特性はローパスフィルタ型である。",
+        "b": "輝度と人間が感じる明るさとの関係は線形である。",
+        "c": "それまでと違う間隔を得る最小刺激強度さを弁別閾という。",
+        "d": "情報の描出・認識といった高次の情報処理が行われるのは網膜である。",
+        "e": "明暗の境界部分でエッジが強調されて感じる現象をマッハ効果という。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）視覚の空間周波数特性はハンドパスフィルタ型である。 （２）輝度と人間が感じる明るさとの関係は線形ではない。 （４）情報の描出・認識といった高次の情報処理が行われるのは大脳である。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "低エネルギー X 線で X 線撮影すると被ばく線量が減る。",
+        "b": "ターゲット角度が大きいほどヒール効果の影響は大きくなる。",
+        "c": "X 線管電圧の脈動率が大きいほど平均 X 線エネルギーは小さくなる。",
+        "d": "X 線エネルギーが高くなると被写体コントラストが低下する。",
+        "e": "W 焦点の X 線管で管電圧 50kV で X 線を照射させても K α特性 X 線は発生しな い。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（１）低エネルギー X 線は被写体内でより多く吸収されるので、被爆線量は多くなる。 （２）ターゲット角度が大きいほどヒール効果の影響は小さくなる。 （３）X 線管電圧の脈動率が小さいほど平均 X 線エネルギーは小さくなる。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "デジタルについて誤っているのはどれか。",
+      "choices": {
+        "a": "空間分解能は標本化間隔と同じではない。",
+        "b": "画像全体の大きさをマトリックスサイズという。",
+        "c": "サンプリング間隔は隣り合う画素間の距離に相当する。",
+        "d": "標本化間隔が小さいほど画像情報を精細に表現できる。",
+        "e": "マトリックスサイズが小さい画像ほど画像を劣化させる。"
+      },
+      "correctAnswer": "a",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（１）空間分解能は標本化間隔に等しい。 ※サンプリング間隔(標本化間隔) 標本化する際の間隔をいう。隣り合う画素間の距離に相当する。画素が互いに間を空けず"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "デジタルについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ピクセル値は標本化によって得られた信号値である。",
+        "b": "ピクセル値が取りうる値の数を階調数という。",
+        "c": "量子化レベル数が小さいほど濃度分解能に優れた画像である。",
+        "d": "階調数が小さいほど地図の等高線のような擬似輪郭が発生する。"
+      },
+      "correctAnswer": "a",
+      "category": "image_reading",
+      "categories": [
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）ピクセル値は量子化によって得られた信号値である。 （４）量子化レベル数が大きいほど濃度分解能に優れた画像である。 ※量子化"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "デジタルについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "標本化間隔が狭いとナイキスト周波数は高くなる。",
+        "b": "サンプリングピッチが小さいほど量子化誤差が小さい。",
+        "c": "ビット深度が 8bit の画像は 12bit の画像より濃度分解能が悪い。",
+        "d": "画像を読み取る際のアパーチャーサイズが大きいとノイズ特性は悪くなる。",
+        "e": "標本化間隔を満足しない間隔をデジタル化するとエリアシング誤差が生じる。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）サンプリングピッチ(標本化間隔)はアナログ画像データを標本化する際の読み取り 間隔のことで、読み取った濃度を離散化する量子化とは無関係である。 （４）画像を読み取る際のアパーチャーサイズが大きいとノイズ特性は良くなる。"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "デジタル特性曲線について誤っているのはどれか。",
+      "choices": {
+        "a": "X 線画像コントラストは被写体透過後の 2 点間の X 線強度差である。",
+        "b": "ダイナミックレンジはピクセル値として識別可能な相対 X 線量の範囲である。",
+        "c": "ダイナミックレンジが広いほど黒つぶれや白とびが画像に現れにくい。",
+        "d": "階調度は特性 X 線上のある点における接線の勾配、特性曲線の微分である。",
+        "e": "特性 X 線 A、B において B の横軸の値が A の n 倍とすると B の相対感度は 1/n である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（１）X 線画像コントラストは 2 点間の濃度差である。X 線コントラストは被写体透過後 の 2 点間の X 線強度差である。 ※ X 線画像のコントラスト"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "画像解析 ImageJ について誤っているのはどれか。",
+      "choices": {
+        "a": "JAVA があれば動作可能であり、使用する環境を選ばない。",
+        "b": "プラグイン開発やマクロ言語による拡張が可能である。",
+        "c": "DICOM、JPEG、GIF、BMP、TIFF などの画像フォーマットが可能である。",
+        "d": "CT、MRI などは原画像のまま表示できない。",
+        "e": "表計算ソフトを作成しておけば、計算値を張り付けるだけで迅速な算出が可能 である。"
+      },
+      "correctAnswer": "d",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "explanation": "（４）濃淡画像とカラー画像まで対応しているので、CT、MRI なども原画像のまま表 示できる。 ※画像解析 ImageJ"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "画像表示モニタについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "表示部は液晶パネルとバックライトで構成されている。",
+        "b": "5M ピクセルは解像度 2,048 × 2560 である。",
+        "c": "コントラスト比は最大輝度と最小輝度を除した値である。",
+        "d": "表示輝度はバックライト輝度と液晶パネルの不透過率で決定される。",
+        "e": "デジタル MMG はモニタよりマトリックス数が小さく、画素サイズが大きい。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）表示輝度はバックライト輝度と液晶パネルの透過率で決定される。 （５）デジタル MMG はモニタよりマトリックス数が大きく、画素サイズが小さい。 ※画像表示モニタ"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "写真に該当する定期管理はどれか。",
+      "choices": {
+        "a": "X 線出力",
+        "b": "空間分解能",
+        "c": "ダイナミックレンジ",
+        "d": "加算的ラグ効果"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（３）ダイナミックレンジ ※ダイナミックレンジ スキンライン付近の乳棒情報を取得できているかを確認する。"
+    }
+  ]
+}

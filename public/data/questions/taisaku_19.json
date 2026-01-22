@@ -1,0 +1,422 @@
+{
+  "examNumber": 19,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "19",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "医用モニタの品質管理における試験項目で測定器具を使用するのはどれか。",
+      "choices": {
+        "a": "解像度",
+        "b": "最大輝度",
+        "c": "幾何学的歪み",
+        "d": "グレースケール",
+        "e": "アーチファクト"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（１）解像度：目視 （３）幾何学的歪み：目視 （４）グレースケール：目視"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "医療情報システムにおける個人情報保護で正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "生体情報認証システムの導入",
+        "b": "アクセスログの定期的な監視",
+        "c": "患者本人の了解がない家族への情報開示",
+        "d": "電子メールを用いた院外者との患者情報の交換",
+        "e": "紛失を避けるための医療従事者個人のデータ保存"
+      },
+      "correctAnswer": "a",
+      "category": "screening",
+      "categories": [
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）患者本人の了解がない家族への情報開示：避けるべき事項。 （４）電子メールを用いた院外者との患者情報の交換：避けるべき事項。 （５）紛失を避けるための医療従事者個人のデータ保存：避けるべき事項。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "診療録等の電子媒体による保存の 3 条件としてあげられるのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "確実性",
+        "b": "安全性",
+        "c": "正確性",
+        "d": "保存性",
+        "e": "真正性"
+      },
+      "correctAnswer": "d",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）保存性：保存の 3 条件。 （５）真正正：保存の 3 条件。 ※診療録等の電子媒体による保存の 3 条件"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "アナログ画像のデジタル化について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "A/D 変換を用いる。",
+        "b": "標本化間隔が大きいほどアナログ情報に近くなる。",
+        "c": "量子化レベル数が大きいほど量子化誤差は増大する。",
+        "d": "ナイキスト周波数は標本化間隔の逆数の 1/2 で表現される。",
+        "e": "標本化定理を満足しない間隔で標本化するとエリアシングエラーが発生する。"
+      },
+      "correctAnswer": "b",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）標本化間隔が小さいほどアナログ情報に近くなる。 （３）量子化レベル数が小さいほど量子化誤差は増大する。 ※アナログ画像のデジタル化"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "画像処理で誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "平滑化処理は雑音が増強される。",
+        "b": "DR 圧縮は局所的な階調処理である。",
+        "c": "微分フィルタ処理は低周波領域を強調する。",
+        "d": "ウインドウ幅を狭くするとコントラストは上昇する。",
+        "e": "ボケマスク処理はエッジのコントラストが増大する。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）平滑化処理は雑音が低減される。 （３）微分フィルタ処理は高周波領域を強調する。 ※平滑化処理"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "インバータ式 X 線装置のインバータ周波数について正しいのはどれか。 すべて選べ。",
+      "choices": {
+        "a": "10 ～ 50MHz が使用されている。",
+        "b": "周波数可変形のみ使用されている。",
+        "c": "周波数が高いほど高電圧変圧器の損失は大きい。",
+        "d": "周波数が高いほど管電圧のリプル百分率は小さい。",
+        "e": "周波数が低いほど管電圧の立ち上がり時間は長い。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（１）10 ～ 50kHz が使用されている。 （２）周波数可変形と周波数固定形が使用されている。 （５）周波数が低いほど管電圧の立ち上がり時間は短い。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "DQE について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "視覚特性は評価できない。",
+        "b": "理論的に最大値は 10 である。",
+        "c": "高空間周波数ほど低い値になる。",
+        "d": "CR 画像と FPD 画像の比較が可能である。",
+        "e": "DQE の値が等しい時、物理的評価は等しい。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）理論的に最大値は 1.0 である。 （５）DQE の値が等しくても他の物理的評価が等しいとは限らない。 ※量子変換効率(DQE)"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "ノイズ特性で誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "光量子ノイズを固定ノイズという。",
+        "b": "NNPS はノイズ量を空間周波数ごとに示す。",
+        "c": "X 線量が少なければざらつきの多い画像となる。",
+        "d": "RMS 粒状性の値が大きいほど粒状性が悪い。",
+        "e": "デジタル WS の値が大きいほど粒状性が悪い。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）光量子ノイズと固定ノイズは同じではない。 ※光量子ノイズ X 線量およびそれに伴う発光量に依存したランダムノイズであり、X 線量の大きさに反比"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "マンモグラフィ用 X 線管で誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "焦点サイズは 0.5 ㎜以下である。",
+        "b": "放射口にはベリリウムが用いられる。",
+        "c": "陰極-陽極間距離は 15 ㎜程度である。",
+        "d": "陽極材料としてタングステンが用いられる。",
+        "e": "高速回転形陽極では 3 倍回転のとき 9700 回転/分となる。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（３）陰極-陽極間距離は 10 ～ 13 ㎜程度である。 ※ X 線管 大焦点 0.3 ㎜、小焦点が 0.1 ㎜。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "FPD 装置で誤っているのはどれか。",
+      "choices": {
+        "a": "直接変換方式では動画撮影ができる。",
+        "b": "間接変換方式ではシンチレータを用いる。",
+        "c": "アナログシステムと比較して DQE は高い。",
+        "d": "直接変換方式ではアモルファスセレンを用いる。",
+        "e": "直接変換方式では地磁気の影響により画像ひずみが生じる。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（５）直接変換方式では地磁気の影響を受けず画像ひずみは起きない。 ※ FPD 装置 ・撮影と同時にデジタル信号を出力するのでリアルタイムに観察可能である。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "DICOM は医用画像と通信の標準規格である。",
+        "b": "SLL は情報を暗号化して送受信するプロトコルである。",
+        "c": "CAD はコンピュータによる医用画像診断支援システムである。",
+        "d": "テレラジオロジーとは医用画像を外部に保存することである。",
+        "e": "HL7 とは医療情報交換のための標準規約である。"
+      },
+      "correctAnswer": "d",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "explanation": "（４）テレラジオロジーとは遠隔診断システムである。 ※ DICOM 主に放射線部門システムで用いられ、動画を含む医用画像・検査情報データの規格および、"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "デジタル乳房 X 線装置の構成で正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "単相式装置が使用されている。",
+        "b": "画素サイズは 0.5 ㎜が主流である。",
+        "c": "AEC の検出器は半導体検出器である。",
+        "d": "付加フィルタには W が使用されている。",
+        "e": "W ターゲットは FPD で使用される。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）インバータ式装置が使用されている。 （２）画素サイズは 50 μ m(0.05 ㎜)が主流である。 （４）付加フィルタには Mo または Rh が使用されている。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "階調処理はどれか。2 つ選べ。",
+      "choices": {
+        "a": "ボケマスク処理",
+        "b": "ヒストグラム平坦化処理",
+        "c": "メディアンフィルタ処理",
+        "d": "ダイナミックレンジ圧縮処理",
+        "e": "リージョングローイング処理"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（１）ボケマスク処理：画像の鮮鋭化処理。 （３）メディアンフィルタ処理：画像の平滑化処理。 （５）リージョングローイング処理：画像の面積(体積)を測定する方法。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "放射線情報システムの機能に含まれないのはどれか。",
+      "choices": {
+        "a": "照射録の作成",
+        "b": "検査の予約管理",
+        "c": "患者基本情報の登録",
+        "d": "検査の実施情報入力",
+        "e": "モダリティとの情報連携"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control"
+      ],
+      "explanation": "（３）患者基本情報の登録：HIS の範囲である。 ※放射線情報システム(RIS) 放射線機器による検査および治療の予約から検査結果までの管理を行うシステムである。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "医療安全に関する事例と用語について正しいのははどれか。すべて選べ。",
+      "choices": {
+        "a": "撮影条件の誤りに気づいて検査実施前に修正した。→ アクシデント",
+        "b": "画像検査中に患者が装置にぶつかり負傷した。→ インシデント",
+        "c": "適切な薬剤のみが接続されるように設計された形状のコネクタを使用した。 → フールプルーフ",
+        "d": "診療放射線技師が使用済み注射針を自ら誤って穿刺した。→ヒアリハット",
+        "e": "気泡の検出と運動する自動停止機能が備わった造影剤注入気を使用した。 → フェイルセーフ"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）撮影条件の誤りに気づいて検査実施前に修正した。→ インシデント、ヒアリハット （２）画像検査中に患者が装置にぶつかり負傷した。→ アクシデント （４）診療放射線技師が使用済み注射針を自ら誤って穿刺した。→ アクシデント"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "増感紙・フィルムのセンシトメトリで正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "タイムスケール法は相反則が成立しない。",
+        "b": "ブーツストラップ法は矩形波チャートを用いる。",
+        "c": "現像処理温度が高いと特性曲線は右側にシストする。",
+        "d": "焦点-フィルム間距離が 2 倍になれば X 線強度は 1/4 倍になる。",
+        "e": "感度が高い増感紙・フィルムの方が特性曲線は右側に位置する。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（２）ブーツストラップ法はアルミステップを用いる。 （３）現像処理温度が高いと特性曲線は左側にシストする。 （５）感度が高い増感紙・フィルムの方が特性曲線は左側に位置する。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "患者の被ばく低減に直接寄与するのはどれか。すべて選べ。",
+      "choices": {
+        "a": "DRL",
+        "b": "焦点サイズ",
+        "c": "仮想グリッド",
+        "d": "付加フィルタ",
+        "e": "ノイズ除去処理"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（４）付加フィルタ：直接寄与する。 ※ DRL(診断参考レベル) 国際放射線防護委員会(ICRP)や国際原子力機関(IAEA)が医療被ばくの最適化を進めるた"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "X 線画像の評価で正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "被写体のコントラストが上昇すれば解像力は低下する。",
+        "b": "ROC 解析は読影者間の能力差を評価することができる。",
+        "c": "RMS 粒状度はフィルム濃度の変動を標準偏差で表している。",
+        "d": "MTF 評価では 10cycles/㎜の特定空間周波数がよく用いられる。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）被写体のコントラストが上昇すれば解像力は低下するとは限らない。 （４）解像力は 1/2d cycles/㎜である(d：分解不能になった細線の幅) （５）MTF 評価では 5cycles/㎜の特定空間周波数がよく用いられる。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "乳房用 X 線装置で誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "Be 窓のところには絶縁油がない。",
+        "b": "Al フィルタにもＫ吸収端がある。",
+        "c": "Mo フィルタの厚さは 0.03 ㎜程度である。",
+        "d": "X 線管焦点は検出器距離は 50 ㎝以下である。",
+        "e": "W ターゲットでは特性Ｘ線はあまり関係がない。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）Al フィルタにはＫ吸収端がない。 （４）X 線管焦点は検出器距離は 65 ㎝以下である。 ※フィルタの厚さ"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "デジタル特性曲線で正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "MTF は A の方が高い。",
+        "b": "X 線コントラストは B のほうが高い。",
+        "c": "ダイナミックレンジは A の方が高い。",
+        "d": "比露光量の対数が 2.0 のときのグラデ ィエントは A の方が高い。",
+        "e": "同じ被写体を撮影した場合の画像コン トラストは A のほうが高い。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（１）MTF は無関係。 （２）X 線コントラストは A のほうが高い。 （３）ダイナミックレンジは B の方が高い。",
+      "image": "mammo/taisaku/19/q20.png"
+    }
+  ]
+}

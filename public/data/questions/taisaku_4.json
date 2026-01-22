@@ -1,0 +1,419 @@
+{
+  "examNumber": 4,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "4",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "SNR に基づいて DQE はつくられた。",
+        "b": "DQE の値は理想システムを 1 に正規化し、1 を超えない。",
+        "c": "DQE は NEQ を撮影システムに入射した単位面積あたりのＸ線光子数で除する。",
+        "d": "SN 比は基本的に撮影に用いられた X 線量に依存して高くなる傾向にある。",
+        "e": "SN 比が大きくなるほどノイズの多い画質の悪い画像となる。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（５）SN 比が小さくなるほどノイズの多い画質の悪い画像となる。 ※ DQE 量子の検出効率を表わしており、検出器が X 線量子をどの程度有効利用して画像形成に"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "特性 X 線は電子が遷移したときに発生する。",
+        "b": "MMG の陽極の回転数は 1000rpm である。",
+        "c": "半導体検出器は Si、Ge が使用されている。",
+        "d": "石灰化の観察はピクセル等倍表示が良い。",
+        "e": "シャウカステンの輝度は 13500cd/㎡以上が望ましい。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）MMG の陽極の回転数は 1 分間で 8000 ～ 9700 回転である。 （５）シャウカステンの輝度は 3500cd/m2 以上が望ましい。10000cd/m2でも良い。 ※半導体検出器"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳房の可動組織は外側と下部で、内側と上部は固定組織である。",
+        "b": "強く圧迫すると鮮鋭度を良くなる。",
+        "c": "MLO 撮影ではカセットの上角を広背筋の後ろに合わせる。",
+        "d": "拡大スポット撮影は乳腺組織付近の病変を見つけやすい。",
+        "e": "B 領域を撮影するには CV 撮影である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（２）強く圧迫すでば鮮鋭度を必ず良くあるわけではない。受診者が耐えれる圧迫。 乳腺を広げて圧迫するすることで鮮鋭度が良くなる。 （３）MLO 撮影ではカセットの上角を広背筋の前に合わせる。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "正しいのはどれか。",
+      "choices": {
+        "a": "早期癌とは 1 ㎝以下である。",
+        "b": "非浸潤癌は広範囲に浸潤していても早期癌である。",
+        "c": "DCIS は壊死型が多いので悪性度が低い。",
+        "d": "ホルモン受容体陽性乳癌にはホルモン療法が推奨される。",
+        "e": "遠隔転移している癌は Stage Ⅲである。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（１）乳癌の大きさが 2 ㎝以下でリンパ節転移がなく、遠隔転移のない場合をいう。 非浸潤癌やパジェット病も含まれる。 （２）早期癌ではなく、非浸潤癌である。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "遺伝性乳癌は 30 ％である。",
+        "b": "乳癌の転移は肺が最も多い。",
+        "c": "副乳には左右差を認める。",
+        "d": "男性乳癌は女性より悪性度が強い。",
+        "e": "乳癌術前化学療法は日本乳癌学会の診療ガイドラインを参考にする。"
+      },
+      "correctAnswer": "c",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）遺伝性乳癌は 5 ～ 10 ％である。 （２）乳癌の転移は骨転移が多いといわれている。 （４）男性乳癌の予後は女性乳癌患者と比べて大きな差はない。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "乳癌検診について誤っているのはどれか。 （１）乳癌検診受診率は約 47 ％(2019 年)である。",
+      "choices": {
+        "a": "乳癌検診受診率の目標値は 50 ％以上である。",
+        "b": "精査受診率の目標値は 70 ％以上である。",
+        "c": "乳癌検診で術後は適応内である。",
+        "d": "乳癌検診でペースメーカは適応外である。"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（３）精査受診率の目標値は 90 ％以上である。 ※精査受診率 許容値は≧ 70 ％、目標値は≧ 90 ％"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌検診では視触診の廃止されたが、行う場合には必ず MMG 併用する。",
+        "b": "乳癌検診では問診記録と結果は 3 年保存しなけらばならない。",
+        "c": "乳癌検診では MMG と US の併用を推奨している。",
+        "d": "乳癌リスクに肥満があるが、影響があるのは閉経後の肥満である。",
+        "e": "dense breast 対策については超音波の導入の検討がなされている。"
+      },
+      "correctAnswer": "b",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）乳癌検診では問診記録と結果は 5 年保存しなけらばならない。 （３）今回は×。直前の講義でも超音波が検診に入るよりも視触診を無くして MMG 単 独検診を推奨する方が早くなりそう。1 月の講義で説明。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "アルコールは乳癌のリスク因子である。",
+        "b": "乳腺過誤腫には被膜がある。",
+        "c": "葉状腫瘍は手術の適応である。",
+        "d": "乳癌の発見は腫瘤触知が多い。",
+        "e": "癌の好発年齢は線維腺腫の好発年齢より若年に頻発する。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（５）癌の好発年齢は線維腺腫の好発年齢より高齢に頻発する。 ※アルコール 日本人女性で乳癌発病のリスクが高くなるかどうかは十分なデータがないために結論が出"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "MMG 用グリッドについて誤っているのはどれか。",
+      "choices": {
+        "a": "集束グリッドを用いている。",
+        "b": "1 秒間に 1 ㎝動くように設定されている。",
+        "c": "露出倍数は 2 ～ 3 である。",
+        "d": "鉛泊の高さ h と鉛泊の間隔 w との比 h/w である。",
+        "e": "乳房厚が厚い人はグリッドを用いないで撮影する。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "screening"
+      ],
+      "explanation": "（５）必ずグリッドを使用する。 ※グリッド比 ・鉛泊の高さ h と鉛泊の間隔 w との比 h/w で定義されている。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "辺縁に凹凸や毛羽立ちがあるものをスピキュラという。",
+        "b": "リンパ節転移があるとステージⅢ以上である。",
+        "c": "乳房内リンパ節は腋窩リンパ節に含まれる。",
+        "d": "腋窩リンパ節の部位は小胸筋の外、背、内側で分けられる。",
+        "e": "T4 は腫瘍の大きに関係なく、皮膚への直接的な広がりを示したものである。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（２）リンパ節転移があるとステージⅡ以上である。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "カテゴリー分類について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "中心透亮性の石灰化が両側にびまん性に分布→カテゴリー 4",
+        "b": "微小円形の石灰化が集簇性に分布→カテゴリー 4",
+        "c": "淡く不明瞭な石灰化が領域性に分布→カテゴリー 2",
+        "d": "多形の石灰化がびまん性に分布→カテゴリー 3",
+        "e": "分枝状の石灰化がびまん性に分布→カテゴリー 5"
+      },
+      "correctAnswer": "a",
+      "category": "image_reading",
+      "categories": [
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）中心透亮性の石灰化が両側にびまん性に分布していた。カテゴリー 2とした。 （２）微小円形の石灰化が集簇性に分布していた。カテゴリー 3 にした。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "CC 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "外側を入れるので、内側は欠けても構わない。",
+        "b": "乳房支持台を高く設定すると下部が欠ける。",
+        "c": "外側を描出するためにやや検側に体を開いて立ってもらう。",
+        "d": "撮影台を上げすぎると乳頭が乳腺内に入り込みやすい。",
+        "e": "検側内側からアプローチするのは乳腺内側を目視できるからである。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）内側もできるだけ入れる。 （３）体を開かない。正面を向く。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "モニタについて誤っているのはどれか。",
+      "choices": {
+        "a": "アルコールを含んだ布でホコリや汚れを拭き取る。",
+        "b": "5M のモニタのピクセルサイズは 165 μ m である。",
+        "c": "5M のモニタの画素数は 2560 × 2048 である。",
+        "d": "TG18-UNL80 を用いて輝度一様性を目視評価する。"
+      },
+      "correctAnswer": "a",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（１）繊維屑のでない清潔な柔らかい布または製造業者が推奨する清掃用具(洗剤な ど)拭き取る。 ※アルコールを含んだ布"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "画像表示システムについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "画面の清掃は JIRA-BN01 を使う。",
+        "b": "TG-18QC でフリッカーの確認をする。",
+        "c": "TG18-QC で 5 ％、95 ％パッチを確認する。",
+        "d": "TG-18QC の中央で輝度均一の確認をする。"
+      },
+      "correctAnswer": "b",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）TG18-UNL80 でフリッカーの確認をする。 （４）TG18-UNL80 の中央で輝度均一の確認をする。 ※画面の清掃"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "モニタに品質管理の組み合わせについて誤っているのはどれか。",
+      "choices": {
+        "a": "周囲光のの確認 JIRA-BN01",
+        "b": "全体評価試験 TG18-QC",
+        "c": "グレースケール試験 TG18-QC",
+        "d": "色度試験 TG18-UNL80",
+        "e": "ビデオアーチファクト TG18-UNL80"
+      },
+      "correctAnswer": "e",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（５）ビデオアーチファクト：TG-18QC"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "測定器について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "輝度計の精度は± 20 ％以内が望ましい。",
+        "b": "圧力計は測定器は少なくとも 50N ～ 300N の範囲の測定ができるものとする。",
+        "c": "TG18-UNL80 テストパターンは輝度・色度の均一性測定に使用する。",
+        "d": "CNR 測定用アルミニウム板のアルミニウム純度は 99 ％とする。",
+        "e": "JIRA-BNo1 ～ 18 テストパターンは輝度の測定に使用する。"
+      },
+      "correctAnswer": "a",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）輝度計の精度は± 10 ％以内が望ましい。 （４）CNR 測定用アルミニウム板のアルミニウム純度は 99.9 ％とする。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "出力が GSDF 特性を示す標準表示システムの入力値はどれか。",
+      "choices": {
+        "a": "S 値",
+        "b": "L 値",
+        "c": "p 値",
+        "d": "EI 値",
+        "e": "IgM 値"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（３）p 値 ※ S 値、L 値、EI 値、IgM 値：CR における相対感度の指標値。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "デジタルマンモグラフィ定期管理について誤っているのはどれ2か。 つ選べ。",
+      "choices": {
+        "a": "コントラスト応答試験 ± 15 ％以内",
+        "b": "最大輝度試験 最大輝度偏差値 10％以内",
+        "c": "輝度比試験 輝度比 200以上",
+        "d": "外部濃度計による階調確認 Dmax ≧ 4.0"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）輝度比試験：輝度比 250 以上 （５）画像検出器の線形性：相関関数の二乗(R2)＞ 99 ％"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "医用画像表示モニタについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "モノクロディスプレイが主流である。",
+        "b": "格子の 1 マスは 50 ピクセルに相当する。",
+        "c": "液晶ディスプレイの輝度低下原因はバックライト CCFL の低下である。",
+        "d": "液晶ディスプレイの暗室コントラスト比は 5000：1 ～ 10000：1 である。",
+        "e": "中間階調特性の変化を復旧するにはキャリブレーションが必要である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）格子の 1 マスは 100 ピクセルに相当する。 （４）液晶ディスプレイの暗室コントラスト比は 600：1 ～ 1000：1 である。 ※ガイドラインの適用範囲"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "X 線出力の再現性及び直線性の定期管理を下記の条件で行った。 Mo ターゲットと Mo フィルタの組み合わせ、大焦点の選択、管電圧 28kV。 正しいのはどれか。",
+      "choices": {
+        "a": "平均値：6mGy 標準偏差：0.04",
+        "b": "平均値：7mGy 標準偏差：0.05",
+        "c": "平均値：8mGy 標準偏差：0.06",
+        "d": "平均値：9mGy 標準偏差：0.07",
+        "e": "平均値：10mGy 標準偏差：0.08"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（２）平均値：7mGy 標準偏差：0.05 ※ X 線出力の再現性 ・変動係数 C ≦ 0.05 とする。"
+    }
+  ]
+}

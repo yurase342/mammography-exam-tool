@@ -1,0 +1,447 @@
+{
+  "examNumber": 10,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "10",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "病期分類は腫瘍の大きさ、進達度で病期が決定される。",
+        "b": "redness は悪性疾患を第一に考える。",
+        "c": "Ｔは視触診、画像診断により総合的に判定する。",
+        "d": "nipple erosion は乳頭部腺腫の場合もある。",
+        "e": "腋窩リンパ節は組織学的に Level Ⅰ、Ⅱ、Ⅲの 3 つに分類される。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）病期分類は腫瘍の大きさ、進達度、リンパ節転移の有無、遠隔転移の有無を組 みわせることで病期が決定される。 （２）発赤(redness)は乳腺炎、乳腺膿瘍などの炎症性疾患を第一に考える。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "乳癌による転移の多い臓器の順について正しいのはどれか。",
+      "choices": {
+        "a": "①肺 ②骨 ③局所皮膚 ④局所リンパ節 ⑤肝",
+        "b": "①肺 ②骨 ③局所皮膚 ④肝 ⑤局所リンパ節",
+        "c": "①肺 ②骨 ③局所リンパ節 ④局所皮膚 ⑤肝",
+        "d": "①骨 ②肺 ③局所リンパ節 ④肝 ⑤局所皮膚",
+        "e": "①骨 ②肺 ③局所リンパ節 ④局所皮膚 ⑤肝"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（５）乳癌による転移の多い部位は、①骨、②肺、③局所リンパ節、④局所皮膚、 ⑤肝である。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "Radial scar は良性腫瘍が多いので癌になることはほとんどない。",
+        "b": "炎症性乳癌で皮膚所見は稀である。",
+        "c": "浸潤性小葉癌には組織亜型のパターンがある。",
+        "d": "tubular carcinoma は境界明瞭で spiculated massを形成する。",
+        "e": "硬性型は周囲の脂肪を巻き込みながら浸潤する。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）炎症性乳癌は皮膚浮腫や皮膚のリンパ管浸潤を伴う。 （４）管状癌(tubular carcinoma)は境界不明瞭で spiculated massを形成する。 ※放射状瘢痕(Radial scar)"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "腫瘤でスピキュラや微細様の変化をする良性疾患もある。",
+        "b": "乳管腺腫は鋸歯状の腫瘤を呈する。",
+        "c": "乳腺症には四型がある。",
+        "d": "Intraductal papilloma は非浸潤性乳管癌になることがある。",
+        "e": "嚢胞内腫瘍の良悪性は年齢に関係ない。"
+      },
+      "correctAnswer": "c",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）線維腺腫は管内型、管周囲型、類臓器型、乳腺症型の四型に分類される。 （５）嚢胞内腫瘍の良悪性は高齢になるほど悪性の確率が高くなる。 ※腫瘤"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線維腺腫は 30 才以上では乳癌が疑われるため、腫瘍摘出術を行う。",
+        "b": "乳管内乳頭腫は非上皮性腫瘍である。",
+        "c": "構築の乱れがあったので、浸潤性小葉癌を疑った。",
+        "d": "Fat necrosis は oil cyst になることが多い。",
+        "e": "70 歳の嚢胞内腫瘍は癌を第一に考える。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）線維腺腫は 30 才では経過観察である。 （２）乳管内乳頭腫は上皮性腫瘍である。 ※線維腺腫は 40 歳以上では乳癌が疑われるため腫瘍摘出術を行う。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "高悪性度の DCIS の石灰化はコメド型であるので血流が少ない。",
+        "b": "DCIS は基底膜を破らないため、星亡状陰影を示さない。",
+        "c": "直接大胸筋に癌が浸潤している場合、胸筋合併乳房切除術が行われる。",
+        "d": "橙皮様、豚皮様変化は特にリンパ管浸潤した乳癌にみられる。",
+        "e": "硬化性腺症は MMG だけでなくエコーでも構築の乱れを確認できる。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（２）DCIS は、星亡状陰影を示すことがある。 ※高悪性度の DCIS の石灰化 ・コメド型であるので血流が少ない。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "米・英では 1990 年代から罹患率は増加しているが、死亡率は減少している。",
+        "b": "感度の高い検査では偽陽性率も増える。",
+        "c": "死亡率を減らすためには受診率、検診精度を高める必要がある。",
+        "d": "欧米の死亡者数は日本に比べて多く、死亡率も増加している。",
+        "e": "乳癌はエストロゲンの影響を受けるので、閉経後急激に罹患率が下がる。"
+      },
+      "correctAnswer": "d",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）欧米の死亡者数は日本に比べて多いが、死亡率は減少している。 （５）閉経後の罹患率は上がる。 ※感度の高い検査では偽陽性率も増える。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っているのはどれか。 （１）T1 は mi(≦ 1 ㎜)を含め、4 つに亜分類されている。",
+      "choices": {
+        "a": "センチネルリンパ節生検で陰性でも転移している場合がある。",
+        "b": "非浸潤性乳管癌は乳管内に広がっていても非浸潤癌である。",
+        "c": "腫瘤の中心に脂肪を含む場合、生検の対象から外れる。",
+        "d": "腫瘤はマンモグラフィーより超音波検査の方が良い。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "explanation": "（４）腫瘤の中心に脂肪を含む場合、生検の対象となることもあるが、脂肪腫などは 経過観察(カテゴリー 2)する。 ※ T1 は 4 つに亜分類する。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "標準撮影では細部まで観察できるように小焦点を用いている。",
+        "b": "マンモグラフィの X 線管陽極の回転数は 8000 ～ 9000rpm である。",
+        "c": "グリッドの移動速度は 1 秒間に 1 往復する速さに定められている。",
+        "d": "実効焦点はＸ線管軸に垂直に下ろした位置である。",
+        "e": "鮮鋭度とコントラストを上げると粒状性が良くなる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）標準撮影では大焦点を使用している。 （５）コントラストが高いほど粒状性は悪くなる。 ※マンモグラフィの X 線管陽極の回転数"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "FPD は直線変換でも間接変換でも TFT を使用する。",
+        "b": "CR で濃度を上げるのは周波数特性である。",
+        "c": "DQE は出力が飽和しない程度の入力量を示す。",
+        "d": "標本化とは連続した画像を離散させることである。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（２）周波数処理は画像の鮮鋭度をコントロールする手法である。濃度は階調処理(ダ イナミックレンジは L 値、システム感度は S 値)。 ※ FPD"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "FPD 直接変換方式では aSe 層で、そのエネルギーに応じたチャージ・キャリ アに変換される。",
+        "b": "ダイナミックレンジとはシステムが許容できる入力量の幅を示す。",
+        "c": "直接変換方式 FPD は蛍光体を使用している。",
+        "d": "階調数が大きいほうがアナログ分布に近くなる。",
+        "e": "光量子モトルは蛍光体層の発光輝度、集合系の集光効率、照射線量に反比例 する。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（３）直接変換方式 FPD は蛍光体を使用していない。 ※直接変換方式 FPD 直接変換方式 FPD は間接変換方式のような蛍光体を使用しておらず、X 線検出器はアモル"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "マンモグラフィについて正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "AEC は圧迫板の表示と実際の検出器の大きさは同じではない。",
+        "b": "AEC が小さ過ぎると線量不足になることがある。",
+        "c": "照射野サイズは乳房を載せる支持体サイズより大きい。",
+        "d": "二重軌道 Mo/Mo の場合のフィルター厚は、0.025 ㎜である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）陰極側に放射(Be)窓を接地している。 （４）照射野サイズは乳房をのせる支持体サイズより小さい。 （５）二重軌道 Mo/Mo の場合のフィルター厚は 0.03 ㎜である。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "LM 撮影は乳腺組織全体を広く描出できる。",
+        "b": "CC 撮影は MLO の補完のため、乳房内側は欠けてはならない。",
+        "c": "C 領域に存在する病変は MLO 撮影で乳頭より下に描出されることがある。",
+        "d": "MLO 方向では ML 方向よりも病変が高い位置に描出されることがある。",
+        "e": "AT 撮影は乳房外側と腋窩全域を描出するための撮影である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（１）MLO 撮影は乳腺組織全体を広く描出できる。 ※ MLO 方向では ML 方向よりも病変が高い位置に描出されることがある。 病変が外側の中央及び下部にある場と中央下部にある場合と病変が中央の下部にある場合"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "A 領域の病変が欠けた場合は SIO 撮影を追加する。",
+        "b": "MLO 撮影では重力によって下垂しやすいため、下方から上方に持ち上げて広 げる。",
+        "c": "MLO 撮影は乳房下部深部を描出しやすい。",
+        "d": "乳房上部は可動性のため、CC 撮影で描出しやすい。",
+        "e": "触知不能である乳房に対してスポット撮影は有効である。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）MLO 撮影では乳房下部深部を描出しにくい。 （４）乳房上部は可動性ではなく、CC 撮影では描出しにくい。 ※ SIO 撮影"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "区域性とは腺葉にそった広がりであり、悪性の注意が必要である。",
+        "b": "微細円形石灰化で領域性はカテゴリー 3 である。",
+        "c": "線状の中心透亮性石灰化はカテゴリー 3 以上つけることができる。",
+        "d": "微小石灰化では間質型か分泌型かを区別することは大切である。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）微細円形石灰化で領域性はカテゴリー 2 である。 （３）線状の中心透亮性石灰化はカテゴリー 1 または 2 である。 ※区域性"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "マンモグラフィについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "CR は相反則不軌が気にならないので撮影時間を長くしても良い。",
+        "b": "停電時の圧迫板は手動で解除できる。",
+        "c": "グリッド比は薄い鉛箔の高さに対するスペーサーに相当する間隔である。",
+        "d": "マンモグラフィ用 AEC の線量値は微分してできる照射時間である。",
+        "e": "モニタ管理は毎日、拡大率、ウインドウ幅、レベルを一定にしておく必要があ る。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）CR は相反則不軌は無視できるが、撮影時間を長くしても良いわけではない。 （４）マンモグラフィ用 AEC の線量値は積分してできる照射時間(照射線量積分値)で ある。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "デジタル品質管理について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "矩形チャートと PMMA ファントムを用いて焦点の性能をフィルムで観察した。",
+        "b": "イメージャの外部濃度計による階調確認は必ず階調確認用のステップウェッジ パターンを使用すること。",
+        "c": "モニタの管理は操作モニターのみを管理すれば良い。",
+        "d": "IEC による平均乳腺線量は入射カーマと PMMA と HVL からもとまる係数、ター ゲット/フィルタから求める係数を掛けたものである。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）焦点の性能評価はアナログのみである。 （３）読影用モニタも管理しなければならない。 （４）拡大撮影(小焦点)を使用する場合。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "品質管理について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "大焦点選択時 X 線出力の空気カーマ率は 7.0mGy/s 以上であること。",
+        "b": "X 線管の幅寸法についての分解能は 13Ip/㎜以上であること。",
+        "c": "圧迫圧の表示精度は± 20N 以内である。",
+        "d": "管電圧の再現性の変動係数は 0.05 以下とする。",
+        "e": "AEC 作動時の AGD の確認は圧迫板なしの半価層を使用する。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）管電圧の再現性の変動係数は 0.02 以下とする。 （５）AEC 作動時の AGD の確認は圧迫板ありの半価層を使用する。 ※大焦点選択時 X 線出力の空気カーマ率",
+      "image": "mammo/jitsuryoku/10/q18.png"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "胸壁端の欠損確認の評価について誤っているのはどれか。 A B C D",
+      "choices": {
+        "a": "CR、DR システムでも構造的な欠損が生じる。",
+        "b": "鉄球 AD は鉄球 BC より焦点から近い。",
+        "c": "この画像では圧迫板によるアーチファクト評価ができない。",
+        "d": "胸壁端の欠損は 6 ㎜以内である。",
+        "e": "焦点の位置は胸壁側にある。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "explanation": "（５）焦点の位置は乳頭側にある。 ※ CR、DR システムでも構造的な欠損が生じる。 DR(FPD)システムはメーカーによって違う。フィルム(または CR)システムみたいに規格"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "AEC の再現性について、管電圧 26kV で５回線量測定し標準偏差は 3.85 であ った。正しいのはどれか。 １回目 ２回目 ３回目 ４回目 ５回目 X 線量 ８０ mAs ７５ mAs ８５ mAs ７５ mAs ８０ mAs",
+      "choices": {
+        "a": "変動係数が 0.04 以下であるので、基準を満たしている。",
+        "b": "変動係数が 0.05 以下であるので、基準を満たしている。",
+        "c": "変動係数が 0.05 以上であるので、基準を満たしていない。",
+        "d": "変動係数が 0.04 以上であるので、基準を満たしていない。",
+        "e": "変動係数が 0.06 以下であるので、基準を満たしている。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（２）変動係数が 0.05 以下であるので、基準を満たしている。 ①平均値(n)は、 (80 ＋ 75 ＋ 85 ＋ 75 ＋ 80)÷ 5 ＝ 79"
+    }
+  ]
+}

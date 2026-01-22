@@ -1,0 +1,432 @@
+{
+  "examNumber": 2,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "2",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "過誤腫は悪性にならない。",
+        "b": "小葉内にできる石灰化は悪性のことが多い。",
+        "c": "乳管腺腫は微細鋸歯状を呈することがある。",
+        "d": "硬化性腺症は間質が線維化する。",
+        "e": "腺腫は管状腺腫と腺筋上皮腫に亜分類される。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）小葉内にできる石灰化は良性の方が多い。基本的に良性疾患は小葉から発生す る。ほとんどの癌は TDLU から発生する。 （５）腺腫は管状腺腫と授乳性腺腫に亜分類される。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "脂肪壊死はオイルシストになる。",
+        "b": "葉状腫瘍は短期間に大きくなるほど悪性である。",
+        "c": "線維腺腫は真の腫瘍ではなく、過形成との説が強い。",
+        "d": "乳管内乳頭腫は良性疾患なので乳頭からの出血を伴わない。",
+        "e": "非浸潤癌はどんなに乳管内進展しても非浸潤癌である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）悪性の判定は間質の細胞密度、細胞異型、分裂の頻度、周囲への浸潤形態、間質 の一方的増殖などから判断する。葉状腫瘍は短期間に大きくなるほど悪性度は高 くなるが、悪性とは言い切れない。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "顆粒細胞腫は分類不能な腫瘍である。",
+        "b": "浸潤性微小乳頭癌は特殊型で悪性度が高い乳癌である。",
+        "c": "粘液癌は特殊型の中でも発生頻度は少ない。",
+        "d": "面疱癌は非浸潤と浸潤性乳管癌の 2 種類ある。",
+        "e": "浸潤性小葉癌、乳頭腺管癌、管状癌は境界不明瞭である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）顆粒細胞腫は非上皮性腫瘍の軟部腫瘍である。 （３）浸潤癌の特殊型で発生頻度がやや高いのは粘液癌、髄様癌、浸潤性小葉癌であ る。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "乳癌がリンパに転移していなくても遠隔転移することがある。",
+        "b": "皮膚の発赤を認める場合は悪性の可能性がある。",
+        "c": "T1N0M0 は早期癌である。",
+        "d": "T は触診だけで画像診断は必要としない。",
+        "e": "炎症性乳癌は T4 である。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（４）T は画像診断を併用して判定する。 ※ T：原発巣 Tis：非浸潤癌あるいは腫瘤を認めない Paget 病。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "ターゲットの物理特性について誤っているのはどれか。",
+      "choices": {
+        "a": "Mo ターゲットの K は 17.48kev、K は 19.61keV である。 α 1 β 1",
+        "b": "Mo ターゲットの原子番号は 42、K 吸収端は 20.0keV である。",
+        "c": "Rh ターゲットの原子番号は 45、K 吸収端は 23.22keV である。",
+        "d": "Rh ターゲットのの K は 22.72keV、K は 20.21keV である。 α 1 β 1",
+        "e": "W ターゲットの原子番号は 74、K 吸収端は 69.53keV である。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（４）Rh ターゲットの K は 20.21keV、K は 22.72keV である。 α 1 β 1 ※ターゲットの物理特性と特性 X 線エネルギー(keV)"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "CRT モニタの特徴について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "鮮鋭度は垂直方向に影響する。",
+        "b": "動画再生に優れている。",
+        "c": "周囲光を暗くして使用する。",
+        "d": "地磁気の影響を受けない。",
+        "e": "幾何学的歪みがある。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）鮮鋭度は周囲光方向の応答特性にのみ影響する。 （４）地磁気の影響を受ける。 ※ CRT の一般的特徴"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "LCD(液晶)モニタの特徴について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "歪みがない。",
+        "b": "明室のほうがよい。",
+        "c": "黒浮きがない。",
+        "d": "残像現象が発生する。"
+      },
+      "correctAnswer": "b",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）画像がちらつき(フリッカー)にくい。 （４）黒が浮く。 ※液晶(LCD)モニタの特徴"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っていのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌検診では確定的影響は心配しなくてもよい。",
+        "b": "日本では乳癌の罹患率、死亡率も増加している。",
+        "c": "乳癌検診では 40 歳以上で 2 年に 1 回 MLO と CC を撮り、視触診をする。",
+        "d": "50 歳代の約 30 ％が脂肪性である。",
+        "e": "特異度が下がると要精検率は低くなる。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）50 歳代の約 10 ％が脂肪性である。 （５）特異度が下がると要精検率は高くなる。 ※要精検率"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "写真濃度は X 線フィルムの透過率の逆数の対数で表す。",
+        "b": "写真濃度 0.3 増加するごとに透過光量が 1/2 になる。",
+        "c": "Ｘ線写真の濃度測定に通常使用される濃度計は拡散濃度計である。",
+        "d": "階調度曲線は特性曲線を微分すると作図できる。",
+        "e": "一定濃度に必要な露光量と感度とは比例する。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（５）一定濃度に必要な露光量と感度とは反比例する。 ※写真濃度 X 線フィルムの不透過度の対数で表す。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "同じ装置で管電圧と mAs が同じであるときの Mo フィルタと Rh フィルタにつ いて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "最高エネルギーは Mo より Rh の方が高い。",
+        "b": "K 吸収端は Rh の方が高い。",
+        "c": "相対光子数は Mo/Rh より Mo/Mo の方が多い。",
+        "d": "K αと K β線のエネルギーは同じである。",
+        "e": "X 線出力は同じである。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）最高エネルギーは同じである。 （５）X 線出力は Mo の方が大きい。 ※最高(最大)エネルギー＝撮影管電圧"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "ある特定の画素値の範囲をモニタで表示できる最大の階調数に拡大して関心の ある領域のコントラストだけを強調する処理はどれか。",
+      "choices": {
+        "a": "DR 圧縮処理",
+        "b": "ヒストグラム平坦化",
+        "c": "ウインドーイング",
+        "d": "ボケマスク処理",
+        "e": "エネルギーサブストラクション処理"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（３）ウインドーイング ※ウインドーイング CRT モニタで画像を観察するときに行う処理のことをいう。ある特定の画素値の範囲(ウ"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "デジタルマンモグラフィについて誤っているのはどれか。",
+      "choices": {
+        "a": "aSi は aSe より X 線の量子変換効率に優れている。",
+        "b": "直接および間接変換方式に使われている半導体は非晶質である。",
+        "c": "直接変換方式 FPD は蛍光体を使用していない。",
+        "d": "信号が即座に画像ができるのは TFT のおかげである。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）aSe は aSi より X 線の量子変換効率に優れている。 ※ aSe と CsI の減弱係数 ヨードは 26 ～ 32keV に K 吸収端を有するため、その化合物である CsI も同じエネルギー"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "CC 撮影では手で引き伸ばし押さえながら圧迫板で圧迫する。",
+        "b": "MLO 撮影では圧迫板の上角は広背筋の前に位置するようにする。",
+        "c": "標準撮影において良悪性の判定が必要な石灰化があったため、拡大撮影を行っ た。",
+        "d": "標準撮影が正しくできていても鑑別診断や再現性の確認が必要であれば追加撮 影を行う。",
+        "e": "AEC の位置はできるだけ胸壁側にする。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（５）AEC の位置は乳頭背側またはやや頭側にする。 ※追加撮影は必要とするための根拠が必要である。 鑑別診断：標準撮影でカテゴリー 3 以上がある場合に良・悪性をの判定を明確にする。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "局所的非対称性陰影は常に非対称性乳房との鑑別を必要とする。",
+        "b": "悪性の石灰化と良性の石灰化はほとんど混在しない。",
+        "c": "淡く不明瞭で集簇性分布はカテゴリー 3 である。",
+        "d": "異物や動脈硬化の石灰化は間質に入る。",
+        "e": "孤立性乳管拡張症は悪性を疑う所見に付随する場合のみ意味する。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（２）悪性の石灰化と良性の石灰化は混在することがある。 ※非対称性乳房組織 非対称性乳房組織とは対側乳房の対応領域と比較して乳房組織の体積が大きいもの、乳房"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "次のうち関係のない組み合わせはどれか。",
+      "choices": {
+        "a": "加算的ラグ効果 残像現象",
+        "b": "TG18Q-QC モニタ",
+        "c": "SCTF 空間分解能",
+        "d": "CNR 鮮鋭度",
+        "e": "GSDF 階調特性"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（４）CNR(コントラスト対雑音比)とはコントラストが高いほど、ノイズが小さいほ ど大きな値を示す画質の指標である。関心領域と背景画像の平均画素値の差を 背景画像の画素値の標準偏差で除したもの。"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "MMG 装置について誤っているのはどれか。",
+      "choices": {
+        "a": "インバーター式装置の電源は単相または 3 相が用いられる。",
+        "b": "インバーター式装置のリプル率は小さい。",
+        "c": "グリッドは 4：1 ～ 6：1 のものが使用されている。",
+        "d": "圧迫板が透明なのはよく観察できるためである。",
+        "e": "デジタルではグリッドを固定している。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（５）リニア(移動型)グリッドを使用している。 ※インバーター式装置 単相や三相電源にかかわらず、一度直流に整流してから高周波化するために電源の位相に"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "圧迫板を装着したまま行う定期管理はどれか。2 つ選べ。",
+      "choices": {
+        "a": "焦点の性能",
+        "b": "管電圧の精度と再現性",
+        "c": "X 線出力測定",
+        "d": "X 線出力の再現性と直線性",
+        "e": "AEC の性能"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）焦点の性能：圧迫板を外して行う。 （２）管電圧の精度と再現性：圧迫板を外して行う。 （４）X 線出力の再現性と直線性：圧迫板を外して行う。",
+      "image": "mammo/jitsuryoku/2/q17.png"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "胸壁端の欠損確認の評価について正しいのはどれか。2 つ選べ。 A B C D",
+      "choices": {
+        "a": "鉄球 AD は、鉄球 BC より焦点から遠い。",
+        "b": "この画像は基準を満たしている。",
+        "c": "この画像では画像欠損の評価ができる。",
+        "d": "この画像では圧迫板によるアーチファクト評価ができる。",
+        "e": "焦点の位置が胸壁側にある。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）鉄球 AD は鉄球 BC より焦点から近い。 （４）この画像では圧迫板によるアーチファクト評価ができない。 （５）焦点の位置が乳頭側にある。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "CNR(コントラスト対雑音比)評価について誤っているのはどれか。",
+      "choices": {
+        "a": "画質の指標としている。",
+        "b": "コントラストが良く、ノイズが少ないと良くなる。",
+        "c": "線量に比例する。",
+        "d": "微小石灰化など細かいものを描出する能力は反映しにくい。",
+        "e": "装置間の比較はできない。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（５）装置間の比較可能である。 ※ CNR(コントラスト対雑音比)評価 ・画質の指標としている。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "ノイズと関係の少ないのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "MTF",
+        "b": "CDMAM ファントム",
+        "c": "RMS 粒状度",
+        "d": "DQE",
+        "e": "ウィナースペクトル"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）MTF：無関係。空間周波数におけるレスポンス関数 （２）CDMAM ファントム：無関係。低コントラストと空間分解能描出能力の評 価に用いる。"
+    }
+  ]
+}

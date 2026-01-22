@@ -1,0 +1,437 @@
+{
+  "examNumber": 24,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "24",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳腺線維症は腫瘍様病変である。",
+        "b": "過誤腫は脂肪を含む腫瘤として読影しても良い。",
+        "c": "悪性の石灰化には分泌型と壊死型がある。",
+        "d": "多くの乳管内乳頭腫は年をとると必ず悪性になる。",
+        "e": "葉状腫瘍は大きくなっても皮膚浸潤することない。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）多くの乳管内乳頭腫は年をとると悪性になる確率が高くなるが、必ず悪性にな るわけではない。 （５）葉状腫瘍は皮膚・胸筋への腫瘍性浸潤はみられないが、皮膚浸潤するという報告"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線維腺腫様過形成は分類不能腫瘍である。",
+        "b": "非浸潤乳管癌はどんなに大きくても早期乳癌である。",
+        "c": "浸潤癌は乳管内進展をすることが多い。",
+        "d": "単孔性の血性乳頭分泌は 10 ％程度が癌である。",
+        "e": "センチネルリンパ節はアイソトープ法が大変だから別のものに変えていく。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（１）分類不能腫瘍は組織片が小さすぎてその由来が判断できない腫瘍である。 （２）早期乳癌は大きさが 2 ㎝以下でリンパ節転移がなく、遠隔転移のない場合をい う。したがって、早期乳癌の定義には大きさに制限がある。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌検診結果は 3 年保存である。",
+        "b": "女性における乳癌の罹患率、死亡率は共に 1 位である。",
+        "c": "乳癌の罹患数は 8 万人を超えている。",
+        "d": "30 歳代は乳癌検診を受けなくても良い。",
+        "e": "陽性反応的中率は有病率の影響を受ける。"
+      },
+      "correctAnswer": "a",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）乳癌検診結果は 5 年保存である。 （２）女性における乳癌の死亡率は 2 位である。 ※ 30 歳代の乳癌検診"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "Mo ターゲット、管電圧、mAs 値が一定、Mo と Rh フィルタを用いたときの X 線入射スペクトルについて誤っているのはどれか。",
+      "choices": {
+        "a": "K αの光子エネルギーの値は異なる。",
+        "b": "K βの光子エネルギーの値は異なる。",
+        "c": "最大出力は異なる。",
+        "d": "K 吸収端エネルギー同じである。",
+        "e": "最大エネルギーは同じである。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（４）K 吸収端が異なる。 ※ K αの光子エネルギー(光子数)は異なる。 Rh フィルタの方が低い。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "マンモグラフィ X 線入射スペクトルについて正しいのはどれか。 6000 6000 4000 4000 2000 2000 0 10 20 30 0 10 20 30 keV keV 図 A 図 B",
+      "choices": {
+        "a": "乳房の透過後の図である。",
+        "b": "ターゲットが違う。",
+        "c": "フィルターが違う。",
+        "d": "管電圧が違う。",
+        "e": "mAs が違う。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（５）図 A、図 B ともに Mo/Mo で乳房透過前のスペクトル図である。K αとK βのピ ークの高さ(光子数)が違う。図の最大管電圧がどちらも 30Kv で同じ。mAs が 減少すると図 B になる。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "CR システムで粒状性が悪かった。粒状性に関係するのはどれか。",
+      "choices": {
+        "a": "量子モトル",
+        "b": "管電圧",
+        "c": "X 線焦点",
+        "d": "フィルタ",
+        "e": "撮影距離"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）量子モトルの影響が一番大きい。 ※ CR システムにおける画像粒状性の支配因子 ・X 線量子モトル、光量子モトル、構造モトルの 3 が挙げられる。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "鮮鋭度は被写体の動きに影響する。",
+        "b": "粒状性が良いとノイズが多い。",
+        "c": "X 線フィルムのカブリは低いほうが良い。",
+        "d": "マンモグラフィのフィルムは高感度、高コントラストである。",
+        "e": "半価層が大きくなると実効エネルギーが小さくなる。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）粒状性が良いとノイズが少ない。 （５）半価層が大きくなると実効エネルギーが大きくなる。 ※鮮鋭度"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "MMG 装置について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "X 線管は高真空である。",
+        "b": "X 線管は冷却のためにすべて絶縁油で満たされている。",
+        "c": "陽極回転数は 3 倍回転で 8000 ～ 9700rpm である。",
+        "d": "半導体検出器はシンチレータが使われている。",
+        "e": "AEC はカセッテ後面検出方式である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）Ｘ線管は絶縁と冷却のため、照射口以外オイルで満たされている。X 線管はす べて絶縁油で覆われているわけではない。 （４）半導体検出器は Si、GE、CdTe、CdznT が使われている。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "マンモグラフィについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "SID が短いため、平行型グリッドを使用しいる。",
+        "b": "グリッド比は 4：1 ～ 6：1 である。",
+        "c": "小焦点は 0.15 ㎜× 0.15 ㎜以下である。",
+        "d": "実効焦点は乳頭側の方が大きい。",
+        "e": "乳房の組織間の X 線吸収差が小さいため、X 線エネルギーが低すぎると被爆が 増加し、逆に高すぎるとコントラストが低下する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）集束型グリッド、クロスグリッドを使用している。 （４）実効焦点は乳頭側の方が小さい。 ※マンモグラフィ"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "次のうち正しいものはどれか。2 つ選べ。",
+      "choices": {
+        "a": "標本化の後に量子化を行う。",
+        "b": "デジタルマンモグラフィでの階調数 256 は１ビットで表現できる。",
+        "c": "ビットが多いとコントラストも上がる。",
+        "d": "モニタの読影は実寸表示で行う。",
+        "e": "GSDF とはフィルムやモニタを備えるべきグレースケール画像表示のための階 調特性のことをいう。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（２）画像は 256 階調(2 の 8 乗)＝ 8 ビットの画像になる。 （３）ビットとはデータ量を表している。ビット多いと階調が増える。なめらかにな るが、コントラストが上がるわけではない。階調曲線を調整することによりコ"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "マンモグラフィ装置でファントムを CR 撮影したところノイズが生じたため、 圧迫板を取り除きファントムを 90 °回して再び撮影を行ったところ、同じノ イズが出ていた。ノイズの原因として考えられないのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "検出器",
+        "b": "グリッド",
+        "c": "圧迫板",
+        "d": "カセッテ",
+        "e": "ファントム"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）圧迫板：ノイズの原因ではない。 （５）ファントム：ノイズの原因ではない。 ノイズの原因として考えられるものは検出器、グリッド、カセッテである。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "管電圧を上げても量子ノイズは大きくならない。",
+        "b": "直接および間接変換方式に使われている a-Se、a-Si は非晶質である。",
+        "c": "CR の読み取りは白色光である。",
+        "d": "DQE を求めるには空間周波数が必要である。",
+        "e": "読影モニタのウィンドウ幅を狭くするとコントラストは良くなる。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（３）励起レーザー光(赤色)の照射によって輝尽発光光(青色)として読み出される。 ※ CR システム レーザービームが輝尽性蛍光体を塗布したイメージングプレートに照射し、潜像となって"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "LCD モニタについて誤っているのはどれか。 （１）5M モニタの解像度(ピクセル数)は 2560 × 2048 である。",
+      "choices": {
+        "a": "視野角が広い。",
+        "b": "定期試験は 6 ヶ月毎に行う。",
+        "c": "バックライトの輝度が上がると最高輝度、最低輝度が同じ比率で上がる。",
+        "d": "液晶ディスプレイの輝度低下の主原因はバックライト CCFL の劣化である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（２）LCD は視野角が狭い。 ※量子ノイズ ・管電圧を上げても大きくならない。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "CC 撮影について正しいのはどれか。",
+      "choices": {
+        "a": "支持台を高くすると乳房下部がブラインドとなりやすい。",
+        "b": "支持台は乳房を最大限持ち上げた時の高さにする。",
+        "c": "被検者の体を装置に対して正対よりやや斜めに立たせる。",
+        "d": "外側が欠けても良い。",
+        "e": "MLO 撮影より乳腺の広がりが悪いので、強めに圧迫する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "explanation": "（２）最大限ではない。充分持ち上げた時の手の高さ、もしくは inframammary foldの 高さ。 （３）被検者の体は装置に対して正対に立たせる。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "MLO 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "上部内側は簡単に入る。",
+        "b": "乳房の上部外側の深部が描出可能である。",
+        "c": "常に角度を一定にする。",
+        "d": "可動組織を固定組織のほうに圧迫していく。",
+        "e": "大胸筋が入っていても乳腺をすべて引き出せたとは一概にいえない。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）上部内側や乳房下部組織はブラインドになりやすい。 （３）常に角度を一定にする必要はない。体型によって角度を変える。 ※ MLO 撮影"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "拡大撮影の倍率は 1.6 倍である。",
+        "b": "マンモグラフィ撮影では 1 秒以下となるような管電圧を設定する。",
+        "c": "拡大撮影は通常の撮影より鮮鋭度が良い。",
+        "d": "厚さ 5 ㎝の乳房で線量を下げるため、グリットを外した。",
+        "e": "ソフトコピー診断でも追加撮影は必要である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）大きい乳房の場合、画質が低下することがある。一概にいえない。 （４）厚さに関係なく、必ずグリッドを使用する。 ※拡大撮影"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "実施頻度が 1 年毎の品質管理項目はどれか。2 つ選べ。",
+      "choices": {
+        "a": "スクリーンとフィルムの密着性",
+        "b": "画像歪み",
+        "c": "画像表示システムの確認",
+        "d": "イメージャの管理",
+        "e": "空間分解能"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）画像歪み：1 年毎 （５）空間分解能：1 年毎 ※ 6 ヶ月に一度行う品質管理項目"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "圧迫器の品質管理について誤っているのはどれか。",
+      "choices": {
+        "a": "準備するものは軟質ゴム、精度± 5 以内の圧力計、定規である。",
+        "b": "圧力計の計測部分に軟質ゴムを置く。",
+        "c": "圧迫圧の持続性については 1 分間の加圧中における指示値の変動分を記録する。",
+        "d": "圧迫厚の表示精度は圧迫圧 120 ～ 150N のとき± 5 ㎜以内である。",
+        "e": "停電時の圧迫圧の自動解除は目視で確認する。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（４）圧迫厚の表示精度は、圧迫圧 100 ～ 120N のとき± 5 ㎜以内である。 ※ X 線装置の圧迫器の確認 ・1 分以上持続して測定できる圧迫計を使用する。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "AEC の性能評価について誤っているのはどれか。",
+      "choices": {
+        "a": "被写体厚特性は被写体が厚くなるほど濃度は高くなる。",
+        "b": "管電圧特性は管電圧が高くなるほど濃度は低下し、mAs 値が増加する。",
+        "c": "一定の kV ではファントム厚の増加に伴い、mAs 値が増加する。",
+        "d": "一定のファントム厚では kV の上昇に伴い、mAs 値が減少する。",
+        "e": "AEC の再現性の変動係数は C ≦ 0.05 である。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading"
+      ],
+      "explanation": "（１）被写体厚特性は被写体が厚くなるほど濃度は低下する。 ※ AEC の性能評価 ・管電圧特性は管電圧が高くなるほど濃度は低下し、mAs 値が増加する。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "ダイナミックレンジの定期管理について誤っているのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "乳房の皮膚付近を調べる。",
+        "b": "ステップウェッジファントムは胸壁側に配置する。",
+        "c": "ステップウェッジファントムのウェッジ部は乳頭側に配置する。",
+        "d": "上に載せる PMMA ファントムは受光部全体を覆うようにする。",
+        "e": "濃度計を用いて計測する。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）配置する場合、全体を覆わなくても良い。 （５）収集した画像の目視評価、定量評価を行う。 ※ダイナミックレンジの定期管理"
+    }
+  ]
+}

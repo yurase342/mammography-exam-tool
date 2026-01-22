@@ -1,0 +1,457 @@
+{
+  "examNumber": 13,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "13",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "非面疱癌の石灰化は多形、分枝状の形態をとる。",
+        "b": "硬性型は領域性に浸潤していく。",
+        "c": "良性病変は乳管より小葉で発生する。",
+        "d": "葉状腫瘍は皮膚・胸筋への腫瘍性浸潤はみられない。",
+        "e": "中心壊死を起こす非浸潤性乳管癌は増殖性が低いため、悪性度も低い。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）面疱癌はマンモグラフィ上では多形、分枝状の形態をとる。 （５）中心壊死を起こす非浸潤性乳管癌は悪性度が高い。 ※面庖型と非面庖型"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳腺穿刺吸引細胞診は腫瘤性病変に対して行われる。",
+        "b": "硬化性腺症は萎縮・嚢胞内乳頭腫などが原因である。",
+        "c": "微細線状、鋳状石灰化の 70 ％は悪性なので針生検は必要ない。",
+        "d": "浸潤性乳管癌で乳管成分が一番多いものは腺管形成型である。",
+        "e": "乳腺症には様々な病態があるが、それぞれの病態で癌への危険度が違う。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）乳腺症は萎縮・嚢胞内乳頭腫などが原因である。 （３）微細線状鋳状石灰化は針生検が必要である。 ※乳腺穿刺吸引細胞診"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "Invasive Lobular Carcinomaは構築の乱れとスピキュラを伴う。",
+        "b": "乳腺症は線維嚢胞症とも呼ばれている。",
+        "c": "粘液癌・髄様癌・充実腺管癌は圧排性発育する乳癌である。",
+        "d": "線維腺腫は両側に及ぶ乳癌リスクである。",
+        "e": "乳管内乳頭腫はほとんどが非浸潤性癌になる。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "explanation": "（５）乳管内乳頭腫は稀に非浸潤性癌になることがある。 ※線維腺腫 線維腺腫は軽い乳癌発生のリスクであることが疫学調査の結果、分かってきた。線維腺腫"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "radial scar は腫瘤をもったスピキュラを伴う。",
+        "b": "過誤腫は組織亜型で悪性のものもある。",
+        "c": "ポップコーンサインは線維腺腫の退縮によってできる。",
+        "d": "乳腺浮腫は良性、悪性いずれの疾患でも起こりうる。",
+        "e": "炎症性乳癌は多数の炎症細胞浸潤を伴うのが特徴である。"
+      },
+      "correctAnswer": "c",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（１）radial scar (放射状瘢痕)は腫瘤を持たないが、スピキュラを伴う。 （２）過誤腫は良性腫瘍である。 （５）炎症性乳癌は皮膚の発赤が特徴だが、炎症細胞浸潤によるものではなく、乳房真皮"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "大小胸筋を温存する乳房切除術には Aushincloss 法がある。",
+        "b": "予後を予測する上で組織学的リンパ節の転移の数は最も信頼できる。",
+        "c": "線維腺腫と葉状腫瘍は容易に鑑別することができる。",
+        "d": "硬化性腺症は良性なので内部に ADH などを形成することはない。",
+        "e": "dell はえくぼ様にみえる場合に用いる。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）線維腺腫と葉状腫瘍は病理学的にも鑑別はかなり難しい。 （４）硬化性腺症は癌、(異型)乳管過形成、嚢胞などを形成する。 （５）dimpling sign はえくぼ様に見える場合に用いる。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳頭が入り込むとスピキュラを伴った腫瘤のよう見える。",
+        "b": "腫瘤にスピキュラがあるが核の濃度が低いため、カテゴリー 4 とした。",
+        "c": "スピキュラを伴う X 線不透過性腫瘤をカテゴリー 5 とした。",
+        "d": "微小円形の集簇の石灰化を認めたため、カテゴリー 2 とした。",
+        "e": "線状に広がる中心透亮性の石灰化を認めたため、カテゴリー 3 とした。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）円形・楕円形には見えるが、悪性所見のようには見えない。 （４）微小円形の集簇の石灰化を認めた場合、カテゴリー 3 である。 （５）中心透亮性の石灰化はカテゴリー 1 である。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "読影について誤っているのはどれか。",
+      "choices": {
+        "a": "読影上石灰化の大きさは重要である。",
+        "b": "読影するにあたり乳腺の背景濃度は関係が深い。",
+        "c": "微小石灰化では間質型か分泌型か区別することは大切である。",
+        "d": "乳房の構成の記載は病変が正常乳腺に隠されてしまう危険性の程度を示すも のである。",
+        "e": "腫瘤の辺縁が一部乳腺と重なり全周が終えなかったため、境界不明瞭とした。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（５）評価困難とする。境界不明瞭は正常乳腺の重なりによるものではない。 ※乳房の構成に関する記載 乳房内の乳腺実質の量と分布(脂肪の混在する程度)に関する評価で、病変が正常乳腺に隠"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "日本での乳癌検診について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "現在の乳癌検診受診率は約 60 ％である。",
+        "b": "豊胸術実施者は検診対象外である。",
+        "c": "40 歳代の乳癌検診では問診・MMG・超音波検査を行う。",
+        "d": "授乳中の女性は検診対象外である。",
+        "e": "マンモグラフィの二重読影は確立されている。"
+      },
+      "correctAnswer": "a",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）現在の乳癌検診受診率は 40 ％台に達した。 （３）超音波検査は含まれない。 ※乳癌検診"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "日本では 67 人に 1 人は乳癌で死亡している。",
+        "b": "日本の乳癌罹患年齢が高齢側へシフトしている。",
+        "c": "日本の乳癌罹患率のピークは 40 歳代後半と 60 歳代前半である。",
+        "d": "日本の 65 歳以下の部位別死亡率は乳癌が 2 位である。",
+        "e": "欧米・英国では乳癌を発症する人は増えているが、死亡する人は減っている。"
+      },
+      "correctAnswer": "d",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（４）65 歳以下の部位別死亡率は乳癌が 1 位である。 ※近年の医療統計 ・乳癌死亡数 14838 人(2019年)"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "MMG 装置について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "常設総ろ過は 0.5 ㎜ Al 以上または 0.03 ㎜ Mo 以上でなければならない。",
+        "b": "乳頭側と胸壁側では乳頭側の方が鮮鋭度が良い。",
+        "c": "X 線発生装置は両側接地である。",
+        "d": "1 次Ｘ線透過率限界値は 80 ～ 85 ％である。",
+        "e": "陽極の回転数は 1 分間で 10000 回転である。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）陰極(カソード)接地型もしくは陽極(アノード)接地型 X 線管である。 （５）陽極回転数は 3 倍回転で 8000 ～ 9700rpm である。 ※ MMG 装置"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "潜像退行とは経時変化によって現像後のフィルム濃度が照射直後の濃度の変化 に比べて低下する現象のことをいう。",
+        "b": "写真濃度が 0.3 増加するごとに透過光量が 1/4 になる。",
+        "c": "CR で濃度を上げるのは周波数特性である。",
+        "d": "相対露光量 0.15 ステップ 1 と 3 では濃度は 0.3 倍である。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（２）写真濃度が 0.3 増加するごとに透過光量が 1/2 になる。 （３）周波数処理は画像の鮮鋭度をコントロールする手法である。濃度は階調処理(ダ イナミックレンジは L 値、システム感度は S 値)。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳腺組織と乳癌の吸収係数は乳腺組織の方が小さい。",
+        "b": "ビット数が大きいほど最高濃度は高くなる。",
+        "c": "FPD では直接型より間接型の方が空間分解能が良い。",
+        "d": "a-Se と a-Si は結晶構造をしている。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）ビット数は濃度とは無関係である。 （４）FPD では間接型より直接型の方が空間分解能が良い。 （５）a-Se と a-Si は非晶質である。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "MMG 装置について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "AEC は半導体検出器が主流である。",
+        "b": "X 線強度は陰極側が大きく線質は硬い。",
+        "c": "AEC は乳房の下、受光部の上である。",
+        "d": "0.8 ～ 1.0 ㎜厚の Be 窓は唯一の固有ろ過である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）X 線強度は陰極側が大きく、線質は柔らかい。 （３）AEC は受光体より下に位置する。 ※ MMG 装置"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "外側の追加撮影は XCC のみで良い。",
+        "b": "MLO 撮影のブラインドエリアは上部内側と乳房下部である。",
+        "c": "CC 撮影で撮影台を上げすぎると、乳頭が乳腺内に入り込みやすい。",
+        "d": "MLO 撮影では再現性を良くするために C アームの角度を固定して撮影するこ とがある。",
+        "e": "体外から触知できない腫瘤はスポット撮影を行う。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（１）他に追加撮影する場合がある。 ※ MLO 撮影 ・ブラインドエリアは上部内側と乳房下部である。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "FB 撮影は上部の病変部の描出に有効である。",
+        "b": "石灰乳石灰化は CC 撮影すると Tea cup sign となる。",
+        "c": "MLO 撮影ではカセッテの上端を広背筋の前に合わせる。",
+        "d": "FAD で腫瘤が触知できない場合、スポット撮影は有効である。",
+        "e": "MLO と CC を組み合わせると病変の位置の断定ができる。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）石灰乳石灰化は MLO 撮影すると、Tea cup sign となる。 （５）ML 撮影を追加する。 ※ FB 撮影"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "マンモグラフィについて正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "C アームは電源を切れた場合を除いて確実に固定されている。",
+        "b": "管電圧は 25 ～ 32kV で 1kV 以下の設定ができること。",
+        "c": "フィルム濃度測定では測定点で拡散された光のうち平行光を測定する。",
+        "d": "濃度計は精度± 0.02、0 ～ 4.0 以上測定できるものが望ましい。",
+        "e": "電動または空気圧などで行う乳房圧迫操作は、20N 以下の加圧調整の操作が できること。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（１）C アームは電源が切れたり復帰したりしても解除されない。 （３）フィルム濃度測定では測定点で拡散された光のうち拡散光を測定する。 （５）電動または空気圧などで行う乳房圧迫操作は、70N 以下の加圧調整の操作がで"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "品質管理について誤っているものはどれか。2 つ選べ。",
+      "choices": {
+        "a": "圧迫厚の表示精度は圧迫圧 100 ～ 120N のとき± 5 ㎜以内である。",
+        "b": "光照射野と X 線照射野のズレは SID2 ％以内である。",
+        "c": "自動現像機管理用フィルムは毎日濃度ステップの高濃度側を先頭、乳剤面の上下 の向きを一定にして処理する。",
+        "d": "X 線管の幅寸法についての分解能は 11Ip/㎜以上である。",
+        "e": "CR の AEC 性能評価は CR システムのシステム感度を用いて行う。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）管理用フィルムは毎日濃度ステップの低濃度側を先頭、乳剤面の上下の向きを 一定にして処理する。 （４）X 線管の幅寸法についての分解能は 13Ip/㎜以上である。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "次のうち誤っているのはどれか。 （１）管電圧計は臨床で使用する管電圧の範囲を含み、精度は± 2 ％以内(または 0.7 kV 以内)とする。",
+      "choices": {
+        "a": "輝度計は少なくとも画像表示システムの輝度範囲の測定ができ、精度は± 5 ％ 以内が望ましい。",
+        "b": "センシトメトリは自動現像機で使用される。",
+        "c": "X 線装置の性能評価手順は管電圧→ X 線出力→ HVL →平均乳腺線量→ファント ム画像評価である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "explanation": "（２）輝度計は少なくとも画像表示システムの輝度範囲の測定ができ、精度は± 10 ％ 以内が望ましい。 ※管電圧計"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "CR を使用している施設の点検について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "6 ヶ月に 1 度、圧迫圧を± 10 Ｎ以内で管理している。",
+        "b": "AEC の性能評価を 6 ヶ月に 1 度行っている。",
+        "c": "毎日の画像評価の管理濃度は、1.5 ± 0.15 で行っている。",
+        "d": "管電圧の精度を 1 年に一回、25 ～ 32kV を± 5 ％以内で管理している。",
+        "e": "焦点の性能評価は不要である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）AEC の性能評価は年に一度である。 （３）毎日の画像評価の管理濃度は 1.5 ± 0.1 で行う。 ※圧迫圧を± 10 Ｎ以内で管理するのが望ましいとしている。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "焦点の性能について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "拡大率 10 ～ 30 倍の拡大鏡を使用する。",
+        "b": "矩形の解像力チャートは空間分解能 5 ～ 10 lp/㎜まで評価できるものを使用す る。",
+        "c": "自動現像器の濃度は 0.6 ～ 1.0 になるようにする。",
+        "d": "分解能は幅寸法 13 lp/㎜以上、長さ寸法 11 lp/㎜以上である。",
+        "e": "チャートは全長が見える最も高い周波数を読む。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（２）矩形の解像力チャートは空間分解能 16 ～ 20 lp/㎜まで評価できること。 （３）臨床で使用している自動現像器の濃度は 1.2 ～ 1.6 である。 （５）パターン像の長さの半分以上が明瞭に描出している最も高い周波数の像がフィ"
+    }
+  ]
+}

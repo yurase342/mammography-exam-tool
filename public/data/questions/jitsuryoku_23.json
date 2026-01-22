@@ -1,0 +1,445 @@
+{
+  "examNumber": 23,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "23",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "硬化性腺症は乳管で発生する。",
+        "b": "非浸潤癌は大きくても非浸潤癌である。",
+        "c": "乳管内乳頭腫が末端部にできることは少なくはない。",
+        "d": "乳管腺腫の同義語として硬化性乳管内乳頭腫がある。",
+        "e": "小葉は分泌物を産生する細乳管とそれを取り巻く小葉内間質からなる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（１）硬化性腺症は小葉で発生する。 ※小葉 分泌物を産生する細乳管とそれを取り巻く小葉内間質からなる。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "真の DCIS は完全に切除できれば転移しない。",
+        "b": "放射状瘢痕は脂肪を巻き込み、中心は明らかな腫瘤があるものもある。",
+        "c": "過誤腫は幾つかの亜型があり、良悪の鑑別が必要なものがある。",
+        "d": "乳癌を大きく分類すると非浸潤癌、微小浸潤癌、浸潤癌、Paget病である。",
+        "e": "モンドール病とは乳房または胸郭前璧に見られる表在性の静脈炎をいう。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）放射状瘢痕は脂肪を巻き込み、中心透亮性の腫瘤である。 （３）過誤腫は明らかな良性なので良悪性の鑑別は不要である。 ※真の DCIS"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "乳癌の発生場所は C と C ´で 55 ％を占める。",
+        "b": "センチネルリンパ節陽性の場合、非定型的乳房切除術を行う。",
+        "c": "乳癌の手術方法には温存療法と胸筋温存乳房切除術が主流である。",
+        "d": "20 ～ 30 代で触診、画像上で境界明瞭な腫瘤があった場合、線維腺腫を考えて 針生検はせずに経過観察で良い。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（５）針生検を行ったうえで経過観察するか判断する。 ※乳癌の発生場所 ・C と C ´で 55 ％を占める。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "わが国の壮年期の癌死亡率は乳癌が第 1 位である。",
+        "b": "わが国の年齢調整死亡率は乳癌が第 5 位である。",
+        "c": "乳癌罹患率は 2003 年より大腸癌を抜いて 1 位である。",
+        "d": "特異度が上がると要精検率は高くなる。",
+        "e": "陽性反応的中度は有病率に左右されない。"
+      },
+      "correctAnswer": "d",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）特異度が下がると要精検率は高くなる。 （５）陽性反応的中度は有病率に左右される。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "MMG 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ポジショニングを行うときは固定組織を可動性組織に移動させる。",
+        "b": "圧迫板は可動領域から固定領域にかけて圧迫していく。",
+        "c": "乳房の可動組織は外側と下部で、内側と上部は固定組織である。",
+        "d": "フィルムの中心は乳頭部を中心にする。",
+        "e": "高齢の女性で乳房厚 3 ～ 5 ㎝の場合、28kV で Mo/Mo は適切である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）ポジショニングを行う時は可動性組織を固定組織に移動させる。 （２）圧迫板は固定領域から可動領域にかけて圧迫していく。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "CC 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "非検側に体を向かせる。",
+        "b": "撮影台を上げすぎると乳頭が乳腺内に入り込みやすい。",
+        "c": "検側内側からポジショニングを行い、内側を目視する。",
+        "d": "外側に皮膚のしわが入りやすい。",
+        "e": "MLO よりも広がりにくいため、圧迫板で広げて撮影する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）正面を向いて立ってもらう。 （５）手で引き伸ばし、押さえながら圧迫板で圧迫する。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "MLO 撮影について正しいのはどれか。",
+      "choices": {
+        "a": "大胸筋を入れすぎると、乳腺の圧迫が不十分になることがある。",
+        "b": "前方に引き出し、上に持ち上げて圧迫すると良い。",
+        "c": "A 領域にある病変が乳頭より下側にくることはない。",
+        "d": "C 領域は乳頭より下に見えることはない。",
+        "e": "大胸筋の内側と平行にカセッテホルダを整位する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "pathology",
+        "digital_imaging"
+      ],
+      "explanation": "（２）上に持ち上げるのではなく、前方に引き出し手で押さえながら圧迫する。 （３）X 線装置の傾斜角により A 領域にある病変が乳頭より下側にくることがある。 （４）X 線装置の傾斜角により C 領域は乳頭より下に見えることがある。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "拡大撮影は精密にみるために小焦点を選択する。",
+        "b": "拡大撮影は密着撮影に比べて撮影時間が長い。",
+        "c": "乳房圧が乳頭側と胸壁側で厚さが違うほどコントラストがつく。",
+        "d": "FB 撮影は上部に mass があるものに使用する。",
+        "e": "C 領域を写したい時、SIO 方向で追加撮影する。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）乳房圧が乳頭側と胸壁側で厚さが違うほどコントラストが悪くなる。 （５）A 領域上部を写したい時、SIO 方向で追加撮影する。 ※拡大撮影は密着撮影に比べて撮影時間が長い(△相対的判断)。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "脂肪性、乳腺散在、不均一高濃度、高濃度で最も病変を観察しやすいのは、不 均一高濃度である。",
+        "b": "多形性石灰化はすべて小葉の中にある。",
+        "c": "皮膚の石灰化は多形性を呈することがあり、しばしば悪性との鑑別が必要であ る。",
+        "d": "異栄養性石灰化は明らかな良性である。",
+        "e": "微細線状石灰化は分布によりカテゴリーが変わる。"
+      },
+      "correctAnswer": "c",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（１）脂肪性、乳腺散在、不均一高濃度、高濃度で最も病変を観察しやすいのは、脂肪 性である。 （２）すべてではない。皮膚やリンパ節にも存在する。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "スピキュラがあれば必ず癌である。",
+        "b": "両側に同じような形状の腫瘤があったらカテゴリー 3 である。",
+        "c": "脂肪があり、大きさが 2 ㎝あるリンパ節はカテゴリー 2 である。",
+        "d": "乳腺部分に周囲に比べて低濃度で境界明瞭の比較的大きい腫瘤があった場合、 カテゴリー 2 とする。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）良性疾患(放射状瘢痕、膿瘍)でもスピキュラを伴うことがある。 （２）両側に同じような形状の腫瘤があってもカテゴリー 3 になるとは限らない。 腫瘤の形状、濃度によって変わる。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "アナログよりデジタルの方がスループットが向上している。",
+        "b": "アナログもデジタルも階調処理はコントラストと関係がある。",
+        "c": "アナログよりデジタルの方がダイナミックレンジが広い。",
+        "d": "アナログよりデジタルの方が粒状性が良い。"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）アナログは階調処理ができない。 （５）アナログよりデジタルの方が粒状性が悪い。 ※スループット(単位時間あたりの処理能力)"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "出力線量の最も多いものと少ないのはどれか。",
+      "choices": {
+        "a": "Mo/Mo と Mo/Rh",
+        "b": "W/Rh と Mo/Mo",
+        "c": "Mo/Mo と W/Rh",
+        "d": "W/Rh と Mo/Rh",
+        "e": "Mo/Mo と Rh/Rh"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（３）Mo/Mo と W/Rh ※出力線量 Mo/Mo → Mo/Rh → Rh/Rh → W/Rh の順に出力線量は小さくなる。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "MMG について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳腺組織の線吸収係数は乳癌の線吸収係数より若干低い。",
+        "b": "ヒール効果により陰極側は強度が強く軟 X 線である。",
+        "c": "常設総ろ過は 0.5 ㎜ Al または 0.03 ㎜ Mo 未満であってはならない。",
+        "d": "MMG のグリット比は 8：1 ～ 12：1 が使用されている。",
+        "e": "マンモグラフィ用シャウカステンの輝度は 1500cd/㎡以上が望ましい。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "anatomy",
+        "pathology",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）文献では 4：1 ～ 5：1 と掲載されているが、6：1 のものもある。 （５）マンモグラフィ用シャウカステンの輝度は 3500cd/㎡以上が望ましい。 ※常設総ろ過"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "間接変換方式では透過した X 線は一度光に変換され、a-Si 等のフォトダイード で電子信号に変換される。",
+        "b": "DQE とは検出器がＸ線光子をどの程度無駄なく捕獲して画像の構成に役立たせ ているかの尺度である。",
+        "c": "ダイナミックレンジ処理によって可視領域を広くすると鮮鋭度が良くなる。",
+        "d": "FPD での信号が即座に画像ができるのは TFT のおかげである。",
+        "e": "直接および間接変換方式に使われている a-Se、a-Si は結晶構造である。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（５）直接および間接変換方式に使われている a-Se、a-Si は非晶質である。 ※ DQE ある X 線光子数がシステムに入射したときに、どれだけの X 線光子が利用されたかを示"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "画像コントラストを高めるための因子のうち誤っているのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "管電流を上げる。",
+        "b": "管電圧を下げる。",
+        "c": "撮影距離を長くする。",
+        "d": "付加フィルタを薄くする。",
+        "e": "ガンマの高いフィルムを用いる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）管電流を上げる：無関係 （３）撮影距離を長くする：無関係 ※Ｘ線写真コントラストを改善する方法"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "焦点の性能評価(定期管理)について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "分解能は幅寸法 13 lp/㎜以上、長さ寸法 11 lp/㎜以上である。",
+        "b": "チャートは全長が見える最も高い周波数を読む。",
+        "c": "矩形の解像力チャートの空間分解能は 16lp/㎜～ 20lp/㎜まで評価できること。",
+        "d": "使用するスクリーンは臨床で用いるものよりも鮮鋭度の高いものを使用する。",
+        "e": "チャート内の背景濃度が 1.2 ～ 1.6 となる mAs 値を設定する。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）パターン像の長さの半分以上が明瞭に描出している最も高い周波数の像がフィ ルムの胸壁から 10 ㎜以内であることを確認し、その周波数を記録する。 （４）使用するスクリーンは臨床で用いているものであれば良い。鮮鋭度の高いもの"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "X 線出力及び再現性、直線性について誤っているのはどれか。",
+      "choices": {
+        "a": "線量計検出器の実効中心は支持台胸壁端から 60 ㎜のところに配置し、支持台 から 40 ㎜離す。",
+        "b": "X 線照射範囲は 50 ㎜以下とする。",
+        "c": "X 線出力の再現性、直線性の場合、乳房圧迫板を外す。",
+        "d": "Ｘ線出力の直線性試験の変動係数は 0.05 以下とする。",
+        "e": "X 線出力の空気カーマ率 7.0mGy/s 以上の基準は、Mo ターゲットと Mo フィル タの組み合わせ、大焦点の選択、管電圧 28kV の設定である。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "explanation": "（４）X 線出力の直線性の確認は次式から求める。 mAs 値あたりの線量を X1 および X2 とすると、 ｜ X1 － X2 ｜≦ 0.10(X1 ＋ X2)"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "画像歪み(定期管理)について誤っているのはどれか。2 つ選べ。 （１）金網(4 メッシュ以上)または相当品を使用する。",
+      "choices": {
+        "a": "圧迫板を外す。",
+        "b": "40 ㎜の PMMA の上に金網を載せる。",
+        "c": "撮影条件は PMMA20 ㎜の同等の線量をマニュアルで照射する。",
+        "d": "画像に幾何学的歪みがないことを目視で観察する。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）乳房圧迫板を PMMA に接するように配置する。 （３）金網を 2 枚の PMMA(厚さ 10 ㎜)で挟み、乳房指示台の上に置く。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "空間分解能(定期管理)について誤っているのはどれか。",
+      "choices": {
+        "a": "SCTF 測定用チャートを PMMA の上に配置する。左右中央、胸壁から 60 ㎜の 位置にチャートの線群がくるように配置する。",
+        "b": "臨床に使う照射モードを選択し、X 線を照射する。",
+        "c": "圧迫板を取り外し、マニュアルモードに設定する。",
+        "d": "STCF の値は通常 2 ㎜/lp より 4 ㎜/lp のほうが大きい。",
+        "e": "拡大撮影を使用する場合は小焦点を選択し、4、8lp/㎜の線群について SCTF を 求める。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "explanation": "（４）STCF の値は通常 2 ㎜/lp より 4 ㎜/lp のほうが小さい。 ※方法 圧迫板を PMMA に接するように配置し、臨床に使う照射モードを選択し、X 線照射する。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "IEC による平均乳腺線量(AGD)ついて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線量計検出器の実効中心を胸壁から 60 ㎜、乳房支持台から高さ 40 ㎜のところ に置く。",
+        "b": "圧迫透過後の HVL の値を使用する。",
+        "c": "臨床に使う照射モードを選択し、線量計を置いて照射する。",
+        "d": "PMMA 厚が大きくなるほど係数 g の値は小さくなる。",
+        "e": "PMMA20 ㎜においてグリッドを使用する場合、3mGy 以下とする。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）照射モードをマニュアルに設定し、線量計を置いて照射する。 （５）PMMA40 ㎜においてグリッドを使用する場合、3mGy 以下とする。 ※ PMMA 厚が大きくなるほど係数 g の値は小さくなる。"
+    }
+  ]
+}

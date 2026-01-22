@@ -1,0 +1,410 @@
+{
+  "examNumber": 7,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 19,
+  "sourceType": "taisaku",
+  "round": "7",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌は筋上皮から発生する。",
+        "b": "乳管内乳頭腫は非上皮性腫瘍である。",
+        "c": "線維腺腫は脂肪を含まない病変である。",
+        "d": "浸潤癌は浸潤性乳管癌と特殊型に分類される。",
+        "e": "嚢胞と嚢胞内腫瘍を見分けるのは超音波が極めて有効である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）乳癌は腺上皮から発生する。 （２）乳管内乳頭腫は上皮性腫瘍である。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "髄様癌は辺縁明瞭である。",
+        "b": "乳癌は再発すれば治らない。",
+        "c": "悪性石灰化には分泌型と壊死型がある。",
+        "d": "リンパ節転移の個数が多いほど再発の可能性は高くならない。",
+        "e": "指で皮膚を寄せると陥凹が出現する場合をえくぼ症状という。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（４）リンパ節転移の個数が多いほど再発の可能性は高くなる。 ※再発の可能性 浸潤性乳管癌に伴う広範囲乳管内成分、若年、ER 陰性、断端陽性、面疱癌、リンパ管侵"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "圧迫圧の効果について誤っているのはどれか。",
+      "choices": {
+        "a": "挟めば挟むほど良い。",
+        "b": "乳腺組織線量が減少する。",
+        "c": "コントラストおよび鮮鋭度が向上する。",
+        "d": "しっかり挟むことで体動によるボケがなくなる。",
+        "e": "被写体と受像機の距離が短くなるので鮮鋭度が良くなる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "explanation": "（１）挟むにも過大な苦痛を与えない程度が良い。 ※圧迫の効果 適切な圧迫は被曝線量を低減し高画質のマンモグラムを得るために重要である。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "乳癌検診の年齢上限は検討中である。",
+        "b": "乳癌検診の目的は罹患率を下げることである。",
+        "c": "近年の乳癌罹患率は 2016 年でで 9 万人である。",
+        "d": "近年の乳癌死亡率は 2016 年で 1 万 4 千人である。",
+        "e": "乳癌の死亡率のピークは 60 後半に移行してきている。"
+      },
+      "correctAnswer": "b",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（２）乳癌検診の目的は死亡率を下げることである。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "量子化レベル数は 2 の b 乗のとき、b ビット量子化という。",
+        "b": "量子化レベル数、階調、グレーレベルは濃度分解能と大きく関係する。",
+        "c": "量子化で読み取る間隔のことを量子化レベル数、階調、グレーレベルという。",
+        "d": "量子化レベル数が大きいほうが、画像の濃淡の微妙な表現が良くなる。"
+      },
+      "correctAnswer": "d",
+      "category": "image_reading",
+      "categories": [
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（４）256(2 の 8 乗)種類に量子化する場合は 8 ビット量子化(階調が 8 ビット)という。 ※量子化 振幅のアナログ情報(濃度、輝度)を一定の間隔で離散的な整数値で読み取る操作である。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "サンプリング間隔は空間分解能と大きく関係する。",
+        "b": "標本化で読み取る間隔のことをサンプリング間隔という。",
+        "c": "標本化とは画像における位置のアナログ情報を一定の間隔で読みとる 操作である。",
+        "d": "画素サイズが大きくなるほど空間分解能が良くなる。",
+        "e": "画素サイズが大きくなるほどマトリクスサイズは大きくなる。"
+      },
+      "correctAnswer": "d",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）画素サイズが小さくなるほど空間分解能が良くなる。 （５）画素サイズが小さくなるほどマトリクスサイズは大きくなる。 ※画素数"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "5MP の解像度は 2,048 × 2,560 である。",
+        "b": "解像度が変わると画面全体のサイズも変化する。",
+        "c": "解像度が変わっても画像ピッチ、空間周波数は変化しない。",
+        "d": "モニタの構造は液晶パネルとバックライトで構成されている。",
+        "e": "表示輝度はバックライト輝度と液晶パネルの透過率で決定される。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）解像度が変わっても画面全体のサイズは同程度である。 （３）解像度が変わると画像ピッチ、空間周波数が変化する。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "液晶モニタは LED が主流となっている。",
+        "b": "院内にある多くの汎用モニタはγ 2.2 が標準である。",
+        "c": "コントラスト比は最大輝度から最小輝度を引いた値である。",
+        "d": "コントラスト比は表示輝度範囲のダイナミックレンジを表す。",
+        "e": "液晶モニタの経時的輝度劣化はバックライトに使用される光源の経時変化特性 に依存しない。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）コントラスト比は最大輝度を最小輝度に除した値である。 （５）液晶モニタの経時的輝度劣化はバックライトに使用される光源の経時変化特性に 大きく依存している。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "マトリクスが大きいほどデータ量は少なくなる。",
+        "b": "ピクセルサイズが小さいほど解像度が良くなる。",
+        "c": "エリアシングエラーは量子化によって起こる。",
+        "d": "データー量は縦のマトリクスサイズ×横のピクセルサイズである。"
+      },
+      "correctAnswer": "a",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）マトリクスが大きいほどデータ量は多くなる。 （３）エリアシングエラーは標本化によって起こる。 ※エリアシングエラー"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "データ量は圧縮処理後のほうが小さくなる。",
+        "b": "ビューワーとモニターはイコールである",
+        "c": "医用画像は可逆圧縮においてデータを保存する。",
+        "d": "画像において階調数が 2 の G 乗であるとき、G ビット量子化という。"
+      },
+      "correctAnswer": "b",
+      "category": "image_reading",
+      "categories": [
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）ビューワーとモニターはイコールではない。 （５）G の値(量子化レベル数)が大きいほど濃度分解能が良くなる。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "連続 X 線は制動放射である。",
+        "b": "特性エックス線は連続スペクトルを示す。",
+        "c": "ヒール効果は撮影時間が短いほど起こりやすい。",
+        "d": "焦点外 X 線は陽極接地より陰極接地のほうが少ない。",
+        "e": "X 線照射野ガイドライトの照射範囲は撮影台よりも小さい。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）特性エックス線は線＋スペクトルを示す。 （４）焦点外 X 線は陽極接地より陰極接地のほうが多い。 ※連続 X 線"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ハードコピーは濃度測定をする必要はない。",
+        "b": "ダイナミックレンジが広いと鮮鋭度が良くなる。",
+        "c": "輝度比は最高輝度÷最低輝度で求め、250 以上である。",
+        "d": "管電圧波形リプル率が高いほうが X 線出力は大きい。",
+        "e": "レギュラーはオルソより可視光線への変換効率が悪い。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）ハードコピーは濃度測定が必要である。 （４）管電圧波形リプル率が高いほうが X 線出力は小さい。 ※リプル百分率"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "拡大撮影は焦点皮膚間距離が 40 ㎝以上が許容される。",
+        "b": "スポット撮影は乳腺全体撮影よりコントラストが良い。",
+        "c": "B 領域にある病変は MLO 撮影で乳頭より上になることがある。",
+        "d": "接線撮影は乳腺の重なり部分に病変がある場合に適している。",
+        "e": "ML 撮影で乳頭より下、CC 撮影で乳頭より外側にある病変は C 領域にある。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）拡大撮影は焦点皮膚間距離が 20 ㎝以上が許容される。 （５）ML 撮影で乳頭より下、CC 撮影で乳頭より外側にある病変は D 領域にある。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "乳腺のリンパ節について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳房からのリンパ液の排泄ルートは 3 つである。",
+        "b": "乳房内部のリンパ節は腋窩リンパ節に分類される。",
+        "c": "腋窩リンパ節は外、間、内、横に分けられる。",
+        "d": "領域リンパ節には腋窩リンパ節、内胸リンパ節、鎖骨上リンパ節がある。"
+      },
+      "correctAnswer": "c",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）腋窩リンパ節は外、間、内に分けられる。 （４）小胸筋背側および胸筋間(Rotter)のリンパ節は Level Ⅱである。 ※乳房からのリンパ液の排泄ルートは 3 つである。"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "副乳には左右差を認める。",
+        "b": "乳腺過誤腫には被膜がある。",
+        "c": "乳癌の発見は腫瘤触知が多い。",
+        "d": "葉状腫瘍は手術の適応である。",
+        "e": "乳癌の転移は肺が最も多い。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（５）乳癌の転移は骨が最も多い。 ※乳癌の発見 乳癌の症状は腫瘤触知が最も多く、乳癌の 80 ～ 90 ％が腫瘤で発見されている。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "ステップパターンを使用しないのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "空間分解能",
+        "b": "画像出力性能",
+        "c": "ダイナミックレンジ",
+        "d": "外部濃度計による階調確認",
+        "e": "イメージャー自動濃度補正の確認"
+      },
+      "correctAnswer": "a",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）空間分解能：SCTF 測定用チャート （２）画像出力性能：SMPTE パターン ※ダイナミックレンジ"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "細胞接着因子である Ecadherin(E ガドヘリン)が陰性の組織型はどれか。",
+      "choices": {
+        "a": "小葉癌",
+        "b": "粘液癌",
+        "c": "髄様癌",
+        "d": "アポクリン癌",
+        "e": "浸潤性乳管癌"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（１）小葉癌 ※ E-cadherin 乳管上皮(乳腺疾患の鑑別に利用するため)染色パターン：細胞膜カルシウム依存性の上皮"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "乳癌のタイプについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ルミナル A タイプが最も予後が良い。",
+        "b": "トリプルネガティブが最も予後が悪い。",
+        "c": "Basal-like はトリプルネガティプである。",
+        "d": "ルミナル B タイプは A タイプより増殖能が低い。",
+        "e": "ER、PgR、HER2 が陽性のときは化学療法を行う。"
+      },
+      "correctAnswer": "d",
+      "category": "pathology",
+      "categories": [
+        "pathology"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）ルミナル B タイプは A タイプより増殖能が高い。 （５）ER、PgR、HER2 が陰性のときは化学療法を行う。 ※乳癌のタイプ"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "CNR について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "空間分解能を評価する。",
+        "b": "AEC を必ず使う。",
+        "c": "0.2 ㎜のアルミニウム板を使う。",
+        "d": "mAs 値が高くなるほど CNR は低くなる。",
+        "e": "CNR は低コントラスト識別能と反比例する。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）コントラスト対雑音比を評価する。 （２）マニュアルに設定する。 （４）mAs 値が高くなるほど CNR は高くなる。"
+    }
+  ]
+}

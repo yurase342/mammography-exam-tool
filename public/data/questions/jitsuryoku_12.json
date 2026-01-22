@@ -1,0 +1,446 @@
+{
+  "examNumber": 12,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "12",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "K-吸収端は Mo より Rh の方が小さい。",
+        "b": "特性 X 線 K のα、β、γと大きくなるにつれてエネルギーが増加する。",
+        "c": "管電圧が大きくなると特性 X 線強度が増加する。",
+        "d": "乳房厚が大きいほど透過後のエネルギーは低エネルギー側へ分布する。",
+        "e": "X 線の最大エネルギーは管電圧に相当し、最低エネルギーは総ろ過で決ま る。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）K-吸収端は Mo より Rh の方が大きい。 （４）乳房厚が大きいほど透過後のエネルギーは高エネルギー側へ分布する。 ※特性 X 線"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "ターゲット/フィルターについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "Mo、Rh、W の原子番号は 42、45、74 である。",
+        "b": "同じ管電圧であれば、Mo/Mo と W/Rh の最高エネルギーは同じである。",
+        "c": "X 線強度は Mo/Mo のほうが Mo/Rh より強い。",
+        "d": "X 線出力は Rh/Rh のほうが Mo/Mo より大きい。",
+        "e": "Mo/Rh よりも Mo/Mo のほうが半価層が大きくなる。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）X 線出力は Mo/Mo のほうが Rh/Rh より大きい。 （５）Mo/Mo よりも Mo/Rh のほうが半価層が大きくなる。 ※ Mo、Rh、W の原子番号"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "マンモグラフィについて正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線吸収係数が大きいほど写真濃度は低い。",
+        "b": "特性曲線を微分すると平均階調曲線になる。",
+        "c": "デジタル特性曲線の縦軸はＸ線量である。",
+        "d": "増感紙はカセッテのバック側に蛍光体層がある。",
+        "e": "フィルムはカセッテのバック側にバック層がある。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）デジタル特性曲線の縦軸はピクセル値、横軸は相対照射線量(X 線量)の対数で ある。 （４）増感紙はカセッテのフロント側に蛍光体層がある。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "乳腺細胞が集まると腺房になり、腺房が集まって小葉になる。",
+        "b": "嚢胞は複数存在すると乳癌リスクである。",
+        "c": "線維腺腫は悪性化すると皮膚浸潤を起こすことがある。",
+        "d": "リンパ節は乳房内のどこにでもある。",
+        "e": "硬性型は周囲の脂肪を巻き込みながら浸潤する。"
+      },
+      "correctAnswer": "c",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（３）線維腺腫は悪性化しなくても腫瘍が進行すると皮膚浸潤することがある。線維 腺腫は稀に悪性化する。 ※乳腺細胞"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳管内乳頭腫は末梢側にできることはない。",
+        "b": "中心壊死が進んでいる非浸潤性乳管癌は増殖性が弱い。",
+        "c": "低分化な癌は硬癌、髄様癌である。",
+        "d": "嚢胞内乳頭腫と非浸潤癌はマンモグラフィーでは判別ができない。",
+        "e": "浸潤性乳管癌が 2 種類以上の組織型が混在する場合、優位な組織型に分類す る。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）乳管内乳頭腫は末梢側にもできる。 （２）非浸潤性乳管癌は増殖性が強いものと弱いものもあるが、中心壊死が進んでい る(comedo 型)非浸潤性乳管癌は増殖性が強い。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "腫瘍の臨床的記載法について誤っているのはどれか。",
+      "choices": {
+        "a": "腫瘍が各領域のみ存在するものは相当する略号をもって表す。",
+        "b": "異所性乳腺より発生したものは別に記載する。",
+        "c": "腫瘍の最大径、ならびにそれと直角方向に交わる径を㎝単位で記載する。",
+        "d": "疾患が多数の領域にわたっている場合は一番広く占めている領域を記載する。",
+        "e": "浮腫、潰瘍、衛星皮膚結節は皮膚の T4 の所見となる。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（４）2 つ以上の領域にあたるものはより多く占める領域から順に記載する。 ※腫瘍の臨床的記載法 ・腫瘍が各領域のみ存在するものは相当する略号をもって表す。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "被写体コントラストに影響しない因子はどれか。",
+      "choices": {
+        "a": "管電流",
+        "b": "管電圧",
+        "c": "被写体の厚さ",
+        "d": "被写体の動きによるボケ",
+        "e": "圧迫板などによる散乱線"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（１）管電流は被写体コントラストに影響されない。 ※コントラストの影響因子 ・被写体コントラスト"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "コントラストが高くなると、粒状性と鮮鋭度は悪くなる。",
+        "b": "マンモグラフィのフィルムは高感度、高コントラストである。",
+        "c": "マンモグラフィの小焦点は 0.15 ㎜× 0.15 ㎜以下である。",
+        "d": "マンモグラフィは乳房の組織間の X 線吸収差が小さいため、X 線エネルギー が低すぎると被爆が増加し、逆に高すぎるとコントラストが低下する。",
+        "e": "焦点サイズを大きくすると鮮鋭度は上がる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）コントラストが高くなると粒状性は悪くなるが、鮮鋭度は良くなる。 （５）焦点サイズを大きくすると半影が大きくなるため、鮮鋭度は下がる。 ※コントラスト"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "乳癌検診について誤っているのはどれか。",
+      "choices": {
+        "a": "30 歳代は乳癌検診を受けなくても良い。",
+        "b": "日本では 2012 年に初めて乳癌の死亡率が減少した。",
+        "c": "欧米では羅患率、死亡率ともに減少している。",
+        "d": "40 歳以上の乳癌検診では年齢の上限は定めていない。",
+        "e": "特異度が下がると要精検率は高くなる。"
+      },
+      "correctAnswer": "c",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（３）欧米では羅患率は増加しているが、死亡率は減少している。 ※ 30 歳代の乳癌検診 対象外である。希望者は検診可能。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "E 領域とは乳頭の背部にある円柱状の部分のことである。",
+        "b": "鋳型石灰化は中心が壊死してるから栄養血管が少ない。",
+        "c": "50 歳代の乳腺は脂肪に置き換わるので、70 ％が脂肪性である。",
+        "d": "乳癌検診で MLO を撮影し、右 C 領域に病変があったため、R-U・O とした。",
+        "e": "評価困難とは腫瘤の一部が隣接または重なり合う乳腺により辺縁が隠されてい ることをいう。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）50 歳代の約 10 ％が脂肪性である。 （４）MLO のどこに見えているか分からないため、R-N・O とする。 ※ E 領域"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "線状に広がる中心透亮性の石灰化を認めたため、カテゴリー 1 とした。",
+        "b": "乳頭が入り込むとスピキュラを伴った腫瘤のよう見える。",
+        "c": "腋窩リンパ節に 2 ㎝以下の脂肪沈着を認め、カテゴリー 2 とした。",
+        "d": "高濃度乳房で乳腺内の病変の有無が確認しづらい時はカテゴリー 2とする。",
+        "e": "点状石灰化が線状に分布すると少なくともカテゴリー 3 以上はつける。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（２）円形・楕円形に見える。悪性所見のようには見えない。 ※中心透亮性石灰化：カテゴリー 1 または 2 脂肪壊死、乳管内デブリの石灰化、嚢胞壁、時に線維腺腫の石灰化など。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳房腫瘤のカテゴリー評価において背景濃度は関与しない。",
+        "b": "FAD の時、濃度勾配が均一で等濃度～高濃度の場合、カテゴリー 3 とする。",
+        "c": "脂肪性の乳房に高濃度、明瞭な種瘤はカテゴリー 3 以上とする。",
+        "d": "脂肪性の乳房に境界明瞭平滑な高濃度の腫瘤を認めたため、カテゴリー 4 と した。",
+        "e": "中心低濃度のスピキュラは硬癌なのでカテゴリー 5 とした。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）乳房腫瘤のカテゴリー評価は周囲乳腺濃度(背景濃度)と比較して判断する。 （５）中心低濃度のスピキュラはカテゴリー 4 である。 ※ FAD の時、濃度勾配が均一で等濃度～高濃度の場合"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "マンモグラフィ撮影について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "日本人の乳房圧迫圧は最低でも 120N とする。",
+        "b": "ポジショニングで手で乳腺を広げて圧迫をしたら鮮鋭度が良くなる。",
+        "c": "A 領域の最適撮影法は SIO 撮影である。",
+        "d": "スポット撮影は体外から触知できない腫瘤には適用できない。",
+        "e": "乳頭側と胸壁側で厚さが違うほどコントラストがつく。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）文献では 80 ～ 120N、100 ～ 140N、100 ～ 150N、「耐えられる最大の圧迫」と 記載されている。 （４）スポット撮影は体外から触知できない腫瘤にも有効である。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "CC 撮影について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "MLO より乳腺の広がりが悪いので圧迫板で広げる。",
+        "b": "被検者は正面を向く。",
+        "c": "CC は伸ばしにくいので MLO より強く圧迫する。",
+        "d": "支持台を上げすぎると乳房下部がブラインドエリアになる。",
+        "e": "乳腺上部を多く入れるため、前のめりに立ってもらう。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（１）手で引き伸ばし、押さえながら圧迫板で圧迫する。 （３）一概にいえない。 （５）乳腺下部が欠ける。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "MLO 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "手で先に乳房を押さえて乳腺を広げてから圧迫板で圧迫する。",
+        "b": "A 領域にある病変が MLO では乳頭より下側にくることがある。",
+        "c": "圧迫板の上角は広背筋の後ろに位置するようにする。",
+        "d": "B 領域が乳頭上に写ることがある。",
+        "e": "大胸筋が入っているので乳腺をすべて引き出せた。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）圧迫板の上角は広背筋の前に合わせる。 （５）大胸筋を入れてもすべて乳腺が入っているとは一概にいえない。 ※ MLO 撮影"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "鮮鋭度は乳頭側より胸壁端のほうが良い。",
+        "b": "鮮鋭度に影響を与えるものは幾何学的ボケである。",
+        "c": "焦点の見かけの大きさは乳頭側の方が小さくなる。",
+        "d": "圧迫板と AEC の位置は合致している。",
+        "e": "特性曲線がグラフの左側にいくほど感度が低い。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）鮮鋭度は胸壁側より乳頭側のほうが良い。 （４）AEC は圧迫板の表示と実際の検出器の大きさは同じではない。 （５）特性曲線がグラフの左側にいくほど感度が高い。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "比感度とは、「カブリ＋ 1.00」での露光量の逆数比の相対値である。",
+        "b": "間接変換方式 DR は透過した X 線を一度光に変換する。",
+        "c": "マンモグラフィのインバータ式装置リプル率は 4 ％以下である。",
+        "d": "DQE はアナログとデジタルの比較が可能である。",
+        "e": "相対露光量 0.15 ステップ 1 とステップ 3 では濃度は 0.3 倍である。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（５）露光量が 2 倍になる。露光量ではなくて濃度だったらいずれも×。濃度は特性 曲線の傾きにより変化する。 ※比感度"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "画像歪みについて誤っているのはどれか。",
+      "choices": {
+        "a": "PMMA20 ㎜におけるターゲット、フィルタの種類、管電圧、mAs 値を設定す る。",
+        "b": "乳房圧迫板を PMMA に接するように配置する。",
+        "c": "2 ㎜の PMMA の上に金網を置く。",
+        "d": "CR システムにおいては、CR 受像器を装填したカセッテを乳房支持台の所定 の場所に設定する。",
+        "e": "臨床で用いる濃度、輝度、コントラストで画像を出力する。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（３）金網を 2 枚の PMMA(厚さ 10 ㎜)で挟み、乳房指示台の上に置く。 ※画像歪み ・PMMA20 ㎜におけるターゲット、フィルタの種類、管電圧、mAs 値を設定する。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "品質管理について誤っているものはどれか。2 つ選べ。",
+      "choices": {
+        "a": "圧迫器の圧迫圧持続性は 1 分間で－ 20N 以内が望ましい。",
+        "b": "焦点の性能評価はパターン像を拡大鏡で観察し、パターン像の半分以上が明 瞭に描出されている最も高い周波数を記録する。",
+        "c": "X 線出力測定では圧迫板を X 線装置側にできる限り近づけて配置する。",
+        "d": "Ｘ線出力の直線性試験の変動係数は 0.05 以下とする。",
+        "e": "AEC 作動時の AGD の確認は圧迫板有りの半価層を使用する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）圧迫器の圧迫圧持続性は 1 分間で－ 10N 以内が望ましい。 （４）X 線出力の直線性の確認は mAs 値当たりの線量を X1 および X2 とすると、 ｜ X1 － X2 ｜≦ 0.10(X1 ＋ X2)"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "PMMA ファントムの厚さ 40 ㎜、HVL が 0.30 ㎜ A、Mo/Rh の組み合わせで、入 射空中線量の平均値が 2.0 × 10-4(C/kg)の時、AGD はいくらか。ただし、係数 g が 0.183、係数 s が 1.017 とする。また 1.00 × 10-4C/kg のとき 34Gy の関係が 成り立つ。",
+      "choices": {
+        "a": "0.7mGy",
+        "b": "0.9mGy",
+        "c": "1.1mGy",
+        "d": "1.3mGy",
+        "e": "1.5mGy"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（４）1.3mGy AGD ＝ k・g・s・c（Dance の式） ＝ 2.0 × 10-4 × 34(Gy)× 0.183 × 1.017 × 1"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "examNumber": 16,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 19,
+  "sourceType": "taisaku",
+  "round": "16",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "マンモグラフィの X 線焦点について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "焦点サイズが小さいほど鮮鋭度が悪くなる。",
+        "b": "焦点の大きさは電子が陽極に当たった大きさである。",
+        "c": "実効焦点はターゲットから垂直に下ろした面積である。",
+        "d": "焦点サイズが 0.3 ㎜の時、管軸方向は 0.45 ㎜以下である。",
+        "e": "同じ管電圧では半価層は胸壁側より乳頭側のほうが大きくなる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）焦点サイズが小さいほど鮮鋭度が向上する。 （４）焦点サイズが 0.3 ㎜の時、管軸方向は 0.65 ㎜以下である。 ※焦点サイズ"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "マンモグラフィの AEC について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "表示と実際の大きさは違う。",
+        "b": "メーカーごとに特性が異なる。",
+        "c": "カセッテ前面検出方式である。",
+        "d": "半導体検出器は Si、Geである。",
+        "e": "デジタルで AEC がズレると濃度が下がる。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）カセッテ後面検出方式である。 （５）デジタルで AEC がズレても濃度下がらない。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "インバータ式高電圧装置について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "管電圧の立ち上がりが遅い。",
+        "b": "精度が良好で再現性が良い。",
+        "c": "管電圧のリプル百分率は大きい。",
+        "d": "単相でも三相電源でも使用できる。",
+        "e": "電源の位相に関係なく遮断できる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）管電圧の立ち上がりが早い。 （３）管電圧のリプル百分率は小さい。 ※管電圧のリプル百分率"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "共振形インバータ式 X 線装置について誤っているはどれか。すべて選べ。",
+      "choices": {
+        "a": "並列共振形は大容量 X 線装置に適さない。",
+        "b": "大負荷になるほどインバータ周波数が高くなる。",
+        "c": "スイッチング時の電力損失は非共振形より小さい。",
+        "d": "直列共振形は負荷抵抗が大きいほど電流の変化が大きい。",
+        "e": "並列共振形は負荷抵抗が小さいほど共振現象を利用しやすい。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）直列共振形は負荷抵抗が小さいほど電流の変化が大きい。 （５）並列共振形は負荷抵抗が大きいほど共振現象を利用しやすい。 ※共振形インバータ式装置"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "共振形インバータ式 X 線装置について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "単相電源では使用できない。",
+        "b": "立ち上がり時間は撮影条件に影響される。",
+        "c": "電源位相に関係なく X 線を発生、遮断できる。",
+        "d": "管電圧リプル率が大きいほど X 線効率が良い。",
+        "e": "インバータ周波数は 2 ～ 10MHz が使用されている。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）単相電源でも 3 相 12 ピーク装置と同等の X 線出力が得られる。 （４）管電圧リプル率が小さいほど X 線効率が良い。 （５）インバータ周波数は数十～ 50kHz が使用されている。",
+      "image": "mammo/taisaku/16/q5.png"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "インバータ式 X 線高電圧装置の回路図である。管電圧波形に該当するのはどれか。",
+      "choices": {
+        "a": "①",
+        "b": "②",
+        "c": "③",
+        "d": "④",
+        "e": "⑤"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（５）⑤管電圧波形 a：電源電圧波形 b：整流波形"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "マンモグラフィ X 線管について誤っているのはどれか。",
+      "choices": {
+        "a": "焦点は胸壁側のほうが大きい。",
+        "b": "鮮鋭度は胸壁端のほうが良い。",
+        "c": "強度は乳頭側のほうが小さい。",
+        "d": "半価層は胸壁側のほうが小さい。",
+        "e": "X 線量は乳頭側のほうが少ない。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy"
+      ],
+      "explanation": "（２）鮮鋭度は胸壁端のほうが悪い。 ※鮮鋭度 乳頭側のほうが焦点の大きさが小さく鮮鋭度が良い。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "マンモグラフィ X 線管装置について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "片側接地が主流である。",
+        "b": "カソード接地型である。",
+        "c": "Ｘ線管内は高真空である。",
+        "d": "X 線管内は全て絶縁油で満たされている。",
+        "e": "常設総濾過は 0.5mmAl 以上または 0.03mmMo 以上である。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（４）X 線管すべて絶縁油で満たされているわけではない。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "偽陽性率は１－感度である。",
+        "b": "偽陽性が多くなると感度が低くなる。",
+        "c": "偽陰性が少なくなると感度が高くなる。",
+        "d": "偽陽性が少なくなると特異度は高くなる。",
+        "e": "偽陰性が多くなると特異度は高くなる。"
+      },
+      "correctAnswer": "a",
+      "category": "screening",
+      "categories": [
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）偽陽性率は１－特異度である。 （２）偽陽性が多くなると感度が高くくなる。 ※感度"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "最も乳癌と間違いにくい良性疾患はどれか。",
+      "choices": {
+        "a": "脂肪壊死",
+        "b": "線維腺腫",
+        "c": "乳頭部腺腫",
+        "d": "乳腺線維症",
+        "e": "硬化性腺症"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（１）脂肪壊死：乳癌と最も間違いにくい良性疾患 ※乳癌と間違いやすい良性疾患 線維腺腫、乳管腺腫、乳管内乳頭腫、乳頭部腺腫、乳腺線維症、硬化性腺症など。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "乳癌の腫瘍マーカーに該当しないのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "CEA",
+        "b": "Ki67",
+        "c": "CA225",
+        "d": "CA19-9",
+        "e": "NCC-ST-439B"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）Ki67：細胞増殖マーカー （４）CA19-9：消化器腫瘍マーカー ※ Ki67"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "乳癌について正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "乳房の内側に多い。",
+        "b": "自己検診は月経後に行う。",
+        "c": "有痛性の腫瘤が特徴である。",
+        "d": "エストロゲン補充療法を行う。",
+        "e": "SNB により郭清する範囲を決める。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）乳房の外側上部(約 50 ％)に多い。 （３）通常、痛みはみられない。乳癌の初期は自覚症状に乏しいことが特徴である。 （４）ホルモン療法では抗エストロゲン剤が使用される。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "乳癌患者は閉経前である。Luminal A タイプの乳癌の場合、術後治療に使用される 抗がん薬として適切なのはどれか。",
+      "choices": {
+        "a": "トラスツズマブ",
+        "b": "フルベストラント",
+        "c": "アナストロゾール",
+        "d": "タモキシフェンクエン酸塩",
+        "e": "ドセタキセル水和物"
+      },
+      "correctAnswer": "d",
+      "category": "pathology",
+      "categories": [
+        "pathology"
+      ],
+      "explanation": "（４）タモキシフェンクエン酸塩 ※ LuminalA タイプの乳癌 ホルモン療法が推奨される。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "乳癌の治療について誤っているのはどれか。",
+      "choices": {
+        "a": "ゴセレリン酢酸塩は骨塩量の低下を引き起こす。",
+        "b": "タモキシフェンクエン酸塩は子宮体癌のリスクを増大させる。",
+        "c": "アナストロゾールは閉経前乳癌の治療に用いられる。",
+        "d": "トラスツズマブは HER2 が過剰発現している転移性乳癌に用いられる。",
+        "e": "パミドロン酸二ナトリウム水和物は骨転移をきたした場合に用いられる。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（３）アナストロゾールは閉経後乳癌の治療に用いられる。 ※ゴセレリン酢酸塩 性腺刺激ホルモン放出ホルモン(Gn−RH)誘導体であり、継続投与することでエストロゲ"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "乳癌の検査で侵襲性が高いのはどれか。",
+      "choices": {
+        "a": "触診",
+        "b": "細胞診",
+        "c": "MRI 検査",
+        "d": "超音波検査",
+        "e": "マンモグラフィ"
+      },
+      "correctAnswer": "b",
+      "category": "pathology",
+      "categories": [
+        "pathology"
+      ],
+      "explanation": "（２）細胞診：侵襲性が高い。 ※侵襲(医学用語) 怪我、病気、手術、医療処置などによって生体を傷付けること、または生体の通常の状態"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "乳癌について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "平滑な乳房腫瘤でも乳癌の可能性はある。",
+        "b": "えくぼ徴候は乳癌を疑う所見である",
+        "c": "痛みを伴う乳房腫瘤は乳癌の可能性が高い。",
+        "d": "血性でない乳頭分泌物は良性の徴候である。",
+        "e": "乳頭部のびらんは悪性を示唆する所見ではない。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）痛みを伴う乳房腫瘤は乳癌の可能性は低い。 （４）血性でない乳頭分泌物は良性の徴候とは一概にいえない。 （５）乳頭部のびらんは悪性を示唆する所見でもある。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "デジタル画像について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "標本化の一定の間隔をサンプリング間隔という。",
+        "b": "画像の大きさをマトリックス数といい、M × N 画素が存在する。",
+        "c": "同じ画像に対して画素サイズが小さくなるほど空間分解能が低くなる。",
+        "d": "同じ画像に対して画素サイズが小さくなるほどマトリックス数が小さくなる。"
+      },
+      "correctAnswer": "c",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）同じ画像に対して画素サイズが小さくなるほど空間分解能が高くなる。 （４）同じ画像に対して画素サイズが小さくなるほどマトリックス数が大きくなる。 ※標本化"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "200 mm × 250 mm 検出器で 100 μ m の画素で構成されているデジタルマンモグ ラフィのマトリックス数はいくらか。",
+      "choices": {
+        "a": "1,000 mm × 1,250 mm",
+        "b": "1,000 mm × 2,500 mm",
+        "c": "2,000 mm × 1,250 mm",
+        "d": "2,000 mm × 2,500 mm",
+        "e": "2,500 mm × 2,500 mm"
+      },
+      "correctAnswer": "d",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "explanation": "（４）2,000 mm × 2,500 mm ※マトリックス数＝ M × N 画素 200 mm × 250 mm 検出器で 100 μ m(0.1mm)の画素で構成されているデジタルマンモグ"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "最小空気カーマ率(X 線出力)の定期管理について大焦点の選択、管電圧28kV の 設定および Mo/Mo の組み合わせのときの空気カーマ率は 7.0mGy/s 以上とする。 Mo/Rh の時の空気カーマ率はいくらか。係数は 0.86 とする。",
+      "choices": {
+        "a": "4.0mGy/s",
+        "b": "5.0mGy/s",
+        "c": "6.0mGy/s",
+        "d": "7.0mGy/s",
+        "e": "8.0mGy/s"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（３）6.0mGy/s 7.0(mGy/s)× 0.86 ＝ 6.02(mGy/s) 小数点以下第二位を四捨五入、有効数字 2 桁にする。6.0(mGy/s)。"
+    }
+  ]
+}

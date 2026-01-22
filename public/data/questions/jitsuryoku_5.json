@@ -1,0 +1,448 @@
+{
+  "examNumber": 5,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "5",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "X 線写真コントラストを良くする方法について誤っているのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "管電圧を高くする。",
+        "b": "フィルタを薄くする。",
+        "c": "ガンマの高いフィルムを使用する。",
+        "d": "グリッド比の高いグリッドを使用する。",
+        "e": "mAs を大きくする。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）管電圧を低くする。 （５）管電流、撮影時間はコントラストに影響しない因子である。 ※Ｘ線写真コントラストを改善する方法"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "特性 X 線 K のα、β、γと大きくなるにつれてエネルギーが増加する。",
+        "b": "Mo は特性 X 線のみ発生させる。",
+        "c": "W は特性 X 線のみ発生させる。",
+        "d": "Mo の特性Ｘ線は K α：17.5keV、K β：19.6keV、K 吸収端は 20keV である。",
+        "e": "Rh の特性Ｘ線は K α：20.2keV、K β：22.7keV、K 吸収端は 23.2keV である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）Mo は特性 X 線だけでなく、連続 X 線からなる混合 X 線を利用している。 （３）W は特性 X 線だけでなく、連続 X 線からなる混合 X 線を利用している。 ※マンモグラフィ"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "MMG 装置について誤っているのはどれか。",
+      "choices": {
+        "a": "AEC は半導体を利用している。",
+        "b": "AEC は光電増倍管を使用している。",
+        "c": "Ｘ線管内は真空に保っている。",
+        "d": "カセッテ後面検出方式である。",
+        "e": "AEC は受像面の後方にある。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（２）光電増倍管は PET 式マンモグラフィ装置に使用されている。 ※自動露出機構(AEC) 被写体厚、乳房密度を考慮し、常に一定の画像濃度を得るために線量を自動的に制御する"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "デジタル画像について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "標本化は読み取る間隔が小さいほうがアナログ情報に近くなる。",
+        "b": "量子化は読み取る間隔が小さいほうが画像の濃淡の微妙な表現力が良くなる。",
+        "c": "直接型 FPD は間接型 FPD より解像特性が優れている。",
+        "d": "階調数が小さいほうがアナログ濃度分布に近くなる。",
+        "e": "デジタルはアナログよりも濃度分解能は良い。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）階調数が大きいほうがアナログ濃度分布に近くなる。 （５）デジタルはアナログよりも濃度分解能が悪い。 ※標本化と量子化"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "死亡率の低減は精度の良い検診と受診率の向上にかかっている。",
+        "b": "日本での乳癌検診受診者は 50 ％を超えている。",
+        "c": "乳癌検診では 60 歳以上でも CC 撮影を追加しても良い。",
+        "d": "乳癌検診は指針として MMG とエコーを検診ですることを推奨していない。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（２）日本での乳癌検診受診者は 40 ％を超えている。 ※乳癌検診 ・死亡率の低減は精度の良い検診と受診率の向上にかかっている。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "MMG 撮影装置について誤っているのはどれか。",
+      "choices": {
+        "a": "圧迫圧の表示誤差は± 20N 以内である。",
+        "b": "圧迫厚の表示精度は圧迫圧 100 ～ 120N の時、± 5 ㎜以内である。",
+        "c": "平行型グリッドを使用している。",
+        "d": "圧迫板が透明なのは良く観察できるためである。",
+        "e": "焦点サイズが 0.3 ㎜の時、管軸方向は 0.65 ㎜以下である。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "explanation": "（３）集束型グリッド、クロスグリッドを使用している。 ※ MMG 装置のグリッド 現在の専用装置には移動型のグリッドが装着されている。中間物質には直接線の透過性の"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "写真濃度は X 線フィルムの透過率の逆数の対数で表す。",
+        "b": "フィルムの写真濃度 0.3 とは透過光が入射光の 50 ％になる濃度である。",
+        "c": "受像体ボケはスクリーンよりフィルムによる影響が大きい。",
+        "d": "増感紙の感度が高くなると量子モトルが増加する。",
+        "e": "増感紙の構造モトルは蛍光体層の厚さ、粒子径の均一性に影響される。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（３）受像体ボケはフィルムよりスクリーンによる影響が大きい。 ※受像体ボケ 使用するスクリーン/フィルムに依存するがフィルムよりスクリーンによる影響が大き"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "階調数 N のビット b は、b の 2 乗である。",
+        "b": "ダイナミックレンジは入力と出力が飽和しない程度の入力量をさす。",
+        "c": "DQE はアナログとの対比、デジタル同士の評価に用いられる。"
+      },
+      "correctAnswer": "a",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）階調数 N のビット b は 2 の b 乗である。 （４）ダイナミクレンジとはシステムが許容できる入力量の幅を表す。 ※ビット"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "デジタルマンモグラフィについて誤っているのはどれか。",
+      "choices": {
+        "a": "高精細モニターで bit 数が大きいと最低濃度は低くなる。",
+        "b": "画像容量においてはファイル量≧データ量である。",
+        "c": "直接変換方式はアモルファスセレンが電子に変える。",
+        "d": "直接および間接変換方式に使われている a-Se、a-Si は非晶質である。",
+        "e": "FPD に使われている TFT 薄層トランジスタでスイッチングが行われている。"
+      },
+      "correctAnswer": "a",
+      "category": "image_reading",
+      "categories": [
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（１）高精細モニターで bit 数が大きくても最低濃度は低くなるわけではない。 ※階調数(グレースケール) 階調数(グレースケール)は量子化する数値(画素値)の範囲である。画素値は白から黒まで"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "次のうち誤っているののはどれか。2 つ選べ。 （１）腺房と終末乳管(小葉)が乳汁を生産する。",
+      "choices": {
+        "a": "腺葉は両乳房で 20 個である。",
+        "b": "放射状瘢痕は脂肪を含まない。",
+        "c": "副乳は異所性乳腺組織である。",
+        "d": "有痛のものは悪性に多い。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）腺葉は 1 つの乳房で 15 ～ 20 個である。 （５）有痛のものは良性に多い。 ※乳腺の構造"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線維腺腫は小葉由来の疾患である。",
+        "b": "硬化性腺症は間質が線維化する。",
+        "c": "乳管内乳頭腫は末梢側にできることはない。",
+        "d": "異型乳管過形成は分類不能な腫瘍である。",
+        "e": "葉状腫瘍は血行性転移が多く、リンパ節転移は希である。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）乳管内乳頭腫は末梢側にもできる。 （４）異型乳管過形成は組織学的分類では乳腺症構成成分の一つである。 ※硬化性腺症"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "非浸潤癌はどんなに乳管内進展しても非浸潤癌である。",
+        "b": "早期乳癌とはしこりの大きさが 1 ㎝以内で遠隔転移がないものをいう。",
+        "c": "非浸潤性乳癌が壊死した場合の組織亜型は平坦型である。",
+        "d": "Paget 病は乳頭以外に乳管洞から乳頭表皮に広がったものである。",
+        "e": "浸潤性微小乳頭癌は浸潤癌の特殊型である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）早期乳癌とは乳癌の大きさが 2 ㎝以下で、リンパ節転移がなく、遠隔転移のな い場合をいう。非浸潤癌やパジェット病も含まれる。 （３）非浸潤性乳癌が壊死した場合の組織亜型はコメド(面疱)型である。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "腋窩リンパ節は組織学的に Level Ⅰ、Ⅱの 2 つに分類される。",
+        "b": "皮膚の発赤を認める場合は、悪性の可能性がある。",
+        "c": "T2 は腫瘍の大きさが 2 ㎝以下のものである。",
+        "d": "高齢者の血性分泌があった場合、癌が疑われる。",
+        "e": "微細石灰化は良悪の鑑別が必要な場合、針生検を行う。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）腋窩リンパ節は組織学的に Level Ⅰ、Ⅱ、Ⅲの 3 つに分類される。 （３）T2 はしこりの大きさが 2.1 ～ 5 ㎝のものである。 ※ T：原発巣"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "乳癌のリスクについて誤っているのはどれか。",
+      "choices": {
+        "a": "エストロゲンは乳癌発生の最も強い影響を有している。",
+        "b": "授乳歴があれば乳癌の危険因子が減少する。",
+        "c": "乳腺の良性疾患に罹ると乳癌罹患率は増加する。",
+        "d": "閉経年齢が 55 歳以上になると乳癌罹患率が増加する。",
+        "e": "出産回数が少ないほど乳癌罹患率は減少する。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "explanation": "（５）出産回数が少ないほど乳癌罹患率は増加する。 ※乳癌リスク因子 女性ホルモンの濃度の変化も癌発生に影響を与える。女性の生理を司るエストロゲン・プ"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ポジショニングを行う時は可動性組織を固定組織に圧迫する。",
+        "b": "ポジショニングは手で乳腺を広げて圧迫をしたら鮮鋭度が良くなる。",
+        "c": "CC 撮影では MLO 撮影より乳腺の広がりが悪いので圧迫板で広げる。",
+        "d": "MLO 撮影ではカセッテの上端を広背筋の後ろに合わせる。",
+        "e": "MLO 撮影で B 領域の腫瘤は乳頭より上にみえない。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）手で引き伸ばし押さえながら圧迫板で圧迫する。 （４）MLO 撮影ではカセッテの上端を広背筋の前に合わせる。 （５）傾斜角度によって上にみえる場合がある。"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "モニター診断でも拡大撮影を行っても良い。",
+        "b": "FAD で腫瘤が触知できない場合、スポット撮影は有効である。",
+        "c": "A 領域の最適撮影法は SIO 撮影である。",
+        "d": "一方向でのみ認められる所見に対して追加撮影を行ってはいけない。",
+        "e": "標準撮影で良悪性の判定が必要な石灰化があったため、拡大撮影を行った。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "一方向でのみ認められる所見に対して(正確度を上げるため)追加撮影を行っても良い。 ※追加撮影 それなりの根拠(鑑別診断、再現性の確認)が必要である。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "6 か月を超えない期間に行う品質管理を 2 つ選べ。",
+      "choices": {
+        "a": "X 線装置の機能確認",
+        "b": "画像表示システムの管理",
+        "c": "AEC の性能評価",
+        "d": "外部濃度計による階調確認",
+        "e": "ダイナミックレンジ"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（１）X 線装置の機能確認：1 年毎 （３）AEC の性能評価：1 年毎 （５）ダイナミックレンジ：1 年毎"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "マンモグラフィ定期管理について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "モニタの清掃は日常点検である。",
+        "b": "圧迫器の確認は 1 分以上持続して測定できる精度± 5N 圧迫計を使用する。",
+        "c": "AEC 濃度調整器の設定は、各ステップが mAs 値で 2 ％である。",
+        "d": "DR 受像面の光照射野と X 線照射野のズレは SID2 ％以内である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）モニタを用いた画像観察は施設で定めた観察条件(拡大率、ウィンドレベル、ウ ィンド幅など)にて行う。 （４）濃度調整器の設定では、各ステップが mAs 値で 12 ～ 15 ％の変化、もしくはフ",
+      "image": "mammo/jitsuryoku/5/q18.png"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "胸壁端の欠損確認の評価について誤っているはどれか。2 つ選べ。 A B C D",
+      "choices": {
+        "a": "この画像は基準を満たしている。",
+        "b": "鉄球 AB と鉄球 CD は焦点の位置が陽極側にある。",
+        "c": "鉄球 AB と鉄球 CD は焦点の位置が乳頭側にある。",
+        "d": "鉄球 AD は鉄球 BC より焦点から遠い。",
+        "e": "この画像では圧迫板によるアーチファクト評価ができる。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）鉄球 AD は鉄球 BC より焦点から近い。 （５）この画像では圧迫板によるアーチファクト評価ができない。 フィルム上の鉄球大は高さ 42.5 ミリの鉄球（大○：フィルム上鉄球拡大）"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "ファントム画像評価について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "③付近の濃度 1.5 ± 0.15 で評価した。",
+        "b": "画像評価基準を満たしている",
+        "c": "アクリル円板と④の濃度差が 0.41 であった。 この濃度は適正である。",
+        "d": "①の濃度は③の濃度より低い。",
+        "e": "石灰化の模擬試料の判定に拡大鏡を使用する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）×：③は胸壁側。②中央付近で測定して評価する。 （２）×：③付近で測定しているので、評価基準を満たしいない。 （３）○：濃度差が 0.4 以上あるので、基準を満たしている。",
+      "image": "mammo/jitsuryoku/5/q20.png"
+    }
+  ]
+}

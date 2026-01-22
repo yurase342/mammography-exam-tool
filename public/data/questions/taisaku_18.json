@@ -1,0 +1,429 @@
+{
+  "examNumber": 18,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "18",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "乳房 X 線撮影装置の構成要素について誤っているはどれか。すべて選べ。",
+      "choices": {
+        "a": "圧迫筒",
+        "b": "Cu フィルタ",
+        "c": "Ag フィルタ",
+        "d": "自動露出機構",
+        "e": "W ターゲット"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）圧迫筒：消化管における圧迫撮影に用いる。 （２）Cu フィルタ：一般撮影などで用いる。 ※マンモグラフィ"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "CR の読み取り機構の構成部品でないのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "CCD",
+        "b": "光走査器",
+        "c": "A/D 変換器",
+        "d": "D/A 変換器",
+        "e": "光電子増倍管"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）CCD：構成部品ではない。 （４）D/A 変換器：構成部品ではない。 ※ CR システム"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "TNM 分類について正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "病理分類である。",
+        "b": "T は癌の長径で決まる。",
+        "c": "M1 では根治不能である。",
+        "d": "N は所属リンパ節である。",
+        "e": "同じ TNM でも治療成績は異なる。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（１）病期分類である。 （２）T は原発腫瘍の大きさを示す。 （３）遠隔転移があっても根治不能ではない。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "センシトメトリについて誤っているのはどれか。",
+      "choices": {
+        "a": "bootstrap 法は散乱 X 線の影響を受ける。",
+        "b": "距離法は放射口に金属フィルタを付加する。",
+        "c": "光センシトメトリは自動現像機の濃度管理に役立つ。",
+        "d": "S-F 系でタイムスケール法は相反則不軌の影響を受ける。",
+        "e": "マイクロデンシトメータで得られる濃度は拡散光濃度である。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（５）マイクロデンシトメータで得られる濃度は平行光濃度である。 ※センシトメトリ フィルム特性曲線の測定は一般にセンシトメトリと呼ばれている。特性曲線の横軸は(相"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "X 線管装置について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "負荷時間が短いほど短時間許容負荷は大きい。",
+        "b": "焦点外 X 線の線質は焦点近傍ほど柔らかくなる。",
+        "c": "放射線強度分布は陰極よりも陽極のほうが狭い。",
+        "d": "管電流は電極間距離が長くなると流れにくくなる。",
+        "e": "実効焦点サイズが同じ場合、ターゲット角度が小さいほど短時間許容負荷は大 きい。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "image_reading"
+      ],
+      "explanation": "（１）負荷時間が短いほど短時間許容負荷は小さい。 ※短時間許容負荷 電子衝突の温度上昇、すなわち焦点面積やターゲット角度、陽極回転数、焦点軌道直径、"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "自動露出制御装置について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線質の変化は写真濃度に影響する。",
+        "b": "応答時間特性は被写体厚に影響されない。",
+        "c": "被写体が厚くなると写真濃度は低くなる。",
+        "d": "管電圧特性は X 線の検出方法に関係する。",
+        "e": "バックアップタイマは最短時間を設定する。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）応答時間特性は被写体厚に影響される。 （５）バックアップタイマは適切な時間設定が必要である。 ※自動露出制御装置"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "デジタル X 線画像の入出力特性について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "特性曲線はピクセル値で表す。",
+        "b": "特性曲線は相対 X 線強度で表す。",
+        "c": "ディスプレイの特性は X 線量で表す。",
+        "d": "オーバーオール特性曲線はピクセル値で表す。",
+        "e": "特性曲線の測定法にはタイムスケール法を用いる。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）ディスプレイの特性は輝度で表す。 （４）オーバーオール特性曲線は輝度で表す。 ※デジタル特性曲線"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "図は S/F 系の特性曲線である。階調度がほぼ一定の時、高周波領域の雑音等価 量子数(NEQ)が最も高いのはどれか。",
+      "choices": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D",
+        "e": "E"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（４）D：MTF の二乗に比例し、ウイナースペクトル値に反比例する。NEQ が最も高いの は D のである。 ※雑音等価量子数(NEQ)",
+      "image": "mammo/taisaku/18/q8.png"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "MLO 撮影について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "100 ～ 140N で圧迫する。",
+        "b": "撮影時の体位は立位である。",
+        "c": "カセッテ面に対して直角に照射する。",
+        "d": "カセッテホルダは乳房の内側に設定する。",
+        "e": "撮影台の角度は大胸筋の走行角度で決定する。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "explanation": "（４）カセッテホルダは乳房の外側に設定する。 ※ MLO 撮影 ・圧迫は文献では 80 ～ 120N、100 ～ 140N、100 ～ 150N、「耐えられる最大の圧迫」、研究"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "X 線写真の鮮鋭度を向上させないのはどれか。すべて選べ。",
+      "choices": {
+        "a": "撮影距離を長くする。",
+        "b": "照射野を大きくする。",
+        "c": "グリッドを使用する。",
+        "d": "可能な限り短時間で撮影する。",
+        "e": "被写体と受像面との距離を小さくする。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "explanation": "（２）照射野を大きくすると散乱線が増加し、鮮鋭度を低下させる。 ※鮮鋭度 ・グリッドによって散乱線が除去されるので鮮鋭度は除去され、鮮鋭度は向上する。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "空気のみを対象として定義される量はどれか。",
+      "choices": {
+        "a": "W 値",
+        "b": "カーマ",
+        "c": "照射線量",
+        "d": "吸収線量",
+        "e": "放射化学収量"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "screening"
+      ],
+      "explanation": "（３）照射線量 ※照射線量 X 線またはγ線によって自由になったすべての電子と陽電子が停止するまでに空気中で発"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "図は Mo/Mo を使用した X 線エネルギースペクトルである。 Mo の K 吸収端エネギ－はどれか。",
+      "choices": {
+        "a": "15 KeV",
+        "b": "17 KeV",
+        "c": "20 KeV",
+        "d": "23 KeV",
+        "e": "25 KeV"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（３）20 KeV：K 吸収端エネギ－ ※ Mo(モリブデン) 特性Ｘ線は K α:17.5keV、K β:19.6keV、K 吸収端は 20keV である。",
+      "image": "mammo/taisaku/18/q12.png"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "CAD について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "確定診断には用いられない。",
+        "b": "画像処理を用いて病変を検出する。",
+        "c": "フィルムでは CAD に活用できない。",
+        "d": "マンモグラフィの微小石灰化検出に有効である。",
+        "e": "コンピュータを用いて画像評価を行うシステムである。"
+      },
+      "correctAnswer": "c",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）フィルムをデジタイズすることで CAD を活用できる。 （５）コンピュータを用いて診断支援を行うシステムである。 ※ CAD"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "液晶モニタについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "CRT モニタに比べて残像が多い。",
+        "b": "CRT モニタに比べて消費電力が大きい。",
+        "c": "CRT モニタに比べて視野角特性が悪い。",
+        "d": "輝度の劣化はバックライトに依存する。",
+        "e": "CRT モニタに比べて動画特性に優れている。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）CRT モニタに比べて消費電力が小さい。 （５）CRT モニタに比べて動画特性が劣る。 ※液晶モニタ(LCD)の一般的特徴"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "写真特性について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "特性曲線の直線部の傾斜度を平均階調度という。",
+        "b": "階調度が狭いほどラチチュードは狭くなる。",
+        "c": "一定濃度に必要な露光量と感度は比例する。",
+        "d": "平行光濃度は拡散光濃度よりも高い値を示す。",
+        "e": "透過光が入射光の 10 ％になる写真濃度は 1.0 である。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）特性曲線の直線部の傾斜度をγという。 （３）一定濃度に必要な露光量と感度は反比例する。 ＊平均階調度(G)"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "乳房温存術後の照射について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "放射線食道炎が起こる",
+        "b": "照射で再発率は 1/2 になる。",
+        "c": "放射線誘発乳癌は起こる可能性がある。",
+        "d": "5 年以降の再発率は子宮頸癌よりも少ない。",
+        "e": "左側乳房の治療では心臓を照射野から外す。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）照射で再発率は約 30 ％になる。 （４）5 年以降の再発率は子宮頸癌よりも高い。 ※乳房温存術後の照射"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "コンピュータの基本構成について正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "記憶処置",
+        "b": "終端装置",
+        "c": "演算装置",
+        "d": "認証装置",
+        "e": "経路制御装置"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）記憶処置：コンピュータの基本構成 （３）演算装置：コンピュータの基本構成 ※コンピュータの基本構成"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ICD-10 はコード体系化された薬品名である。",
+        "b": "HL7 は医療情報画像交換の標準規格である。",
+        "c": "PACS は医療画像情報保管通信システムである。",
+        "d": "IHE の PDI は画像データの外部保存用統合プロファイルである。",
+        "e": "MWM サービスはオーダ情報の医療機関への伝達標準規格である。"
+      },
+      "correctAnswer": "a",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）ICD-10 はコード体系化された病名を示す。 （２）HL7 は文字情報だけを扱う。 ※ ICD-10"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "デジタル画像で誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "△ x で標本化を行う最高の周波数は 1/△ x である。",
+        "b": "標本化間隔を小さくするとアナログ画像に近づく。",
+        "c": "画像アモレはサンプリング定理を満たさないことが原因である。",
+        "d": "アナログ画像を量子化してデジタル画像で表すと量子化誤差を生じる。",
+        "e": "一定の視野内ではマトリックスサイズが小さいほど画像サイズが小さい。"
+      },
+      "correctAnswer": "a",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）△ x で標本化を行う最高の周波数は 1/2 △ x である。 （５）一定の視野内ではマトリックスサイズが大きいほど画像サイズが小さい。 ※△ x で標本化を行う時の最高周波数"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "モニタの品質管理項目と使用するものの組み合わせで正しいのはどれか。 すべて選べ。",
+      "choices": {
+        "a": "輝度応答評価 TG18-CT テストパターン",
+        "b": "輝度均一性評価 GD テストパターン",
+        "c": "視野角特性評価 ANG テストパターン",
+        "d": "全般的画像評価 TG18-QC テストパターン",
+        "e": "幾何学的ひずみ評価 TG18-MP テストパターン"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（２）輝度均一性評価：TG18-UN80 テストパターン （５）幾何学的ひずみ評価：GD テストパターン ※モニタの品質管理"
+    }
+  ]
+}

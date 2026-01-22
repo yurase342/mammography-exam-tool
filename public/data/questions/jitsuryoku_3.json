@@ -1,0 +1,416 @@
+{
+  "examNumber": 3,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 19,
+  "sourceType": "jitsuryoku",
+  "round": "3",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "特性Ｘ線ＫαとＫβではＫβの方が波長が短い。",
+        "b": "特性Ｘ線 K αのほうが K βより強度が強い。",
+        "c": "モリブデンの特性Ｘ線は K α：17.5keV、K β：19.6keV、K 吸収端は 20keV であ る。",
+        "d": "連続 X 線は電子が遷移した時に発生する。",
+        "e": "Ｍｏの原子番号は 42、タングステンのＸ線発生効率の 0.57 倍だが、特性Ｘ線 を有効に利用している。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（４）特性 X 線は電子が遷移した時に発生する。 ※連続 X 線の発生 カソード(陰極)フィラメントから放出された高速電子がアノード(陽極)のターゲット物質"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "MMG 装置について誤っているのはどれか。",
+      "choices": {
+        "a": "20keV における X 線透過率はガラス窓より Be 窓の方が 50 ％以上高い。",
+        "b": "Ｘ線管の固有ろ過は軟Ｘ線を有効に取り出すためにＸ線管装置放射窓の材料は ベリリウムでできている。",
+        "c": "純度 99 ％以上のアルミニウム合金を用いると､純度 99.9 ％以上のアルミニウム より半価層の値が約 8 ％程度高くなる。",
+        "d": "一次Ｘ線透過率限界値は 80 ％である。",
+        "e": "マンモグラフィ X 線管では陽極→ Be 窓を通して X 線が放出される。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（３）純度 99 ％以上のアルミニウム合金を用いると､純度 99.9 ％以上のアルミニウムより 半価層の値が約 8 ％程度低くなる可能性がある。 ※ 20keV における X 線透過率"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "フィルムの写真濃度 2.0 とは入射光の 90 ％が吸収される濃度である。",
+        "b": "写真濃度は X 線フィルムの透過率の逆数の対数で表す。",
+        "c": "フィルムを重ねたときの写真濃度はそれぞれの透過率の対数値を合計した値と なる。",
+        "d": "拡散濃度計は平行光を用いて濃度測定を行う。",
+        "e": "透過率 1 ％の写真 2 枚を合わせると写真濃度は 0.2 である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）フィルムの写真濃度 2.0 とは入射光の 99 ％が吸収される濃度である。 （４）拡散濃度計は拡散光を用いて濃度測定を行う。 （５）log100 + log100 ＝ 2 ＋ 2 ＝ 4。したがって、写真濃度は 4 である。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "デジタルシステムではエレメントの大きさが画像サイズを表す。",
+        "b": "周波数処理とは鮮鋭度をコントロールすることをいう。",
+        "c": "標本化は画素の大きさが大きくなるほど空間分解能が良くなる。",
+        "d": "拡大撮影は CR システムでは有効ではない。",
+        "e": "CR システムの画像は赤いレーザー光線で読み取る。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）標本化は画素の大きさが小さくなるほど空間分解能が良くなる。 （４）拡大撮影は CR システムでは有効である。 ※デジタルシステム"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "高精細モニターで bit 数が大きいと最低濃度は低くなる。",
+        "b": "量子化数はディジタル画像の濃度分解能を決定する因子である。",
+        "c": "ダイナミックレンジとはシステムが許容できる入力の幅を表す。",
+        "d": "サンプリングとはアナログ信号の強さを一定時間ごとに採取し、デジタル記録 が可能な形にすることをいう。"
+      },
+      "correctAnswer": "a",
+      "category": "image_reading",
+      "categories": [
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（１）bit 数と濃度とは無関係である。 ※階調数(グレースケール) 量子化する数値(画素値)の範囲である。画素値は白から黒までをビット数で表現する。階"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "デジタル画像処理について誤っているのはどれか。",
+      "choices": {
+        "a": "CRT モニタで画像を観察するときに行う階調処理をウインドーイングという。",
+        "b": "ヒストグラム平坦化を行うことで画像のコントラストは高くなる。",
+        "c": "DR 圧縮処理は高濃度部のみに作用させた局所的な処理である。",
+        "d": "ボケマスク処理は鮮鋭化の手段として使われている。",
+        "e": "サブストラクション処理とは特定の物質または陰影だけを描出する処理である。"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（３）DR 圧縮処理はしきい値以上の高濃度部の濃度はそのままに保ち、低濃度部のみ に作用させた局所的な階調処理である。 ※ウインドーイング"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "MMG 装置について誤っているのはどれか。",
+      "choices": {
+        "a": "FPD は AEC を使用する。",
+        "b": "AEC は乳房の下、受光部の上である。",
+        "c": "X 線焦点サイズは胸壁側の方が乳頭側に比べて大きい。",
+        "d": "常設総ろ過は 0.5 ㎜ Al 以上または 0.03 ㎜ Mo 以上でなければならない。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy"
+      ],
+      "explanation": "（３）AEC は乳房の下受光体より下に位置する。 ※ MMG 装置 ・リニア(移動型)グリッドを使用している。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "葉状腫瘍は上皮成分に悪性像を示す。",
+        "b": "異型乳管過形成は両側乳癌の危険因子である。",
+        "c": "乳管内乳頭腫は血性乳頭分泌物の主要な原因である。",
+        "d": "線維腺腫は若い女性に多いが、高齢でも増加している。",
+        "e": "硬化性腺症にみられる神経周囲や脈管内の進展は悪性の根拠となる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）葉状腫瘍は上皮成分に悪性像を示さないが、間質成分がしばしば悪性像を示す。 （５）硬化性腺症にみられる神経周囲や脈管内の進展は悪性の根拠とはならない。 ※線維腺腫"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "粘液癌は若者に多い。",
+        "b": "嚢胞は複数存在すると乳癌リスクである。",
+        "c": "浸潤癌の特殊型には浸潤性小葉癌と髄様癌がある。",
+        "d": "過誤腫は幾つかの亜型があり、良悪の鑑別が必要なものがある。",
+        "e": "生検をすると脂肪壊死を起こすことがある。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）粘液癌は高齢者に多い。 （４）過誤腫は良性腫瘍である。 ※嚢胞"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "DCIS の石灰化は平坦型を示すことがある。",
+        "b": "非浸潤性小葉癌は非浸潤癌の約 10 ％である。",
+        "c": "乳頭の paget 病は DCIS が合併していることが多い。",
+        "d": "石灰化のパターンによって悪性度を決定することができる。",
+        "e": "腋窩リンパ節の腫瘍径が大きくなるほど転移の頻度が高い。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）非浸潤性小葉癌は非浸潤癌の約 0.1 ％である。 （４）石灰化のパターンによって悪性度を決定することができない。 ※ DCIS の石灰化"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "カテゴリー分類について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "FAD で周囲乳腺より濃度が高い場合はカテゴリー 4 である。",
+        "b": "石灰化が微細線状でびまん性分布はカテゴリー 5 である。",
+        "c": "境界明瞭な腫瘤で内部に粗大石灰化を有する場合はカテゴリー 2 である。",
+        "d": "悪性を疑うリンパ節を認める場合はカテゴリー 3 である。",
+        "e": "石灰化が多角形不均一で集簇性の分布はカテゴリー 5 である。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）FAD で周囲乳腺より濃度が高い場合はカテゴリー 3 である。 （５）石灰化が多角形不均一で集簇性の分布はカテゴリー 4 である。 ※腋窩リンパ節、乳房リンパ節の場合"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "欧米では乳癌の罹患率、死亡率も減少している。",
+        "b": "40 歳代後半の女性が乳癌に一番なりやすい。",
+        "c": "乳癌での死亡数は年間１万 5 千人未満である。",
+        "d": "わが国における年齢調整罹患率で乳癌は第 3 位である。",
+        "e": "閉経するとエストロゲン分泌がなくなるので、乳癌になる確率がすごく減少す る。"
+      },
+      "correctAnswer": "b",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）欧米では乳癌の罹患率は増加しているが、死亡率は減少している。 （４）わが国における年齢調整罹患率で乳癌は第１位である。 （５）閉経後の肥満女性は正常体重の女性に比べて、浸潤性乳癌のリスクが増加する。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "特性曲線について誤っているのはどれか。2 つ選べ。 （１）フィルム特性曲線の縦軸は相対露光量(照射線量の相対値)である。",
+      "choices": {
+        "a": "フィルム特性曲線の横軸は写真濃度である。",
+        "b": "デジタル特性曲線の縦軸はピクセル値である。",
+        "c": "特性曲線がグラフの左側にいくほど感度が高い。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）フィルム特性曲線の縦軸は写真濃度である。 （２）フィルム特性曲線の横軸は相対露光量(照射線量の相対値)である。 ※特性曲線"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "MMG 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "CC 撮影は外側が欠けても良い。",
+        "b": "CC 撮影では圧迫板が完了する直前で乳房を伸ばしながら手を外していく。",
+        "c": "MLO 撮影では正中寄りがブラインドとなりやすい。",
+        "d": "MLO 撮影で大胸筋を多く入れると C 領域の乳腺後方部が欠ける。",
+        "e": "MLO 撮影で下部、CC で外側であれば D 領域である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）CC 撮影でも、しっかり外側が入るようにする(講習会で説明)。 （４）MLO 撮影で大胸筋を多く入れると、B 領域の乳腺後方部が欠ける。 ※ CC 撮影"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "腫瘤が B 領域で可動性が良い場合は接線撮影を試しても良い。",
+        "b": "拡大撮影の倍率は 1.6 倍である。",
+        "c": "A 領域の最適撮影法は SIO 撮影である。",
+        "d": "モニタ診断では拡大撮影は必要性がない。",
+        "e": "ソフトコピー診断では追加撮影は必要ない。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）モニタ診断でも拡大撮影を行っても良い。必要性がないわけではない。 （５）ソフトコピー診断でも追加撮影行っても良い。 ※ SIO 撮影"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "6 ヶ月に一度行う品質管理項目はどれか。2 つ選べ。",
+      "choices": {
+        "a": "画像表示システムの確認と清掃。",
+        "b": "画像表示システムの管理",
+        "c": "ダイナミックレンジ",
+        "d": "加算的ラグ効果",
+        "e": "外部濃度計による階調確認"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）画像表示システムの確認と清掃：毎日 （３）ダイナミックレンジ：1 年毎 （４）加算的ラグ効果：1 年毎"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "X 線装置の圧迫器の確認について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "各部の緩み、ひび割れ、鋭利なエッジなど発生していないことを目視で確認す る。",
+        "b": "精度± 5N 以内の圧力計を使用する。",
+        "c": "圧迫圧の表示制精度は± 30N 以内である。",
+        "d": "圧迫圧の持続性は 1 分間で、－ 10N である。",
+        "e": "圧迫厚の表示精度は圧迫圧 100 ～ 120N のとき± 10 ㎜以内である。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）圧迫圧の表示制精度は± 20N 以内である。 （５）圧迫厚の表示精度は圧迫圧 100 ～ 120N のとき± 5 ㎜以内である。 ※ X 線装置の圧迫器の確認"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "定期管理である AEC 動作時の平均乳腺線量(AGD)の確認のために使用するタ ーゲット/付加フィルタの組み合わせで誤っているものはどれか。",
+      "choices": {
+        "a": "Mo/Mo",
+        "b": "Mo/Rh",
+        "c": "Rh/Rh",
+        "d": "W/Rh",
+        "e": "W/Al"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "explanation": "（５）W/Al ※ターゲット/付加フィルタの組み合わせ AEC 動作時の平均乳腺線量(AGD)の確認のために使用するターゲット/付加フィルタの組"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "品質管理に使用されるファントムについて関係のないのはどれ2か。 つ選べ。",
+      "choices": {
+        "a": "アーチファクト CDMAMファントム",
+        "b": "AEC 作動中の CNR アルミニウム板",
+        "c": "空間分解能 SCTF測定用チャート",
+        "d": "ダイナミックレンジ ステップウェッジ状の PMMA ファントム",
+        "e": "低コントラスト分解能 ACR 推奨ファントム"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）アーチファクト：PMMA ファントム （５）低コントラスト分解能：CDMAM ファントム ※ PMMA ファントム"
+    }
+  ]
+}

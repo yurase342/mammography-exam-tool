@@ -1,0 +1,441 @@
+{
+  "examNumber": 20,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "20",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳房は鎖骨と胸骨に支えられ大胸筋の上に横たわっている。",
+        "b": "乳腺線維症は触診所見、画像所見が浸潤癌と紛らわしいことがある。",
+        "c": "硬化性腺症の嚢胞内には正常乳腺が存在しない。",
+        "d": "管状癌は血行性転移は起こりにくく、比較的予後は良好である。",
+        "e": "乳癌を大きく分類すると非浸潤癌、微小浸潤癌、浸潤癌、Paget病である。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）硬化性腺症の嚢胞内には正常乳腺が存在する。 （４）管状癌は血行性転移は起こりやすい。腋窩リンパ転移は起こりにくく、比較的予 後は良好である。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "葉状腫瘍は乳管細胞から発生する。",
+        "b": "乳管過形成は乳腺症を構成する部分像である。",
+        "c": "乳管腺腫は乳管内乳頭腫の同義語である。",
+        "d": "中心壊死が強い DCIS は高悪性である。",
+        "e": "線維腺腫は管内型、管周囲型、類臓器型に分類される。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）葉状腫瘍は間質細胞から発生する。 （５）線維腺腫は管内型、管周囲型、類臓器型、乳腺症型に分類される。 ※乳管過形成＝乳管乳頭腫症"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳頭腫はマンモグラフィでは腫瘤、石灰化ともに認められないことが多い。",
+        "b": "術後に卵形の被膜を伴った石灰化が生じることがある。",
+        "c": "多孔性の分泌は悪性を疑う。",
+        "d": "粘液癌は予後が良く、非浸潤癌である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）多孔性の分泌は良性を考える。 （４）家族性(遺伝性)乳癌はハイリスク群である。 （５）粘液癌は予後が良く、浸潤癌である。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "陽性反応的中度は有病率に左右される。",
+        "b": "乳癌検診の年齢上限は検討中である。",
+        "c": "感度と特異度は有病率に影響される。",
+        "d": "陽性反応的中率的が高いと偽陰性率が高くなる。"
+      },
+      "correctAnswer": "c",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）感度と特異度は有病率に影響されない。 （４）陽性反応適中度が上がると真陽性率が上がる。真陽性率が上がると偽陰性率が 低くなる。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "中心透亮性石灰化で集簇性の場合、カテゴリー 3 以上である。",
+        "b": "不均一高濃度は乳腺が 50 ～ 60 ％程度である。",
+        "c": "脂肪性濃度にスピキュラ、中心に核があるのをカテゴリー 5 とした。",
+        "d": "集簇性、多形性の石灰化を認め、線維腺腫を疑い、カテゴリー 2 とした。",
+        "e": "カテゴリー N-2 とは、乳房や形状などによりマンモグラフィを再検しても有効 でないと予想されるものである。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）中心透亮性石灰化の場合、明らかな良性の石灰化でカテゴリー 2 である。 （４）集簇性、多形性の石灰化を認めた場合、カテゴリー 4 である。 ※明らかな良性石灰化"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "脂肪性の乳房に境界明瞭平滑な高濃度の腫瘤を認めたため、カテゴリー 4 とし た。",
+        "b": "点状石灰化が線状に分布すると少なくともカテゴリー 3 以上はつける。",
+        "c": "鋳型石灰化は面疱型壊死によるものである。",
+        "d": "辺縁の追える腫瘤の内部に脂肪を含む腫瘤をカテゴリー 3 とした。",
+        "e": "両側リンパ節は大きさに関係なく、カテゴリー 3 である。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）辺縁の追える腫瘤の内部に脂肪を含む腫瘤はカテゴリー 2 である。 （５）大きさに関係がある。 ※脂肪性の乳房に境界明瞭平滑な高濃度の腫瘤"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "CC 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "外側が欠けやすいで体位を非検側に向ける。",
+        "b": "検側内側からポジショニングを行い、内側を目視する。",
+        "c": "オープンスタンツに立つと良くない。",
+        "d": "乳房を手で広げるようにして圧迫をする。",
+        "e": "両手を使って乳腺を十分に引き出す。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）体位を非検側に向けると内側が欠ける。正面視させる。 （５）片手で乳腺を十分に引き出す。 ※ CC 撮影"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "MLO 撮影について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "髪の毛がかかりやすいので注意が必要である。",
+        "b": "常に角度を一定にする。",
+        "c": "腹部が入っていると、十分に乳腺が前方に伸ばせている。",
+        "d": "カセッテ角を脇深部に入れる。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（１）CC では髪の毛がかかりやすいので注意が必要である。 （２）体型によって角度を変える。 （３）乳腺を十分引き伸ばして圧迫しないと腹部が入っていても十分引き伸ばしたと"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "標準撮影で外側が切れないように XCC を追加撮影した。",
+        "b": "拡大撮影は通常の撮影より鮮鋭度が良い。",
+        "c": "拡大撮影は石灰化の形態把握に有効である。",
+        "d": "接線撮影は乳房周囲の病変に適している。",
+        "e": "個人情報が大切なので撮影時の詳細は医師に伝えてはいけない。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）ポジショニング不良や補正のための追加撮影をしてはいけない。 （５）乳汁分泌や異変などがある場合は医師に伝える。 ※明確な目的をもたない追加撮影は行ってはならない。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "散乱線を減らすのに関与しないのはどれか。",
+      "choices": {
+        "a": "圧迫する。",
+        "b": "被写体とフィルムを離す。",
+        "c": "管電圧を上げる。",
+        "d": "グリッド比を大きくする。",
+        "e": "照射野の面積を小さくする。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（３）管電圧を下げる：関与しない。 ※散乱線を減らす方法 ・圧迫する。被写体とフィルムを離す。グリッド比を大きくする。照射野の面積を小さくす"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "見かけの X 線焦点は乳頭側の方が小さい。",
+        "b": "線吸収係数が大きいほど写真濃度は低い。",
+        "c": "粒状性が良くなるとノイズが多くなる。",
+        "d": "被写体コントラストに影響を与えるものは幾何学的ボケである。",
+        "e": "標本化は空間分解能、量子化は濃度分解能に影響される。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）粒状性が良くなるとノイズが少なくなる。 （４）幾何学的ボケは鮮鋭度に影響を与える。 ※見かけの X 線焦点"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "被写体コントラストに関係のないのはどれか。",
+      "choices": {
+        "a": "現像処理時間",
+        "b": "管電圧",
+        "c": "被写体の厚さ",
+        "d": "散乱線",
+        "e": "線減弱係数"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（１）現像処理時間：フィルムコントラスト ※フィルムコントラスト 増感紙の使用、フィルムの種類、フィルム濃度(黒化度)、現像処理(現像温度、処理時間、"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "次のうち誤っているのはどれか。 （１）写真濃度とは支持体(ベース)の着色濃度と黒化銀濃度との合計である。",
+      "choices": {
+        "a": "増感紙の主発光色は緑色発光である。",
+        "b": "DQE を求めるには MTF、WS、入射 X 線フォトン数が必要である。",
+        "c": "CNR はノイズが小さいと値が小さくなる。",
+        "d": "ダイナミックレンジはシステムが許容できる入力量の範囲である。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（４）CNR はノイズが小さいと値が大きくなる。 ※ CNR(コントラスト対雑音比) コントラストが高いほど、ノイズが小さいほど大きな値を示す画質の指標である。関心領"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "MMG 装置について誤っているのはどれか。",
+      "choices": {
+        "a": "X 線は陽極、Be 窓を通して放出される。",
+        "b": "AEC は受光体より下に位置する。",
+        "c": "グリッドの中間物質はファイバーである。",
+        "d": "X 線管は陽極-陰極間を短くしている。",
+        "e": "同一管電圧では半価層は乳頭側より胸壁側の方が大きい。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy"
+      ],
+      "explanation": "（５）同一管電圧では半価層は胸壁側より乳頭側の方が大きい。 ※グリッドの中間物質 ファイバ(紙)、エアギャップ"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "品質管理について誤っているのはどれか。",
+      "choices": {
+        "a": "X 線フィルムを出力して濃度計測する際、乳剤側を受光面に向ける。",
+        "b": "圧迫厚の表示精度は± 5 ㎜内である。",
+        "c": "光照射野と X 線照射野の周辺のずれは、SID の 5 ％以内である。",
+        "d": "デジタルシステムの AEC 作動確認は CNR で評価する。",
+        "e": "ダイナミックレンジは収集した画像の目視評価、定量評価を行う。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（３）光照射野と X 線照射野の周辺のずれは、SID2 ％以内である。 ※ X 線照射野、光照射野、受像器面の整合性 ・X 線照射野とフィルム面のずれ"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "空間分解能の品質管理について誤っているのはどれか。",
+      "choices": {
+        "a": "圧迫板を PMMA に接するように配置して X 線を照射する。",
+        "b": "圧迫板を取り外し、SCTF 測定用チャートを PMMA の上に配置してマニュアル モードで X 線を照射する。",
+        "c": "測定誤差を小さくするため、ROI の大きさはチャート線群またはチャート透過 領域を超えない範囲で出来るだけ大きく設定する。",
+        "d": "STCF の値は通常 4 ㎜/lp より 8 ㎜/lp のほうが大きい。",
+        "e": "拡大撮影する場合は小焦点を選択し、4、8lp/㎜の線群の SCTF を求める。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（４）STCF の値は通常 4 ㎜/lp より 8 ㎜/lp のほうが小さい。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "CR システムを扱っている施設における品質管理について誤っているのはど れか。2 つ選べ。",
+      "choices": {
+        "a": "焦点性能試験を 1 年ごとに行う。",
+        "b": "BR-12 ファントムを使って AEC の評価を 6 ヶ月ごとに行う。",
+        "c": "シャーカステンの管理は 6 ヶ月ごとに行う。",
+        "d": "アーチファクト評価はカセッテ全面を覆う大きさで厚さ 10 ～ 20 ㎜の PMMA ファントムを使用する。",
+        "e": "受像系の感度バラツキは 1 年ごとに行う。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）焦点の性能はフィルムのみにしか適応されない。 （２）BR-12 ファントムを使って AEC の評価を 1 年ごとに行う。 ※ AEC の性能評価"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "管電圧の精度と再現性について誤っているのはどれか。 （１）非接続型管電圧計は精度± 2 ％以内(または± 0.7kV 以内)とする。",
+      "choices": {
+        "a": "管電圧計の X 線検出部は乳房支持台の左右中心、内側 60 ㎜の位置とする。",
+        "b": "圧迫板を取り外す。",
+        "c": "設定管電圧 24 ～ 32kV の表示精度は± 5 ％以内である。",
+        "d": "管電圧の再現性の変動係数は 0.05 以下である。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（５）管電圧の再現性の変動係数は 0.02 以下である。 ※管電圧の精度と再現性 ・X 線照射野モードをマニュアルにする。同じ管電圧で 3 回以上測定する。",
+      "image": "mammo/jitsuryoku/20/q18.png"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "ファントム画像評価について誤っているのはどれか。 ①乳頭側 ②ファントム中心 ③アクリル円板 ④胸壁側",
+      "choices": {
+        "a": "カセッテホルダ胸壁端と平行な線状 で濃度測定を行う。",
+        "b": "①より④の方が濃度が低い。",
+        "c": "濃度は②で測定する。",
+        "d": "②と③で 0.43 あるので基準を満たし ている。",
+        "e": "この評価方法は正しい。 156 ファントム"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（２）①より④の方が濃度が高い。 ※②と③で測定を行っているので、評価方法は正しい。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "グラジエント曲線のうち、",
+      "choices": {
+        "a": "から",
+        "b": "5",
+        "c": "",
+        "d": "4",
+        "e": ""
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "anatomy",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（２）乳腺濃度 1.2 ～ 1.59 に該当する位置は(２)である。微分すると(２)の当たりに なる。計算が複雑なので位置を暗記してください。 ※特性曲線"
+    }
+  ]
+}

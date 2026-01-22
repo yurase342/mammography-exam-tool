@@ -1,0 +1,442 @@
+{
+  "examNumber": 7,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "7",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳房は鎖骨と胸骨に支持される形で位置する。",
+        "b": "腺房と小葉内乳管を合わせて TDLU と呼ぶ。",
+        "c": "皮膚と乳腺との間に存在する部分を乳腺後隙という。",
+        "d": "胸骨筋とは胸骨に平行に走行する筋肉のことである。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）小葉と小葉外乳管を合わせて TDLU と呼ぶ。 （３）乳房の深部に存在する部分を乳腺後隙という。 ※乳房"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "線維腺腫について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "管内型と管周囲型に分類される。",
+        "b": "病理組織学的には間質結合成分と上皮性成分の共同増殖である。",
+        "c": "有痛性、多発性のものもある。",
+        "d": "急速に発育する症例は腫瘤切除術の適応である。",
+        "e": "ホルモン補充療法を施行している患者は発生頻度が低い。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）管内型、管周囲型、類臓器型、乳腺症型に分類される。 （５）ホルモン補充療法を施行している患者は発生頻度が高い。 ※線維腺腫"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "葉状腫瘍について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "骨・軟骨化生を生じたものは悪性度が低い。",
+        "b": "悪性葉状腫瘍はリンパ節郭清が必要である。",
+        "c": "急速増大をみる症例は悪性度が高い。",
+        "d": "切除再発を繰り返すものは徐々に悪性化していく症例が多い。",
+        "e": "線維腺腫との鑑別は困難である。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）骨・軟骨化生を生じたものは悪性度が高い。 （２）悪性葉状腫瘍はリンパ節郭清が不要ある。 ※葉状腫瘍"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳頭腫が多発したものを乳管内乳頭腫症という。",
+        "b": "乳頭部腺腫は閉経後に発症することが多い。",
+        "c": "硬化性腺症は MMG だけでなく、エコーでも構築の乱れを確認できる。",
+        "d": "過誤腫は悪性になることもある。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）乳頭部腺腫は閉経前に発症することが多い。 （５）過誤腫は悪性にならない。 ※乳管内乳頭腫症"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "嚢胞内乳頭腫は針生検やマンモトームでも判断しづらい場合がある。",
+        "b": "非浸潤性乳管癌は石灰化パターンによって悪性度を決定することはできない。",
+        "c": "女性化乳房は多くの場合、乳腺小葉は存在しない。",
+        "d": "充実型は乳頭腺管癌よりリンパ節転移率が低い。",
+        "e": "腺管形成型は乳管外圧排性、充実腺管癌は乳管内進展性である。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）充実型は乳頭腺管癌よりリンパ節転移率が高い。 （５）腺管形成型は乳管内進展性、充実腺管癌は乳管外圧排性である。 ※嚢胞内乳頭腫"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "1 つの検査で感度と特異度の両方を高めることは可能である。",
+        "b": "有病率が高い場合には陽性反応的中率が高くなる傾向がある。",
+        "c": "特異度が高いと偽陽性率を減らすことができる。",
+        "d": "陽性反応的中率は感度よりも特異度が重要である。",
+        "e": "有病率と罹患率は、ほぼ同じ意味である。"
+      },
+      "correctAnswer": "b",
+      "category": "screening",
+      "categories": [
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）1 つの検査で感度と特異度の両方を高めることは不可能である。 （４）陽性反応的中率は特異度よりも感度が重要である。 （５）有病率と罹患率は同じ意味ではない。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "評価困難とは腫瘤の辺縁が隣接するあるいは重なりあう乳腺組織に隠されてし まうことをいう。",
+        "b": "非対称性乳房組織とは対側乳房の対応領域と比較して乳房が高濃度であるもの をいう。",
+        "c": "所見で乳房の構成を記入するのは病変を見落とす危険性の程度を示すためであ る。",
+        "d": "腫瘤の形状は円形→分葉形→多角形→不整形に進むに従い、悪性の可能性は高 くなる。",
+        "e": "スピキュラを伴う腫瘤は脂肪濃度を含めば良性なので、精検しなくても良い。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）腫瘤の形状は円形→多角形→分葉形→不整形に進むに従い、悪性の可能性は高 くなる。 （５）スピキュラを伴う腫瘤は脂肪濃度を含む場合でも悪性の可能性があるので精検"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "カテゴリー分類について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "石灰化が淡く不明瞭で領域性分布はカテゴリー 3 である。",
+        "b": "石灰化が多形性でびまん性分布はカテゴリー 3 である。",
+        "c": "腫瘤の境界・辺縁が微細分葉状の場合は、カテゴリー 4 とする。",
+        "d": "腫瘤の境界が明瞭平滑で乳腺実質の少ない乳房において高濃度の場合は、カテ ゴリー 4 とする。",
+        "e": "石灰化が微細線状でびまん性分布はカテゴリー 4 である。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）石灰化が淡く不明瞭で領域性分布はカテゴリー 2 である。 （５）石灰化が微細線状でびまん性分布はカテゴリー 5 である。 ※石灰化の鑑別"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "圧迫は組織がピンと張られるまで受診者が耐えられる最大の圧迫をすると良 い。",
+        "b": "CC 撮影では乳腺外側が MLO 撮影では内側上部、下部がブラインドエリアにな りやすい。",
+        "c": "MLO 撮影では外側に立つと AB 領域の乳腺が欠損し、nipple も profile に描出さ れない。",
+        "d": "MLO 撮影で乳腺が最も広がるのは下方から上方に乳腺を広げたときである。",
+        "e": "MLO 方向では ML 方向よりも病変が高い位置に描出される傾向がある。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "digital_imaging"
+      ],
+      "explanation": "（３）MLO 撮影では外側に立つと、CD 領域の乳腺が欠損する。 ※乳房撮影の圧迫 ・文献では 80 ～ 120N、100 ～ 140N、100 ～ 150N、「耐えられる最大の圧迫」と記載されて"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "フルオート撮影を選択すると左右乳房のコントラストが異なることがある。",
+        "b": "スポット撮影は乳腺の重なりか腫瘤かを区別するため撮影される。",
+        "c": "接線撮影は体表近くの腫瘤に効果的である。",
+        "d": "乳房上部の描出には SIO 撮影をする。",
+        "e": "拡大撮影では胸壁付近の欠損が多くなるので、CC 方向を撮影しない。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（５）拡大撮影でも必要性があれば CC 方向を撮影する。 ※フルオート撮影 左右乳房のコントラストが異なることがある。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "マンモグラフィに使用されるターゲット材の K 吸収端は、原子番号が大きく なるほどエネルギーが大きくなる。",
+        "b": "CR の消去光は強い可視光を均一に照射する。",
+        "c": "CNR はノイズが大きいと大きくなる。",
+        "d": "CNR はコントラストが高いと大きくなる。",
+        "e": "量子化とは濃度を離散した整数値へ変換することをいう。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）CR の消去光は白色光を均一に照射する。 （３）CNR はノイズが小さいと大きくなる。 ※マンモグラフィに使用されるターゲット材の K 吸収端"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "マンモグラフィ X 線発生装置について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "付加フィルターはなしで良い。",
+        "b": "両側接地である。",
+        "c": "冷却のため絶縁オイルで満たされている。",
+        "d": "陽極の回転数は 10000rpm である。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（１）付加フィルターは必要である。 （２）陰極(カソード)接地型 X 線管である。 （５）陽極回転数は 3 倍回転で 8000 ～ 9700rpm である。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "乳腺用インバータ式装置について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "リプル率は 5 ％以下である。",
+        "b": "管電圧の立ち上がりが遅い。",
+        "c": "小型、軽量化が可能である。",
+        "d": "精度が良好で再現性が良い。",
+        "e": "周波数は 10MHz である。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）管電圧の立ち上がりが速い。 （５）周波数は数十 kHz が主流である。 ※インバータ式装置(高電圧発生装置)"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "X 線スペクトルについて誤っているのはどれか。2 つ選べ。 6000 3 6000 4000 2 4000 2000 1 2000 0 10 20 30 0 10 20 30 0 10 20 30 A B C",
+      "choices": {
+        "a": "A は Mo/Mo、B は乳房透過後、C は Rh/Rh である。",
+        "b": "A と C の X 線出力は同じである。",
+        "c": "X 線強度は A の方が C より強い。",
+        "d": "A よりも C の方が半価層が大きくなる。",
+        "e": "A から C にすると、K α線、K β線の光子数はともに減少する。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）A は Mo/Mo、B は乳房透過後、C は Mo/Rh である。 （２）X 線出力は A の方が C より大きい。 ※ A から C(フィルター Mo → Rh)にする。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "相対露光量 0.15 ステップ 1 から 3 になる濃度は 0.3 倍である。",
+        "b": "鮮鋭度は被写体の動きに影響する。",
+        "c": "読影モニタは等倍表示が一番空間分解能が良い。",
+        "d": "2MP モニタは推奨されていない。",
+        "e": "位相コントラスト技術は被写体画像境界部分の X 線の屈折を利用したエッジ 効果を得る技術である。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（１）露光量が 2 倍になる。露光量ではなく濃度だったらいずれも×。濃度は特性曲 線の傾きにより変化する。 ※読影モニタ"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "次のうち誤っているのはどれか。 （１）CNR 測定用アルミニウム板はアルミニウム純度は 99.9 ％以上とし、大きさは 60 ㎜以上(角形)とする。 （２）管電圧計の精度は± 2 ％以内(または 0.7kV 以内)とする。",
+      "choices": {
+        "a": "モニタの輝度は 3500cd/㎡である。",
+        "b": "読影室の照度はモニタの近辺では 10lx である。",
+        "c": "SCTF とはシステムコントラスト伝達関数のことであり、空間分解能を表す指 標になる。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（３）マンモグラフィ用モニタの輝度は 500 ～ 600cd/㎡である。シャウカステンの輝 度は 3500cd/㎡以上が望ましい。 ※ CNR 測定用アルミニウム板"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "矩形の解像力チャートは空間分解能 16 ～ 20lp/㎜まで評価できること。",
+        "b": "1 枚の写真の平均乳腺線量は 3mGy 以下である。",
+        "c": "焦点の性能評価での X 線管の幅寸法は 13Ip/㎜以上、長さ寸法は 11Ip/㎜以上の 分解能があること。",
+        "d": "自動現像機の濃度測定は乳剤面を濃度計の受光部側にして測定する。",
+        "e": "空間分解能の定期管理に使用する SCTF 測定用チャートは PMMA の上に配置し、 左右中央、胸壁から 60 ㎜の位置にチャートの線群がくるように配置する。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（２）フィルム撮影なら 1 枚 1 方向であるが、1 枚の写真でも CR や DR では左右分割 して出力することができる。ガイドラインでは乳腺撮影における 1 方向の線量は 3mGy 以下が望ましいとされ、近年においては 1.5 ～ 2mGy が推奨されている。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "圧迫板を装着しない定期管理はどれか。2 つ選べ。",
+      "choices": {
+        "a": "X 線出力測定",
+        "b": "ダイナミックレンジ",
+        "c": "管電圧の精度と再現性",
+        "d": "X 線出力の再現性と直線性"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）管電圧の精度と再現性：圧迫板を装着しない。 （５）X 線出力の再現性と直線性：圧迫板を装着しない。 ※圧迫板を装着して行う定期管理"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "Mo/Mo の組み合わせ、PMMA 厚 40 ㎜、HVL0.40 のとき、g=0.232 とする。 入射空中線量の平均値が 1.50 × 10-4(C/kg)の時、AGD はいくらか。また、 1.00 × 10-4C/kg のとき 34Gy の関係が成り立つ。",
+      "choices": {
+        "a": "0.6mGy",
+        "b": "0.8mGy",
+        "c": "1.0mGy",
+        "d": "1.2mGy",
+        "e": "1.4mGy"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "explanation": "（４）AGD ＝ k・g・s・c（Dance の式） ＝ 1.5 × 10-4 × 34(Gy)× 0.232 × 1 × 1 ＝ 1.5 × 10-4 × 34 × 103(mGy)× 0.232 × 1 × 1"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "半価層を測定した結果、適切でない装置はどれか。 管電圧(keV) T/F 第１半価層 圧迫板を除去した半価層",
+      "choices": {
+        "a": "27 Mo/Mo 0.32 0.28",
+        "b": "29 Mo/Rh 0.42 0.39",
+        "c": "32 Rh/Rh 0.55 0.32",
+        "d": "30 Mo/Rh 0.48 0.29",
+        "e": "28 Mo/Mo 0.39 0.28"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "①測定管電圧、ターゲット/付加フィルタの組み合わせ、および次の式から HVL の許容 範囲を求めデータ用紙に記録する。上記で求めた HVL 値がこの範囲にあたることを確 認する。"
+    }
+  ]
+}

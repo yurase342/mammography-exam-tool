@@ -1,0 +1,406 @@
+{
+  "examNumber": 20,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 19,
+  "sourceType": "taisaku",
+  "round": "20",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "粘液癌の発生頻度は乳癌全体の約 7 ％である。",
+        "b": "髄様癌の発生頻度は乳癌全体の約 0.3 ％である。",
+        "c": "管状癌の発生頻度は乳癌全体の約 0.2 ％である。",
+        "d": "浸潤性小葉癌の発生頻度は乳癌全体の約 5 ％である。",
+        "e": "アポクリン癌の発生頻度は乳癌全体の約 10 ％である。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）粘液癌の発生頻度は乳癌全体の約 3 ％である。 （５）アポクリン癌の発生頻度は乳癌全体の約 1 ％である。 ※粘液癌"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "硬化性乳管内乳頭腫の同義語になる腫瘍はどれか。",
+      "choices": {
+        "a": "管状腺腫",
+        "b": "乳管腺腫",
+        "c": "乳頭部腺腫",
+        "d": "腺筋上皮腫",
+        "e": "嚢胞内乳頭腫"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（２）乳管腺腫：硬化性乳管内乳頭腫の同義語 ※乳管腺腫 良性の上皮細胞の増殖からなる乳管内病変であり、しばしば病変の中心部に瘢痕状の線維"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "非浸潤性乳管癌に含まれるのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "Paget 病",
+        "b": "嚢胞内癌",
+        "c": "微小浸潤癌",
+        "d": "被包型乳頭癌",
+        "e": "アポクリン癌"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）嚢胞内癌：非浸潤性乳管癌 （４）被包型乳頭癌：非浸潤性乳管癌 ※被包型乳頭癌"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "乳腺内に乳管の増殖が腫瘍様病巣をつくり、間質の線維化が進んで上皮成分の萎 縮がうかがえるものはどれか。",
+      "choices": {
+        "a": "乳管過形成",
+        "b": "閉塞性腺症",
+        "c": "開花期腺症",
+        "d": "硬化性腺症",
+        "e": "乳腺線維症"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（４）硬化性腺症 ※硬化性腺症 乳腺内に乳管の増殖が腫瘍様病巣をつくり、間質の線維化が進んで上皮成分の萎縮がう"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "特性曲線について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "フィルムコントラストは曲線状の任意の点の傾斜度を使用する。",
+        "b": "相対感度は 2 つの特性曲線から濃度を与える 2 つの比露光量から求める。",
+        "c": "平均階調度 G －は有効濃度 2.0 と有効濃度 0.35 与える特性曲線状の 2 点を結ぶ直 線の傾きで示される。",
+        "d": "グラディエント曲線は特性曲線全体を積分して濃度についてプロットしたもので ある。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）平均階調度 G －は有効濃度 2.0 と有効濃度 0.25 与える特性曲線状の 2 点を結ぶ直 線の傾きで示される。 （５）グラディエント曲線は特性曲線全体を微分して濃度についてプロットしたもので"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "鮮鋭度は MTF が高いほど悪い。",
+        "b": "粒状性は NPS は高いほど良い。",
+        "c": "グラディエント曲線はコントラストに関係がある。",
+        "d": "ピクセルサイズが小さいほど解像度が良くなる。",
+        "e": "画素サイズが大きくなるほど空間分解能が良くなる。"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（１）鮮鋭度は MTF が高いほど良い。 （２）粒状性は NPS は高いほど悪い。 （５）画素サイズが小さくなるほど空間分解能が良くなる。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "デジタル画像について誤っているのはどれか。2 つ選べ。 （１）サンプリング間隔はエリアシング(モレア)にも影響する。",
+      "choices": {
+        "a": "サンプリング間隔が大きいほどアナログ情報に近くなる。",
+        "b": "ヒストグラムはバラツキの頻度をグラフにしたものである。",
+        "c": "医療用では 10 ビット以上の量子化レベルが用いられている。",
+        "d": "ナイキスト周波数＞サンプリング周波数でないと画質が悪くなる。"
+      },
+      "correctAnswer": "b",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）サンプリング間隔が小さいほどアナログ情報に近くなる。 （５）ナイキスト周波数＜サンプリング周波数でないと画質が悪くなる。 ※サンプリング間隔"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "マンモグラフィ検査で特異度を高くした場合に正しいのはどれか。",
+      "choices": {
+        "a": "偽陰性率は低くなる。",
+        "b": "偽陰性率は高くなる。",
+        "c": "偽陽性率は低くなる。",
+        "d": "偽陽性率は高くなる。",
+        "e": "陽性的中度は高くなる。"
+      },
+      "correctAnswer": "c",
+      "category": "screening",
+      "categories": [
+        "screening"
+      ],
+      "explanation": "（１）偽陰性率＝ 1 －感度の関係。偽陰性率を高くするには感度を低くする必要がある。 （２）偽陰性率＝ 1 －感度の関係。偽陰性率を低くするには感度を高くする必要がある。 （３）偽陽性率＝ 1 －特異度の関係。特異度を高くすると偽陽性率は低くなる。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "乳癌検診について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "40 ～ 49 歳は MMG ＋ CC を 1 年に 1 度行う。",
+        "b": "対策型検診での視触診単独法は推奨しない。",
+        "c": "US をすると発見率が上がり、要精検率が低くなる。",
+        "d": "視触診は推奨しないが、実施する場合は MMG と併せて実施する。",
+        "e": "原因不明の故障がある場合の機器装置の記録は永久保存である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）40 ～ 49 歳は MMG ＋ CC を 2 年に 1 度行う。 （３）US をすると発見率は上がるが、要精検率が高くなる。 ※乳癌検診"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "弁別域の輝度差となるような入力値はどれか。",
+      "choices": {
+        "a": "LUT",
+        "b": "GSDF",
+        "c": "アスペクト比",
+        "d": "ミスランディング",
+        "e": "JND インデックス"
+      },
+      "correctAnswer": "e",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "explanation": "（５）JND インデックス ※ LUT デジタルデータピクセル値の変換テーブルのことをいう。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "医用画像について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ウェーブレット変換は可逆圧縮である。",
+        "b": "標本化は画像の空間分解能に影響しない。",
+        "c": "8 ビットで量子化された画像の階調数は 256 である。",
+        "d": "アナログ画像をデジタル化すれば CAD として活用できる。",
+        "e": "DICOM 規格はオブジェクト指向モデルに基づいている。"
+      },
+      "correctAnswer": "a",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）ウェーブレット変換は可逆圧縮や非可逆圧縮いずでも対応できる。 （２）標本化は画像の空間分解能に影響する。 ※ウェーブレット変換"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "デジタル X 線画像システムの画像特性を表す指標で値が低いほど低コントラス ト分解能が高いのはどれか。",
+      "choices": {
+        "a": "MTF",
+        "b": "CNR",
+        "c": "DQE",
+        "d": "NEQ",
+        "e": "NPS"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（５）NPS：値が低いほど低コントラスト分解能は高くなる。 ※ NPS 横軸に空間周波数、縦軸に NPS をとり、値が小さいほどノイズ特性が良好となるため、"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "医用画像表示システムの規格(JIS T 62563-1)で規定されている性能評価で誤って いるのはどれか。",
+      "choices": {
+        "a": "ノイズ",
+        "b": "画素欠陥",
+        "c": "輝度応答",
+        "d": "輝度均一性",
+        "e": "視野角特性"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）ノイズ：性能評価項目には含まれない。 ※医用画像表示システムの規格(JIS T 62563-1)で規定されている性能評価 グレースケール分解能評価、輝度応答特性評価、輝度均一性評価(輝度不均一性を評価す"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "乳房だけに X 線が 2mGy 均等に当たった場合の実効線量は(mSv)はいくらか。 ただし、放射線加重係数と組織加重係数は国際放射線防護委員会(ICRP)2007 年 勧告の値とする。",
+      "choices": {
+        "a": "0.08",
+        "b": "0.16",
+        "c": "0.24",
+        "d": "0.32",
+        "e": "0.40"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "explanation": "（３）0.24：乳房の組織加重係数は 0.12、被ばく箇所は乳房だけと限定されているため、 2mGy × 0.12 ＝ 0.24mGy となる。 ※実効線量",
+      "image": "mammo/taisaku/20/q14.png"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "同一管電圧で得られた 2 つの X 線エネルギースペクトルを図に示す。 正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "使用管電圧は A が 30kV、B が 25kV である。",
+        "b": "A は付加フィルタを使用し ないスペクトルである。",
+        "c": "B はモリブデン付加フィ ル タを使用したものである。",
+        "d": "A と B はタングステンター ゲットを使用したものであ る。",
+        "e": "A と B には L 殻への遷移に よる特性 X 線が認められ る。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）A と B の使用管電圧はともに 30kV である。 （４）A と B は特性 X 線エネルギーからモリブデンターゲットである。 （５）A と B には K 殻への遷移による特性 X 線が認められる。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "Ｘ線センシトメトリで得られた特性曲線から計測できないのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "鮮鋭度",
+        "b": "寛容度",
+        "c": "階調度",
+        "d": "粒状度",
+        "e": "相対感度"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）鮮鋭度：計測できない。 （４）粒状度：計測できない。 ※特性曲線から計測できるもの。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "画像表示モニタの不変性試験(定期管理)で輝度計を用いるのはどれか。 すべて選べ。",
+      "choices": {
+        "a": "照度",
+        "b": "最大輝度",
+        "c": "輝度均一性",
+        "d": "グレースケール",
+        "e": "コントラスト応答"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）照度：照度計 （３）輝度均一性：目視評価 （４）グレースケール：目視評価"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "ラグ効果の精度管理について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "加算的ラグ効果は画像形成時に出力として加算される。",
+        "b": "乗算的ラグ効果は画像形成時の感度に影響を与える。",
+        "c": "加算的ラグでは CR は 2 回露光、DR は 1 回露光する。",
+        "d": "定期管理の加算画像は 3 枚、乗算画像は 2 枚で評価する。"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）加算的ラグでは CR は 1 回露光、DR は 2 回露光する。 （５）定期管理では加算画像は 2 枚、乗算画像は 3 枚で評価する。 ※ゴースト"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "空間分解能の定期管理について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳房圧迫板を PMMA に接するように配置する。",
+        "b": "臨床に使うモードを選択して X 線を照射する。",
+        "c": "圧迫板を取り外してマニュアルに設定する。",
+        "d": "胸壁から 30 ㎝の位置にチャートの線群がくるように配置する。",
+        "e": "拡大撮影を使用する場合は 2、4 lp/㎜の線群について SCTF を求める。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）胸壁から 60 ㎝の位置にチャートの線群がくるように配置する。 （５）拡大撮影を使用する場合は 4、8lp/㎜の線群について SCTF を求める。 ※空間分解能"
+    }
+  ]
+}

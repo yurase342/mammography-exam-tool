@@ -1,0 +1,70 @@
+{
+  "categories": {
+    "positioning": {
+      "id": "positioning",
+      "name": "撮影技術・ポジショニング",
+      "shortName": "撮影",
+      "color": "blue",
+      "questionCount": 367
+    },
+    "xray_physics": {
+      "id": "xray_physics",
+      "name": "X線装置・物理",
+      "shortName": "X線",
+      "color": "purple",
+      "questionCount": 441
+    },
+    "quality_control": {
+      "id": "quality_control",
+      "name": "品質管理・精度管理",
+      "shortName": "品質",
+      "color": "green",
+      "questionCount": 322
+    },
+    "anatomy": {
+      "id": "anatomy",
+      "name": "解剖・組織",
+      "shortName": "解剖",
+      "color": "orange",
+      "questionCount": 347
+    },
+    "pathology": {
+      "id": "pathology",
+      "name": "乳腺疾患・病理",
+      "shortName": "病理",
+      "color": "red",
+      "questionCount": 310
+    },
+    "image_reading": {
+      "id": "image_reading",
+      "name": "画像評価・読影",
+      "shortName": "読影",
+      "color": "pink",
+      "questionCount": 320
+    },
+    "digital_imaging": {
+      "id": "digital_imaging",
+      "name": "デジタル画像技術",
+      "shortName": "デジタル",
+      "color": "cyan",
+      "questionCount": 371
+    },
+    "screening": {
+      "id": "screening",
+      "name": "検診・疫学",
+      "shortName": "検診",
+      "color": "teal",
+      "questionCount": 171
+    }
+  },
+  "categoryOrder": [
+    "positioning",
+    "xray_physics",
+    "quality_control",
+    "anatomy",
+    "pathology",
+    "image_reading",
+    "digital_imaging",
+    "screening"
+  ]
+}

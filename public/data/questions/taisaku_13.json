@@ -1,0 +1,445 @@
+{
+  "examNumber": 13,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "13",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "総合判定基準として誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "マンモグラフィでカテゴリー 1,2 で乳腺実質の多い部位であれば、超音波所見を 優先する。",
+        "b": "マンモグラフィでカテゴリー 3、境界明瞭、評価困難な場合は超音波所見を優先 する。",
+        "c": "マンモグラフィでカテゴリー 3、辺縁が微細分葉状を示せば、マンモグラフィ所 見を優先する。",
+        "d": "マンモグラフィで局所非対称性陰影、非腫瘤性病変が確認できれば、マンモグラ フィ所見を優先する。",
+        "e": "マンモグラフィで非対称性乳房組織、腫瘤性病変が確認できれば、マンモグラフ ィ所見を優先する。"
+      },
+      "correctAnswer": "d",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）マンモグラフィで局所非対称性陰影、非腫瘤性病変が確認できれば、超音波検査 を優先する。 （５）マンモグラフィで非対称性乳房組織、腫瘤性病変が確認できれば、超音波検査を"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "総合判定基準として誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "マンモグラフィでスピキュラを示せば、マンモグラフィ所見を優先する。",
+        "b": "マンモグラフィで非対称性乳房組織、超音波検査で正常乳腺と断定できれば、カ テゴリー 2 する。",
+        "c": "マンモグラフィで局所非対称性陰影、対応する部位が超音波で特定できなければ、 超音波所見を優先する。",
+        "d": "マンモグラフィでカテゴリー 3 以上の石灰化が認められた場合、原則としてマン モグラフィ所見を優先する。",
+        "e": "マンモグラフィで構築の乱れが認められた場合、原則としてマンモグラフィ所見 を優先する。"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "anatomy",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）マンモグラフィで非対称性乳房組織、超音波検査で正常乳腺と断定できれば、カ テゴリー 1 する。 （３）マンモグラフィで局所非対称性陰影、対応する部位が超音波で特定できなければ、"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "健診は特定疾患の疾患を発見することが目的である。",
+        "b": "予防医学からみると、検診は一次予防、健診は二次予防にあたる。",
+        "c": "健診と検診は法令に定められたものと任意のものがあり。保険診療外である。",
+        "d": "精密検査は十分な費用をかけて感度 100 ％、特異度 100 ％を目指す検査を行う。",
+        "e": "健診と検診は精度をある程度犠牲にしても効率を優先しなければならない。"
+      },
+      "correctAnswer": "a",
+      "category": "screening",
+      "categories": [
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）検診は特定疾患の疾患を発見することが目的である。 （２）予防医学からみると、健診は一次予防、検診は二次予防にあたる。 ※検診と精密検査の違い"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "マンモグラフィの追加検査について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "病変の位置の確認を目的とする場合には XCC 撮影を行う。",
+        "b": "検出された病変の詳細な評価をするにはスポット撮影を行う。",
+        "c": "微小石灰化の識別・詳細な評価をするには拡大撮影を行う。",
+        "d": "デジタル化により拡大スポット撮影の使用は減ってきている。",
+        "e": "超音波検査の役割は組織学的推定診断をもってその後の方針を推奨することであ る。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（１）病変の位置の確認を目的とする場合には ML 撮影を行う。 ※マンモグラフィの追加検査 乳がん検診では,乳腺組織全体をもっとも広く描出することが可能な MLO 撮影が標準撮影"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "乳腺 MRI について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "非石灰化病変では高い陽性的中率を示す。",
+        "b": "石灰化病変に対してはマンモグラフィよりも劣る。",
+        "c": "質的診断は中等度であり、病理診断を省略することはできない。",
+        "d": "発見された病変に対してはセカンド・ルック超音波検査を行う。",
+        "e": "広がり診断は超音波検査に比べて正確であり、とくに浸潤性乳管癌に有用であ る。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）非石灰化病変では高い陰性的中率を示す。 （５）広がり診断は超音波検査に比べて正確であり、とくに浸潤性小葉癌の広がり診断 に有用である。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "病理学的検査について誤っているのはどれか。",
+      "choices": {
+        "a": "画像ガイド下生検は外科的生検と同じ精度である。",
+        "b": "画像ガイド下生検は外科的生検に伴う有害事象より安全である。",
+        "c": "針生検は診断精度が高く、世界的に最も施行されている生検手技である。",
+        "d": "ステレオガイド下生検の適応は大部分が腫瘤性病変である。",
+        "e": "マンモグラフィで指摘された石灰化病変であっても超音波ガイド下生検を行う。"
+      },
+      "correctAnswer": "d",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（４）ステレオガイド下生検の適応は超音波検査にて描出されない病変であり、大部分 が石灰化病変である。 ※病理学的検査"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "がん検診について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "がん発見率が低い場合は偽陰性が多い可能性がある。",
+        "b": "陽性反応適中度が低い場合は偽陰性が多い可能性がある。",
+        "c": "プロセス指標とはそれぞれの体制の下で行った検診の結果である。",
+        "d": "要精検率が低すぎる場合は偽陽性が多い可能性がある。",
+        "e": "要精受診率は高いほうが望ましく、本来 100 ％を目指すべき指標である。"
+      },
+      "correctAnswer": "b",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）陽性反応適中度が低い場合は不必要な陽性判定(偽陽性)が多い可能性がある。 （４）要精検率が低すぎる場合はがんの見逃し(偽陰性)が多い可能性がある。 ※がん発見率"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "乳癌の治療について誤っているのはどれか。",
+      "choices": {
+        "a": "初期治療には局所治療と全身治療がある。",
+        "b": "薬物治療は乳癌の種類で決まる。",
+        "c": "再発治療は QOL を保ちながら治療する。",
+        "d": "温存乳房内再発の場合は乳房全切除術を行う。",
+        "e": "遠隔転移の治療は薬による治療が基本となる。"
+      },
+      "correctAnswer": "b",
+      "category": "pathology",
+      "categories": [
+        "pathology"
+      ],
+      "explanation": "（２）薬物治療はサブタイプで決まる。 ※初期治療 遠隔転移がない乳癌患者の治療としてすでに起こっているかもしれない微小転移を根絶"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "乳癌の分子標的治療はどれか。2 つ選べ。",
+      "choices": {
+        "a": "HER2 療法",
+        "b": "FEC 療法",
+        "c": "黄体ホルモン薬",
+        "d": "血管新生阻害剤",
+        "e": "抗エストロゲン薬"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）HER2 療法 （４）血管新生阻害剤 ※分子標的療法"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "近年の乳癌について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "乳癌の罹患数は 10 万人を超えている。",
+        "b": "乳癌の罹患は 9 人に 1 人である。",
+        "c": "乳癌死亡のピークは 65 ～ 69 歳である。",
+        "d": "乳癌の死亡数は年間 16000 人を超えている。",
+        "e": "乳癌の部位別死亡者数は第 5 位である。"
+      },
+      "correctAnswer": "a",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）乳癌の罹患数は 8 万人を超えている。 （４）乳癌の死亡数は年間 14000 人を超えている。 ※近年の医療統計"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "乳癌検診について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "受診率は 40 ％を超えている。",
+        "b": "問診記録、画像、結果は 5 年保存である。",
+        "c": "US をすると発見率は上がるが、要精検率が低くなる。",
+        "d": "視触診は推奨しないが、実施する場合は MMG と併せる。",
+        "e": "故障原因が分からないときの品質管理記録は 5 年保存である。"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）US をすると発見率は上がるが、要精検率が高くなる。 （５）故障原因が分からないときの品質管理記録は永久保存である。 ※乳癌検診"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "“いわゆる癌肉腫に該当する癌はどれか。",
+      "choices": {
+        "a": "分泌癌",
+        "b": "篩状癌",
+        "c": "化生癌",
+        "d": "扁平上皮癌",
+        "e": "アポクリン癌"
+      },
+      "correctAnswer": "c",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（３）化生癌 ※悪性葉状腫瘍 上皮成分が癌化を伴う症例があり、真の意味で癌と肉腫が共存する癌肉腫といえる。“い"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "いわゆる乳腺症に該当しないのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線維腫症",
+        "b": "開花期腺症",
+        "c": "異型乳管過形成",
+        "d": "乳管乳頭腫症",
+        "e": "線維腺腫様過形成"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）線維腫症：軟部腫瘍 （３）異型乳管過形成：異型上皮内病変 ※いわゆる乳腺症"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "臨床的に浸潤癌類似の所見を呈する疾患はどれか。",
+      "choices": {
+        "a": "乳管腺腫",
+        "b": "乳管過形成",
+        "c": "硬化性腺症",
+        "d": "異物肉芽腫",
+        "e": "乳腺線維症"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（５）乳腺線維症 ※乳腺線維症 線維化あるいは硝子化した間質内に萎縮した小葉,乳管が散在性に存在する良性病変であ"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ステージⅠまでは早期乳癌である。",
+        "b": "Tis には浸潤を伴わない Peget 病も含まれる。",
+        "c": "Paget 病は皮膚症状のみで乳房内には腫瘍はない。",
+        "d": "画像診断にて原発巣を確認できない場合は T1 である。",
+        "e": "病期分類は腫瘍の大きさ、リンパ節転移の有無によって決まる。"
+      },
+      "correctAnswer": "c",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）Paget 病は皮膚症状だけでなく乳房内には乳管内、間質に浸潤する。 （４）画像診断にて原発巣を確認できない場合は T0 である。 ※ Tis"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "イメージャの外部濃度計による階調の確認(定期管理)について誤っているのは どれか。2 つ選べ。",
+      "choices": {
+        "a": "必ず階調確認用のステップウェッジパターンを使用する。",
+        "b": "初回は出力されたフィルムのステップの中央の濃度を外部濃度計で測定する。",
+        "c": "2 枚のフィルム濃度、濃度差の平均値を計算し、基準濃度値とする。",
+        "d": "試験間隔は 1 年に 1 回、または設置場所を変更したときに実施する。"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）3 枚のフィルム濃度、濃度差の平均値を計算し、基準濃度値とする。 （５）試験間隔は 6 ヶ月に 1 回、または設置場所を変更したときに実施する。 ※イメージャの外部濃度計による階調の確認(定期管理)"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "画像歪みの定期管理について正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "1 年に 2 回行う。",
+        "b": "圧迫板を外す。",
+        "c": "4 メッシュ以上の金網を使用する。",
+        "d": "2 ㎝の PMMA の上に金網を置く。",
+        "e": "幾何学的な歪みがないことを目視で観察する。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（１）1 年に 1 回行う。 （２）乳房圧迫板を PMMA に接するように配置する。 （４）金網を 2 枚の PMMA(厚さ 10 ㎜)で挟み、乳房指示台の上に置く。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "最大輝度および輝度比試験(定期管理)について正しいのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "JIRA-BN01 を表示する。",
+        "b": "輝度計の温度校正は不要である。",
+        "c": "輝度比は黒輝度÷白輝度で計算する。",
+        "d": "医療用モニタの輝度比は 300 以上とする。",
+        "e": "基準値からの最大輝度偏差は± 10 ％以内とする。"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）JIRA-BN01 と JIRA-BN18 を表示する。 （３）輝度比は白輝度÷黒輝度で計算する。 （４）医療用モニタの輝度比は 250 以上とする。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "X 線管の Be 窓のところには絶縁油がない。",
+        "b": "ボケの程度が大きい場合、MTF の値が大きい。",
+        "c": "皮膚の照射線量は皮膚入射面吸収線量より高い。",
+        "d": "画像ノイズ特性は NPS で定量的に評価されている。",
+        "e": "WS は高い値のほうがノイズレベルが高く、粒状性が悪い。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）ボケの程度が大きい場合、MTF の値が小さい。 （３）皮膚の照射線量は皮膚入射面吸収線量より低い。 ※画像ノイズ特性(粒状性)"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "次のうち誤っているのはどれか。すべて選べ。 a 4 A 4 3 B 3 2 2 b 1 1 0 0 1 2 3 0 1 2 3 特性曲線 グラディエント曲線",
+      "choices": {
+        "a": "感度は a のほうが高い。",
+        "b": "粒状性は B のほうが良い。",
+        "c": "最高濃度は A のほうが高い。",
+        "d": "コントラストは A のほうが高い。",
+        "e": "グラディエント曲線 a は特性曲線 B を表す。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）粒状性は判断できない。 （５）グラディエント曲線 a は特性曲線 A を表す。 ※特性曲線とグラジエント曲線の見方"
+    }
+  ]
+}

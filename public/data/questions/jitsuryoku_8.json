@@ -1,0 +1,458 @@
+{
+  "examNumber": 8,
+  "year": 2024,
+  "session": "jitsuryoku",
+  "totalQuestions": 20,
+  "sourceType": "jitsuryoku",
+  "round": "8",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "特性 X 線 K のα、β、γと大きくなるにつれてエネルギーが増加する。",
+        "b": "特性 X 線 K α、βの横につく数字は強度を表す。",
+        "c": "半価層が大きくなると実効エネルギーが大きくなる。",
+        "d": "線吸収係数は乳腺組織より乳癌のほうが小さい。",
+        "e": "被写体コントラストに影響を与えるものは幾何学的ボケである。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）線吸収係数は乳腺組織より乳癌のほうが大きい。 （５）幾何学的ボケは鮮鋭度に影響を与える。 ※特性 X 線"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "MMG 用 X 線管について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ターゲット特有のフィルタは特性 X 線には影響しない。",
+        "b": "Ｘ線管内は高真空である。",
+        "c": "Ｘ線管はすべて絶縁油に覆われている。",
+        "d": "実効焦点はＸ線管軸に垂直に下ろした位置である。",
+        "e": "Mo/Mo から W/Rh になるにつれてエネルギーが高いために硬 X 線になる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）ターゲット特有のフィルタは特性 X 線に影響する。 （３）Ｘ線管はすべて絶縁油に覆われているわけではない。 ※ MMG 用 X 線管"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "X 線の線質に影響されないのはどれか。",
+      "choices": {
+        "a": "管電圧",
+        "b": "管電流",
+        "c": "焦点の材質",
+        "d": "焦点の大きさ",
+        "e": "フィルター"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "explanation": "（２）管電流は線質に影響されない。 ※線質 透過力が大きいということは半価層が大きく減弱係数が小さいことを意味し、X 線のエネ"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "次のうち正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "日本の罹患年齢は年々若年化している。",
+        "b": "術後のマンモグラフィ検診は有用である。",
+        "c": "日本の罹患率のピークは 40 歳代後半だが、60 歳前半は減少している。",
+        "d": "乳癌検診受診率の算定の対象年齢は 40 歳～ 69 歳である。",
+        "e": "母姉妹が乳癌であるなら乳癌リスクは 10 倍である。"
+      },
+      "correctAnswer": "b",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（１）日本の罹患年齢は年々高齢化している。 （３）日本の罹患率のピークは 40 歳代後半だが、60 歳前半も増加している。 （５）母姉妹が乳癌であるなら乳癌リスクは 2 倍である。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "MMG 装置の AEC について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "光電増倍管を使用している。",
+        "b": "カセッテ後面検出方式である。",
+        "c": "受像面の後方にある。",
+        "d": "被写体厚特性は被写体が厚くなるほど濃度は低下し、mAs 値は大きくなる。",
+        "e": "管電圧特性は電圧が高くなるほど濃度が高くなる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）光電増倍管は PET 式マンモグラフィ装置に使用されている。 （５）管電圧特性は電圧が高くなるほど濃度が低くなる。 ※ MMG 装置の AEC"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "X 線画像モトルは大きく増感紙の構造モトルとフィルムの粒状に分けられる。",
+        "b": "潜像退行とは撮影によって得られた現像核が時間の経過によって不活性となる ものである",
+        "c": "アナログよりデジタルの方がスループットが高い。",
+        "d": "画像容量においてはファイル量≧データ量である。",
+        "e": "量子化とは連続した実数値を読み取る操作である。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（５）量子化とは連続した実数値ではなく、整数値で読み取る操作である。 ※ X 線画像モトル 増感紙の構造モトルとフィルムの粒状に分けられる。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "マンモグラフィ撮影機器について誤っているのはどれか。",
+      "choices": {
+        "a": "MMG 装置の 1 次 X 線透過率の 60 ％を限界値とする。",
+        "b": "圧迫はデッドマン方式である。",
+        "c": "圧迫板は透明でないといけない。",
+        "d": "グリッドの被覆材料には CFRP が用いられている。",
+        "e": "ポジショニングしやすいよう放射窓が胸壁側に開口している。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy",
+        "screening"
+      ],
+      "explanation": "（１）MMG 装置の 1 次 X 線透過率は 80 ～ 85 ％である。 ※マンモグラフィ撮影機器 ・圧迫はデッドマン方式である。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳管内乳頭腫は年齢と共に悪性化しやすくなる。",
+        "b": "多形成不均一の石灰化を伴う DCIS は低悪性度である。",
+        "c": "小葉内にできる石灰化は悪性のことが多い。",
+        "d": "線維腺腫は乳管上皮と結合組織の両方の成分を含んでいる。",
+        "e": "葉状腫瘍は急激に増大しても皮膚浸潤はあまりない。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）多形成不均一の石灰化を伴う DCIS は低悪性度のみではなく、低～中悪性度であ る。 （３）小葉内にできる石灰化は悪性より良性のほうが多い。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳頭下の太い乳管から起こる腫瘍としては乳管内乳頭腫がある。",
+        "b": "乳腺症には幾つかの種類があるが、中には乳癌発生の危険を含むものがある。",
+        "c": "腺管形成型と充実型は浸潤性乳管癌である。",
+        "d": "硬化性腺症は萎縮・嚢胞内乳頭腫などが原因である。",
+        "e": "葉状腫瘍は良性でも手術で取り残されると悪性度が増す。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）硬化性腺症は乳腺症が原因である。 （５）悪性になる可能性はあるが、悪性度が増すとは限らない。 ※乳管内乳頭腫"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "過誤腫は非上皮性腫瘍である。",
+        "b": "嚢胞内乳頭癌は浸潤癌の特殊型である。",
+        "c": "線維腺腫内に癌腫が発生することは極めて稀である。",
+        "d": "術後瘢痕からオイルシストになることがある。",
+        "e": "非浸潤癌は非触知であるため、画像診断が有効である。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）過誤腫は腫瘍様病変である。 （２）嚢胞内乳頭癌は非浸潤癌の特殊型である。 ※線維腺腫内"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "所見の記載ついて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "所見のある場合には悪性度の高い順に腫瘤、石灰化およびその他の所見に分 けて記載し、評価する。",
+        "b": "病変の部位の記載は日本乳癌学会編「乳癌取扱い規約」の記載に準じて記載す る。",
+        "c": "CC 撮影は乳頭中央からフィルム縁へ下ろした垂線から内側を O、外側を I、 乳輪下領域は S とする。",
+        "d": "乳癌検診で MLO を撮影し、右 C 領域に病変があったため、R-U・O とした。",
+        "e": "カテゴリー 3 では圧迫スポット・拡大撮影や超音波検査などの追加検査が必要 である。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）CC 撮影は乳頭中央からフィルム縁へ下ろした垂線から内側を I、外側をO、乳 輪下領域は S とする。 （４）“右 C 領域に病変があった”という文章自体が誤り。MLO のどこに見えている"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "マンモグラフィ上、嚢胞内乳頭腫と嚢胞内癌の鑑別は可能である。",
+        "b": "乳腺の構成で高濃度乳房と記載するのは所見とは関係ない。",
+        "c": "E 領域とは乳頭の背部にある円柱状の部分のことである。",
+        "d": "乳瘤と過誤腫はカテゴリー 2 と判定できる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）マンモグラフィ上、嚢胞内乳頭腫と嚢胞内癌の鑑別は不可能である。 （２）乳腺の構成で高濃度乳房と記載するのは所見と関係があるからである。 ※ E 領域"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "石灰化について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "壊死型石灰化の大きさは間質型石灰化より大きい。",
+        "b": "集簇の提議は 1 ㎝ 3 に 0.5 ㎜以下の石灰化が 5 個以上である。",
+        "c": "石灰化の分布で密度の高いものは悪性の可能性が高い。",
+        "d": "皮膚の石灰化は淡く不明瞭なため、悪性との区別が困難なことがある。",
+        "e": "集簇性の定義の範囲を越えた場合には領域性と判断する。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）壊死型石灰化の大きさは間質型石灰化より小さい。 （５）集簇性の定義の範囲を越えた場合には区域性と判断する。 ※石灰化"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "マンモグラフィ撮影について誤っているのはどれか。",
+      "choices": {
+        "a": "インプラントが入っている乳房では AEC の位置は乳腺下に合わせる。",
+        "b": "拡大撮影は密着撮影よりコントラストが低下する。",
+        "c": "密着撮影は小焦点を使用する。",
+        "d": "触知不能である腫瘤に対してスポット撮影をするのは不適切である。",
+        "e": "接線撮影は病変が乳腺組織の周囲にあるときに行う。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（４）標準撮影で病変が不明瞭である場合、スポット撮影は最も効果の高い追加撮影 法である。 ※インプラントが入っている乳房撮影"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "次のうち誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "AEC の位置は圧迫前に合わせる。",
+        "b": "CC 撮影は外側に皮膚の皺が入りやすい。",
+        "c": "MLO 撮影での圧迫板は広背筋より前にある。",
+        "d": "MLO 撮影 1 枚で必ず乳房が全て描出されるわけではない。",
+        "e": "CC 撮影で乳房上部にを欠かさないため、少し後ろ側に立ち前のめりになって もらう。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）AEC の位置は圧迫後に合わせる。 （５）CC で乳房上部にを欠かさないために前のめりになると下部が欠ける場合がある。 ※ CC 撮影"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "次のうち誤っているのはどれか。",
+      "choices": {
+        "a": "画素値とは各画素の X 線量に応じて離散的に表現した値である。",
+        "b": "読影用モニタは等倍表示が一番空間分解能が良い。",
+        "c": "AGD はマンモグラフィにおける被ばくによるリスク評価に最も用いられてい る数値である。",
+        "d": "画像表示システムとは液晶モニタを対象とし、GSDF をモニタ上に描出できる システムのことである。",
+        "e": "グレースケールには色情報が含まれている。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（５）グレースケールとは白と黒、灰色だけの表現方法で色情報を含まない。 ※画素値 ・各画素の X 線量に応じて離散的に表現した値である。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "品質管理について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "外部濃度計による階調確認 6 ヶ月に 1 回、または設置場所を変更した時に実施 する。",
+        "b": "加算的ラグ効果とは以前の X 線パターンに依存して現在の画像形成時の感度に 影響を与える現象のことをいう。",
+        "c": "AEC 作動時の CNR 確認は圧迫板を外して行う。",
+        "d": "空間分解能の測定では圧迫板を PMMA に接するように配置する。",
+        "e": "低コントラスト分解能の試験では圧迫板を PMMA に接するように配置する。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）加算的ラグ効果(残像現象)とは現在の X 線パターンと関わりのない以前の X 線パターンの影響が現在の画像へ加算される現象のことをいう。 （３）AEC 作動時の CNR 確認は圧迫板を PMMA に接するように配置する。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "自動現像機の管理基準設定について誤っているものはどれか。 ステップ １日目 ２日目 ３日目 ４日目 ５日目 １ 0.19 0.19 0.20 0.19 0.19 ２ 0.19 0.20 0.20 0.20 0.19 ３ 0.20 0.20 0.20 0.20 0.20 ４ 0.20 0.20 0.21 0.20 0.20 ５ 0.21 0.21 0.22 0.21 0.21 ６ 0.24 0.25 0.26 0.24 0.25 ７ 0.30 0.31 0.33 0.31 0.30 ８ 0.42 0.43 0.42 0.43 0.42 ９ 0.65 0.67 0.65 0.67 0.65 10 1.02 1.03 1.08 1.03 1.02 11 1.59 1.59 1.58 1.59 1.59 12 2.32 2.34 2.37 2.36 2.34 13 2.96 2.96 2.96 2.96 2.97 14 3.38 3.40 3.37 3.38 3.36 15 3.65 3.68 3.89 3.70 3.68 16 3.86 3.89 3.89 3.89 3.85 17 4.01 4.04 4.02 4.04 4.01 18 4.10 4.10 4.08 4.10 4.10 19 4.10 4.18 4.15 4.16 4.19 20 4.24 4.29 4.23 4.22 4.24 21 4.31 4.32 4.30 4.29 4.30",
+      "choices": {
+        "a": "カブリの管理幅はステップ No.1 ＋ 0.03 である。",
+        "b": "コントラストの管理幅は 1.78 ～ 2.08 である。",
+        "c": "コントラストはステップ No.12 － No.8 である。",
+        "d": "感度はステップ No.11 である。",
+        "e": "感度の管理幅は 0.89 ～ 1.19 である。"
+      },
+      "correctAnswer": "d",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "screening"
+      ],
+      "explanation": "（４）感度はステップ No.10（1.03）である。 設問(2)のコントラストの管理幅は、 2.35(5 日間の平均)－ 0.42(5 日間の平均)＝ 1.93"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "品質管理について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "焦点の性能における X 線管幅寸法の分解能は 11Ip/㎜以上である。",
+        "b": "圧迫圧の持続性は 1 分間で－ 10N 以内が望ましい。",
+        "c": "Ｘ線出力再現性の大焦点選択時の空気カーマ率は 7.0mGy/s 以上である。",
+        "d": "光照射野と X 線照射野のずれは SID2 ％以内であること。",
+        "e": "X 線出力の再現性および直線性の測定では、圧迫板を X 線装置側にできる限り 近づけて配置する。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）焦点の性能における X 線管の幅寸法についての分解能は 13Ip/㎜以上であること。 （５）X 線出力の再現性および直線性では圧迫板を取り外す。 ※ X 線出力の測定"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "CR の AEC の性能評価について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "線量測定を行う。",
+        "b": "システム感度を用いて評価する。",
+        "c": "SNR は 50 以下が望ましい。",
+        "d": "再現性の変動係数は 0.05 以下である。",
+        "e": "ファントム濃度が管理基準± 0.15 であること。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）SNR は 50 以下が望ましい。：DR システム （５）ファントム濃度が管理基準± 0.15 であること。：フィルムシステム ※ CR の AEC の性能評価"
+    }
+  ]
+}

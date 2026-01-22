@@ -1,0 +1,423 @@
+{
+  "examNumber": 6,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 19,
+  "sourceType": "taisaku",
+  "round": "6",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "正しいのはどれか。",
+      "choices": {
+        "a": "硬化性腺症は上皮性腫瘍である。",
+        "b": "線維腺腫症は分類不能腫である。",
+        "c": "女性化乳房は腫瘍性である。",
+        "d": "非浸潤癌は触診ではわからない。",
+        "e": "非浸潤癌は構築の乱れは起きない。"
+      },
+      "correctAnswer": "d",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（１）硬化性腺症は組織学的分類では乳腺症構成成分の一つである。 （２）線維腺腫症は組織学的分類では乳腺症構成成分の一つである。 （３）女性化乳房は腫瘍性ではない。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "のう胞内癌は浸潤癌である。",
+        "b": "TNM 分類は画像診断は関係ない。",
+        "c": "ステージ 0 の 5 年生存率はほぼ 100 ％である。",
+        "d": "母、姉妹が癌になった人は乳癌のハイリスク群に入る。",
+        "e": "腋窩リンパ節の部位は小胸筋の外、背、内側で分けられる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）のう胞内癌は非浸潤癌である。 （２）TNM 分類は画像診断を用いて TNM を決定する。 ※ TNM 分類"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "乳癌の基本治療は手術である。",
+        "b": "遠隔転移がある場合、T の大きさに関わらず M1 となる。",
+        "c": "摘出手術の術前以外で放射線治療は適用されない。",
+        "d": "薬物療法にはホルモン療法、化学療法、分子標的療法がある。",
+        "e": "乳房切除後の放射線治療は腋窩リンパ節転移が 4 つ以上の場合に行われる。"
+      },
+      "correctAnswer": "c",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（３）摘出手術の術前以外でも放射線治療は適用される。 ※乳癌治療の基本 乳癌治療の基本は手術(外科療法)で、ステージⅠ期～Ⅲ期の乳癌の場合は必ず手術に必要"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "写真濃度はカブリ＋黒化銀濃度である。",
+        "b": "連続エックス線は制動放射からなる。",
+        "c": "K 吸収端はターゲットに依存する。",
+        "d": "線量に影響されないノイズがある。",
+        "e": "量子化ノイズは撮影線量に依存しない。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（１）写真濃度とは支持体(ベース)の着色濃度と黒化銀濃度との合計である。 ※ K 吸収端 フィルターやターゲットに依存する。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳癌の罹患者数は 8 万人以上である。",
+        "b": "乳癌の死亡者数は 1 万 4 千人以下である。",
+        "c": "乳癌は他の癌と比べて若い人の罹患者数、死亡者数は少ない。",
+        "d": "乳癌検診 MMG 受診率の算定は 40 ～ 69 歳である。",
+        "e": "線量および写真の画質評価は第三者機構で評価される。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）乳癌の死亡者数は 1 万 4 千人以上である。 （３）乳癌は他の癌と比べて若い人の罹患者数、死亡者数が多い。 ※近年の医療統計"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "被写体コントラストに影響を与えないもはどれか。2 つ選べ。",
+      "choices": {
+        "a": "管電圧",
+        "b": "付加フィルタ",
+        "c": "管電流",
+        "d": "被写体の厚さ",
+        "e": "焦点の大きさ"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）管電流 （５）焦点の大きさ ※被写体コントラスに影響を及ぼす因子"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "MMG 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "CC 撮影で強く圧迫すると鮮鋭度を良くなる。",
+        "b": "MLO 撮影では B 領域は必ず乳頭より下に見える。",
+        "c": "MLO 撮影ではカセットの上角を広背筋の前に合わせる。",
+        "d": "B 領域を撮影するには CV 撮影である。",
+        "e": "接線撮影は乳房組織周囲を写し出すのに適している。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）強く圧迫すると鮮鋭度を良くなるわけではない。受診者が耐えれる圧迫。乳腺を 広げて圧迫する。 （２）MLO 撮影では B 領域は必ず乳頭より下に見えるわけではない。傾斜角によってB"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "フィルムコントラストに影響を与えないものはどれか。",
+      "choices": {
+        "a": "カブリ",
+        "b": "散乱線",
+        "c": "増感紙",
+        "d": "現像処理",
+        "e": "構造モトル"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（２）散乱線：被写体コントラスト ※フィルムコントラスト 増感紙の使用、フィルムの種類、フィルム濃度(黒化度)、現像処理(現像温度、時間、処"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "CR 撮影にてアーチファクトが出たため、圧迫板を外し、ファントムを９０ 度回転させて再撮影したが、同じアーチファクトが出た。原因として考えら れるのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "グリッド",
+        "b": "圧迫板",
+        "c": "ファントム",
+        "d": "付加フィルター",
+        "e": "イメージングプレート"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）グリッド：同じアーチファクト （５）イメージングプレート：同じアーチファクト 付加フィルターはファントムを９０度回転させることでアーチファクトの形が変化する"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "圧迫板を外す精度管理はどれか。2 つ選べ。",
+      "choices": {
+        "a": "CNR",
+        "b": "AEC",
+        "c": "焦点の性能",
+        "d": "電圧の精度と再現性",
+        "e": "低コントラスト分解能"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）焦点の性能：圧迫板を外す。 （４）電圧の精度と再現性：圧迫板を外す。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "画像表示システムの日常的な管理項目について誤っているのはどれか。",
+      "choices": {
+        "a": "JIRA-BN-01 を表示して、ほこり、指紋を確認する。",
+        "b": "モニタの直射光の反射や映り込みを避ける。",
+        "c": "反射日光、天井光、壁からの反射を避ける。",
+        "d": "シャウカステンの直射光による反射がないようにする。",
+        "e": "アルコールを含ませた布で拭き取る。"
+      },
+      "correctAnswer": "e",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（５）繊維屑の清潔な柔らかい布または製造業者から推奨された清掃用具。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "腫瘤は濃度勾配、内部構造、境界で判断する。",
+        "b": "高濃度乳房の乳腺濃度は 60 ％以上である。",
+        "c": "鋳型石灰化は中心が壊死してるから栄養血管が少ない。",
+        "d": "遠隔転移があれば、腫瘍の大きさに関わらずステージⅢになる。",
+        "e": "癌のステージⅠの腫瘍は 1 ㎝以下である。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（２）高濃度乳房の乳腺濃度は 80 ～ 90 ％程度である。 （４）遠隔転移があれば、腫瘍の大きさにかかわらずステージⅣ （５）癌のステージⅠの腫瘍は 2 ㎝以下である。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "Mo/Mo の組み合わせ、PMMA が 40 ㎜、HVL が 0.375 ㎜ A の時の AGD はいく らか。だだし、g=1 入射空中線量の平均値が 2.0 × 10-4(C/kg)とする。 また、1.00 × 10-4C/kg のとき 34Gy の関係が成り立つ。 PMMA 厚 HVL(㎜ A) 0.35 0.40 40 ㎜ 0.208 0.232",
+      "choices": {
+        "a": "0.8mGy",
+        "b": "1.2mGy",
+        "c": "1.5mGy",
+        "d": "1.8mGy",
+        "e": "2.1mGy"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（３）1.5mGy PMMA と HVL の係数 g の表があり、内挿法で g を計算して線量を出す問題。 AGD ＝ K × g × s × c"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳房の圧迫では高い圧力が大きな効果をうむわけではない。",
+        "b": "MLO 撮影では B 領域は必ず乳頭より下に見える。",
+        "c": "B 領域を撮影するには CV 撮影が有効である。",
+        "d": "接線撮影は乳房組織周囲を写し出すのに適している。",
+        "e": "拡大スポット撮影は乳腺組織付近の病変を見つけやすい。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）MLO 撮影では傾斜角によって B 領域が乳頭上に写ることがある。必ず下に見え るわけではない。 （５）乳腺組織付近の病変を見つけやすいのは接線撮影である。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "画像コントラストを上げる因子でないものはどれか。2 つ選べ。",
+      "choices": {
+        "a": "管電流を上げる。",
+        "b": "管電圧を下げる。",
+        "c": "スクリーンを使う。",
+        "d": "撮影距離を伸ばす。",
+        "e": "付加フィルタを薄くする。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）管電流を上げる。 （４）撮影距離を伸ばす。 ※Ｘ線写真コントラストを改善する方法"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "デジタル化は先に量子化してから標本化する。",
+        "b": "標本化間隔が狭いとナイキスト周波数は狭くなる。",
+        "c": "アナログ信号と量子化後の離散値との差を量子モトルという。",
+        "d": "エリアシング誤差は量子化によって生じる。",
+        "e": "画像を読み取る際のアパーチャーサイズが大きいとノイズ特性が良くなる。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）デジタル化は先に標本量子化してから量子化する。 （３）アナログ信号と量子化後の離散値との差を量子化誤差という。 （４）エリアシング誤差は標本化によって生じる。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "特性曲線 A、B について正しいのはどれか。2 つ選べ。 A B 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0 0 0.5 1.0 1.5 2.0 2.5 3.0 3.5",
+      "choices": {
+        "a": "カブリが違う。",
+        "b": "感度の基準値が違う。",
+        "c": "平均階調度が違う。",
+        "d": "コントラストの基準値が違う。",
+        "e": "Δ log Ｅ=0.15 /1 ステップ 、2 ステップで濃度 0.3 倍の露光量となる。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（１）底辺が同じなので、カブリは同じである。 （３）傾きが同じなので、平均階調度は同じである。 （５）Δ log Ｅ=0.15 /1 ステップ 、2 ステップで露光量が 2 倍になる。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "日常管理は画質と線量を管理している。",
+        "b": "腫瘤は濃度勾配、内部構造、境界で判断する。",
+        "c": "粒状性の主体は量子モトルである。",
+        "d": "比感度は「カブリ＋ 1.00」での露光量の逆数比の相対値である。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "pathology",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（４）写真濃度とは支持体(ベース)の着色濃度と黒化銀濃度との合計である。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "圧迫板を外さない精度管理はどれか。2 つ選べ。",
+      "choices": {
+        "a": "焦点の性能",
+        "b": "空間分解能",
+        "c": "管電圧の精度と再現性",
+        "d": "低コントラスト分解能",
+        "e": "ダイナミックレンジ"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）低コントラスト分解能：圧迫板を外さない （５）ダイナミックレンジ：圧迫板を外さない ※空間分解能"
+    }
+  ]
+}

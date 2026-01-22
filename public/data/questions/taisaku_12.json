@@ -1,0 +1,442 @@
+{
+  "examNumber": 12,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "12",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "デジタルマンモグラフィの定期的管理について誤っているのはどれか。",
+      "choices": {
+        "a": "X 線装置は受け入れ試験項目を少なくとも年 1 回実施する。",
+        "b": "圧迫器については少なくとも 6 ヶ月を超えない期間とする。",
+        "c": "公称焦点寸法の確認は試験間隔は少なくとも 1 年ごととする。",
+        "d": "画像表示システムの試験間隔は少なくとも 6 ヶ月ごととする。",
+        "e": "輝度安定化回路を装着している場合は試験間隔は少なくとも 1 年ごととする。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（３）公称焦点寸法の確認は受け入れ試験時だけに適応する。 ※ X 線装置の定期的管理 ・受け入れ試験項目を少なくとも年 1 回実施する。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "最大輝度および輝度比試験に使用される測定器はどれか。2 つ選べ。",
+      "choices": {
+        "a": "JIRA-BN01",
+        "b": "JIRA-BN09",
+        "c": "JIRA-BN18",
+        "d": "TG18-QC",
+        "e": "TG18-UNL80"
+      },
+      "correctAnswer": "a",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（２）JIRA-BN09：コントラスト応答試験 （４）TG18-QC：全体評価試験 （５）TG18-UNL80：輝度均一性試験",
+      "image": "mammo/taisaku/12/q2.png"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "図に使用されている定期管理はそれか。",
+      "choices": {
+        "a": "全体評価試験",
+        "b": "輝度均一性試験",
+        "c": "グレースケール試験",
+        "d": "コントラスト応答試験",
+        "e": "最大輝度および輝度比試験"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（２）輝度均一性試験 ※輝度均一性試験 表示画面全体の輝度一様性やむらを評価する。TG18-UNL80テストパターン。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "画像出力性能について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "TG18-QC テストパターンを使用する。",
+        "b": "フォーマット検査は不変性試験を行う。",
+        "c": "出力されたフィルムのアーチファクトの有無を確認する。",
+        "d": "各項目の測定を 3 回実施し、測定値の平均値を基礎値とする。",
+        "e": "フォーマット A とフォーマット B の長さが基礎値± 10 ％以内とする。"
+      },
+      "correctAnswer": "a",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）SMPTE パターンを使用する。 （５）フォーマット A とフォーマット B の長さが基礎値± 5 ％以内とする。 ※画像出力性能"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "デジタルマンモグラフィの日常的な定期管理はどれか。すべて選べ。",
+      "choices": {
+        "a": "周囲光",
+        "b": "照度試験",
+        "c": "輝度均一性試験",
+        "d": "全体評価試験",
+        "e": "グレースケール試験"
+      },
+      "correctAnswer": "a",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（２）照度試験：定期管理 （３）輝度均一性試験：定期管理 （５）グレースケール試験：定期管理"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "デジタルマンモグラフィのシステム動作確認について誤っているのはどれか。 2 つ選べ。",
+      "choices": {
+        "a": "画像評価用乳房ファントムとステップファントムを用いる。",
+        "b": "イメージャを使用している場合は濃度計と拡大鏡を用いる。",
+        "c": "圧迫板は画像評価用乳房ファントム上面に離して設置する。",
+        "d": "イメージャの場合、ファントム中心付近の濃度は 1.5 ± 0.10 である。",
+        "e": "ステップファントムの模擬腫瘤は 10 段のうち 5 段以上または 4 点以上視認でき ること。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "pathology",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）圧迫板は画像評価用乳房ファントム上面に接するようにする。 （５）ステップファントムの模擬腫瘤は 10 段のうち 5 段以上または 5 点以上視認でき ること。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "用語について正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "入力に対して過大に出力される現象をクロストークという。",
+        "b": "信号が他の回路に漏れることにより起こる現象をゴーストという。",
+        "c": "信号が反射されて作成される虚像のことをオーバーシュートという。",
+        "d": "モニタが描出できる最大空間周波数の線をナイキストラインという。",
+        "e": "IEC は非政府機構の国際機関であり、日本の JIS も規格に IEC 整合している。"
+      },
+      "correctAnswer": "d",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（１）入力に対して過大に出力される現象をオーバーシュートという。 （２）信号が他の回路に漏れることにより起こる現象をクロストークという。 （３）信号が反射されて作成される虚像のことをゴーストという。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "測定器について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "圧力計は乳房圧迫器にの加圧中の変動が測定できるものとする。",
+        "b": "半価層測定用アルミニウム板は厚さ 1 ㎜を少なくとも 6 枚必要である。",
+        "c": "ステップファントムは日本医学放射線学会推奨品でなければならない。",
+        "d": "線量計の測定範囲は少なくとも 1 ～ 100mGy の範囲を含まなければならない。",
+        "e": "画像評価用乳房ファントムはコントラスト評価に用いるアクリル板を備えている。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）半価層測定用アルミニウム板は厚さ 0.1 ㎜を少なくとも 6 枚必要である。 （４）線量計の測定範囲は少なくとも 0.1 ～ 100mGy の範囲を含まなければならない。 ※圧力計"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "測定器について誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "輝度計の精度は± 10 ％以内が難しい。",
+        "b": "管電圧計の精度は± 0.7kV 以内とする。",
+        "c": "濃度計の精度は± 0.02 以内とする。",
+        "d": "AEC 作動確認用 PMMA の均一性は± 0.1 ㎜とする。",
+        "e": "TG18-UNL80 のピクセル値は最大ピクセル値の 90 ％である。"
+      },
+      "correctAnswer": "e",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（５）TG18-UNL80 のピクセル値は最大ピクセル値の 80 ％である。 ※輝度計 少なくとも画像表示システムの輝度範囲の測定ができ、精度は± 10 ％以内が難しい。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "CR における相対感度の指標値でないのはどれか。",
+      "choices": {
+        "a": "P 値",
+        "b": "S 値",
+        "c": "EI 値",
+        "d": "EXI 値",
+        "e": "IgM 値"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（１）P 値：出力が GSDF 特性を示す標準表示システムの入力値。 ※ CR における相対感度の指標値 S 値、EI 値、EXI 値、IgM 値。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "画像表示モニタの不変性試験(定期管理)で目視で行うものどれか。すべて選べ。",
+      "choices": {
+        "a": "色度",
+        "b": "最大輝度",
+        "c": "全体評価",
+        "d": "フリッカー",
+        "e": "コントラスト"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）全体評価 （４）フリッカー ※モニタ目視評価試験(定期管理)"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "TG18-QC で行う画像表示モニタ試験(定期管理)はどれか。2 つ選べ。",
+      "choices": {
+        "a": "最大輝度",
+        "b": "全体評価",
+        "c": "輝度均一性",
+        "d": "コントラスト応答",
+        "e": "ビデオアーチファクト"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）最大輝度：TG18-LN （３）輝度均一性：TG18-UNL80 （４）コントラスト応答：TG18-LN"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "X 線フィルム特性曲線に関係があるのはどれか。すべて選べ。",
+      "choices": {
+        "a": "粒状性",
+        "b": "かぶり",
+        "c": "被写体コントラスト",
+        "d": "相対露光量の対数"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（１）粒状性：関係なし。 （４）被写体コントラスト：関係なし。 ※ X 線フィルム特性曲線に関係するもの"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "被写体コントラストに依存しないのはどれか。すべて選べ。",
+      "choices": {
+        "a": "原子番号",
+        "b": "散乱線",
+        "c": "照射野",
+        "d": "ガンマ",
+        "e": "減弱係数"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（４）ガンマ：フィルムコントラスト ※被写体コントラストに影響される因子 被写体厚、管電圧、照射野、減弱係数、散乱線、密度、X 線エネルギー、減弱係数及ぼす"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "粒状系に寄与しないものはどれか。2 つ選べ。",
+      "choices": {
+        "a": "フィルタ",
+        "b": "グリッド",
+        "c": "スクリーン",
+        "d": "量子モトル",
+        "e": "検出器の構造"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）フィルタ：被写体コントラスト （２）グリッド：X 線写真コントラスト ※粒状性に関する因子"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "乳がんリスクでないのはどれか。すべて選べ。",
+      "choices": {
+        "a": "乳製品",
+        "b": "高身長",
+        "c": "糖尿病",
+        "d": "夜間勤務",
+        "e": "イソフラボン"
+      },
+      "correctAnswer": "a",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）乳製品 （５）イソフラボン ※乳がんリスク：講習会講義内容"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "乳癌検診について誤っているのはどれか。",
+      "choices": {
+        "a": "乳癌死亡率ピークは 65 ～ 69 歳である。",
+        "b": "近年の乳癌検診受診率は 40 ％を超えている。",
+        "c": "US が死亡率減少効果があるのかわからない。",
+        "d": "US をすると発見率は上がるが、要精検率が高くなる。",
+        "e": "MMG 装置の校正記録で原因不明の故障がある場合は 10 年保存である。"
+      },
+      "correctAnswer": "e",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "explanation": "（５）MMG 装置の校正記録で原因不明の故障がある場合は永久保存である。 ※ MMG 装置の校正記録 原則 5 年分。原因不明の故障がある場合は永久保存。海外では永久保存が常識である。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "乳癌検診の許容値について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "精検受診率 80 ％以上",
+        "b": "精検未受診率 10 ％以下",
+        "c": "要精検率 11 ％以下",
+        "d": "がん発見率 0.45 ％以上",
+        "e": "陽性反応的中度 5.0 ％以上"
+      },
+      "correctAnswer": "d",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）がん発見率 0.23 ％以上 （５）陽性反応的中度 2.5 ％以上 ※乳癌検診に関する精度管理指標(許容値)"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "乳管腺腫の同義語として乳輪下乳管乳頭腫症がある。",
+        "b": "乳頭部腺腫の同義語として硬化性乳管内乳頭腫がある。",
+        "c": "乳管内乳頭腫が癌を合併した場合には悪性腫瘍に分類される。",
+        "d": "平滑筋腫は乳房では乳輪下にみられることが多い。",
+        "e": "乳管過形成が多層性に増殖すると乳管乳頭腫症となる。"
+      },
+      "correctAnswer": "a",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）乳管腺腫の同義語として硬化性乳管内乳頭腫がある。 （２）乳頭部腺腫の同義語として乳輪下乳管乳頭腫症がある。 ※乳管腺腫"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "加算的ラグ効果(DR の場合：定期管理)について誤っているのはどれか。",
+      "choices": {
+        "a": "加算画像 2 枚で評価する。",
+        "b": "撮影条件はマニュアルに設定する。",
+        "c": "加算的ラグ効果は曝射なしでは起こらない。",
+        "d": "厚さ 2 ㎜以上のアルミニウム板を使用してもよい。",
+        "e": "判定基準は製造業者の規定値を満たすこと。"
+      },
+      "correctAnswer": "c",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）加算的ラグ効果は曝射なしでも起こる。 （４）厚さ 4 ㎜以上のアルミニウム板を使用してもよい。 ※加算的ラグ効果(定期管理)"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "examNumber": 10,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "10",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "画像コントラストについて最も関係のないのはどれか。",
+      "choices": {
+        "a": "管電流",
+        "b": "管電圧",
+        "c": "増感紙",
+        "d": "グリッド",
+        "e": "付加フィルタ"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（１）管電流 ※ X 線写真(画像)コントラスト ・管電圧、付加フィルタ、フィルム、増感紙、グリッド、可動絞り。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "被写体コントラストについて関係のないのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "増感紙",
+        "b": "カブリ",
+        "c": "管電圧",
+        "d": "線減弱係数",
+        "e": "付加フィルタ"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）増感紙 （２）カブリ ※被写体コントラスト"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "粒状性について最も関係のない因子はどれか。",
+      "choices": {
+        "a": "X 線量",
+        "b": "X 線焦点",
+        "c": "量子モトル",
+        "d": "構造モトル",
+        "e": "スクリーンモトル"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（２）まったく関係ないわけではないが、X 線焦点は鮮鋭度に影響する因子である。 ※粒状性に関する因子 ・X 線光子数(線量、管電流)、検出器の構造。"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "鮮鋭度について最も関係のない因子はどれか。",
+      "choices": {
+        "a": "グリッド",
+        "b": "撮影距離",
+        "c": "焦点の大きさ",
+        "d": "検出器の構造",
+        "e": "被写体コントラスト"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（４）検出器の構造：粒状性に影響する因子 ※鮮鋭度 X 線管球の焦点のサイズ、被写体の動き、被写体の形(大きさ)おXよび感材系(増感紙、"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "粒状性は NPS で定量的に評価されている。",
+        "b": "鮮鋭度は MTF で定量的に評価されている。",
+        "c": "コントラスト分解能はデジタル系＜増感紙フィルム系である。",
+        "d": "グラディント曲線は特性曲線を微分して濃度をプロットしたものである。"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）画像コントラストは一次線(散乱線)含有率に関係している。 （４）コントラスト分解能はデジタル系＞増感紙フィルム系である。 ※ X 線画像の画質"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "マトリクスサイズが大きいとデータ量は多い。",
+        "b": "画素サイズが小さくなるほどマトリクスサイズは大きくなる。",
+        "c": "マトリクスサイズは画素寸法、ピクセルサイズは画素数である。",
+        "d": "マトリクスサイズは「横方向の列数×縦方向の列数」で表現される。",
+        "e": "同じ有効視野でマトリクスサイズが大きくなるとピクセルサイズは大きくなる。"
+      },
+      "correctAnswer": "c",
+      "category": "digital_imaging",
+      "categories": [
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）マトリクスサイズは画素数、ピクセルサイズは画素寸法である。 （５）同じ有効視野でマトリクスサイズが大きくなるとピクセルサイズは小さくなる。 ※画素数"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "ウインドウ幅を狭くするとコントラストは上がる。",
+        "b": "カブリが増えると平均階調度は低くなる。",
+        "c": "線量に依存しない固定ノイズがある。",
+        "d": "リプル率が大きいと別の装置でも出力が小さい。",
+        "e": "濃度分解能はアナログよりデジタルが良い。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）カブリが増えても平均階調度には影響しない。 （５）濃度分解能はデジタルよりアナログのほうが良い。 ※リプル百分率"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "画素数は「データ量×階調数」である。",
+        "b": "標本化とは画素に分割する操作である。",
+        "c": "量子レベルはグレーレベル階調に依存する。",
+        "d": "焦点サイズが小さいほど鮮鋭度が向上する。",
+        "e": "管電圧が高いほうがヒール効果の影響は大きくなる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（１）画素数はデータ量÷階調(数)である。 （５）管電圧の影響を受けない。 ※量子化"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "輝度計は大気気温の補正が必要である。",
+        "b": "ボケの程度が大きい場合、MTF の値が小さい",
+        "c": "圧縮後は圧縮前よりデータ量が多い。",
+        "d": "鮮鋭度は焦点が 0.1 ㎜より 0.3mm のほうがボケがでる。",
+        "e": "CR は相反則不軌が無いので長時間露光しても安定している。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）輝度計は大気気温の補正が不要である。 （３）圧縮後は圧縮前よりデータ量が少ない。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "乳房は乳腺・皮膚・結合組織・脂肪から構成される。",
+        "b": "腺房上皮と終末乳管を合わせて TDLU という。",
+        "c": "乳管は円錐状に広がっているが、C 領域の乳腺が多い。",
+        "d": "過誤腫は良悪性との判別は不要である。",
+        "e": "Paget 病は皮膚症状のみで乳房内には腫瘍はない。"
+      },
+      "correctAnswer": "e",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（５）Paget 病は乳管内、間質に浸潤する。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "T1 は腫瘍径が 20 ㎜以下である。",
+        "b": "手術前に放射線治療を行う。",
+        "c": "化学療法は手術前には行わない。",
+        "d": "ホルモン受容体陽性の人にはホルモン療法を行う。",
+        "e": "病期分類は腫瘍の大きさ、リンパ節転移の有無によって決まる。"
+      },
+      "correctAnswer": "b",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）手術後に放射線治療を行う。 （３）化学療法は手術前にも行う。 ※病期分類"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "誤っているのはどれか。すべて選べ。",
+      "choices": {
+        "a": "壊死型石灰化は悪性のみである。",
+        "b": "葉状腫瘍には皮膚浸潤が見らことがある。",
+        "c": "過誤腫は良悪性との判別は不要である。",
+        "d": "乳頭内乳頭腫は年齢と共に悪性になる。",
+        "e": "非浸潤性乳管癌の壊死型石灰化は平坦型である。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy",
+        "pathology",
+        "image_reading",
+        "screening"
+      ],
+      "explanation": "（４）乳頭内乳頭腫は高齢になると悪性の確率は高くなるが、悪性になるわけではない。 （５）非浸潤性乳管癌の壊死型石灰化は面疱型である。 ※葉状腫瘍"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "ルミナル A はホルモン受容体陽性、HER2 陰性である。",
+        "b": "ルミナル B タイプはホルモン受容体陽性、HER2 陽性のみである。",
+        "c": "basal-like はダブルネガティブ癌である。",
+        "d": "ルミナル A は最も多いタイプで予後が悪い。",
+        "e": "HR 陰性乳癌は HR 陽性乳癌より予後不良である。"
+      },
+      "correctAnswer": "a",
+      "category": "pathology",
+      "categories": [
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（２）ルミナル B タイプはホルモン受容体陽性、HER2 陰性もある。 （３）basal-like はトリプルネガティブ癌である。 （４）ルミナル A は最も多いタイプで予後が良い。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "総合判定基準として誤っているのはどれか。",
+      "choices": {
+        "a": "高濃度乳房には超音波所見を優先する。",
+        "b": "構築の乱れには原則として超音波所見を優先する。",
+        "c": "境界不明瞭な腫瘤にはマンモグラフィ所見を優先する。",
+        "d": "カテゴリー 3 以上の石灰化にはマンモグラフィ所見を優先する。"
+      },
+      "correctAnswer": "c",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "pathology",
+        "image_reading"
+      ],
+      "explanation": "（３）構築の乱れには原則としてマンモグラフィ所見を優先する。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "総合判定基準として正しいのはどれか。2 つ選べ",
+      "choices": {
+        "a": "浸潤を示唆する腫瘤には超音波所見を優先する。",
+        "b": "脂肪濃度部分には超音波所見で拾いすぎない。",
+        "c": "乳腺実質部分にはマンモグラフィ所見を優先する。",
+        "d": "辺縁が微細分葉状にはマンモグラフィ所見を優先する。",
+        "e": "局所的非対称性陰影にはマンモグラフィ所見を優先する。"
+      },
+      "correctAnswer": "b",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "anatomy",
+        "pathology",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（１）浸潤を示唆する腫瘤にはマンモグラフィ所見を優先する。 （３）乳腺実質部分には超音波所見を優先する。 （５）局所的非対称性陰影には超音波検査所見を優先する。"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "MMG 装置の X 線焦点について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "焦点は陽極に当たった点である。",
+        "b": "焦点サイズは乳頭側のほうが小さい。",
+        "c": "実効焦点とは投影されたフィルム上の面積を指す。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "pathology",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）大焦点 0.3 ㎜の時、管球横方向(横)は 0.45 ㎜を超えない範囲とする。 （５）大焦点 0.3 ㎜の時、管球管軸方向(縦)は 0.65 ㎜を超えない範囲とする。 ※乳癌検診に用いる X 線装置使用基準。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "クロストーク要素とビデオ特性要素はどれか。",
+      "choices": {
+        "a": "①",
+        "b": "②",
+        "c": "③",
+        "d": "④",
+        "e": "⑤"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）②クロストーク要素 （３）③ビデオ特性要素",
+      "image": "mammo/taisaku/10/q17.png"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "TG18 QC パターンを表示させて評価できるものはどれか。すべて選べ。",
+      "choices": {
+        "a": "全体評価",
+        "b": "輝度均一性",
+        "c": "フリッカー",
+        "d": "コントラスト応答"
+      },
+      "correctAnswer": "a",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（３）輝度均一性 （４）フリッカー （５）コントラスト応答"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "グリッドの一次透過率は 60 ％を限度とする。",
+        "b": "陽極設置より陰極接地のほうが焦点外 X 線が大きい。",
+        "c": "皮膚の表面入射線量は平均乳腺線量の約 2 ～ 3 倍である。",
+        "d": "インバータ式装置は立ち上がりと立下りの 75 ％の部分を撮影に使用している。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "xray_physics",
+        "quality_control",
+        "anatomy",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（１）グリッドの一次透過率は 80 ～ 85 ％である。 （３）皮膚の表面入射線量は平均乳腺線量の約 5 倍である。 （４）平均階調度とガンマは傾きの直線部分を表している。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "正しいのはどれか。すべて選べ。",
+      "choices": {
+        "a": "グリッドの透過率は± 10 ％は許容されている。",
+        "b": "MMG 装置のリプル率高いほうが X 線出力が大きい。",
+        "c": "インバータ式高電圧装置電源位相に関係なく X 線を発生、遮断できる。",
+        "d": "間接変換方式 FPD は X 線→ CsI →光→ aSe →電子の順で伝達される。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（２）管電流時間積(mAs)の精度管理は± 10 ％＋ 0.2mAs 以下(参照)。 （３）MMG 装置のリプル率高いほうが X 線出力が小さい。 （５）間接変換方式 FPD は X 線→ CsI →光→ A-Si →電子→ TFT に伝達される。"
+    }
+  ]
+}

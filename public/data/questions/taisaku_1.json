@@ -1,0 +1,430 @@
+{
+  "examNumber": 1,
+  "year": 2024,
+  "session": "taisaku",
+  "totalQuestions": 20,
+  "sourceType": "taisaku",
+  "round": "1",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "葉状腫瘍は良性と悪性に分類される。",
+        "b": "20 歳代の固い腫瘤はほとんどが良性である。",
+        "c": "浸潤癌は乳管内成分を多く含むものは少ない。",
+        "d": "乳癌はリンパ節転移しなくても遠隔転移する。",
+        "e": "ER、PgR、HER2 が陰性の乳癌をトリプルネガティブ乳癌という。"
+      },
+      "correctAnswer": "a",
+      "category": "anatomy",
+      "categories": [
+        "anatomy",
+        "pathology"
+      ],
+      "correctAnswers": [
+        "a",
+        "c"
+      ],
+      "explanation": "（１）葉状腫瘍は良性、中間、悪性に分類される （３）浸潤癌は乳管内成分を多く含むものは少ないわけではない。 ※トリプルネガティブ乳癌(TNBC)"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "デジタル画像について誤っているのはどれか。2つ選べ。",
+      "choices": {
+        "a": "階調数が多いと量子化誤差は小さい。",
+        "b": "標本化間隔が大きいほど空間分解能は良い。",
+        "c": "階調数が小さいほどアナログに近づく。",
+        "d": "濃度分解能は量子化レベル数で決まる。",
+        "e": "読取る間隔が小さいほどアナログ情報に近くなる。"
+      },
+      "correctAnswer": "b",
+      "category": "image_reading",
+      "categories": [
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）標本化間隔が小さいほど空間分解能は良い。 （３）階調数が大きいほどアナログに近づく。 ※標本化定理"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "誤っているのはどれか。",
+      "choices": {
+        "a": "デジタル化は量子化をしてから標本化が行われる。",
+        "b": "画素数は「横方向の列数×縦方向の列数」で表現される。",
+        "c": "量子化数はデジタル画像の濃度分解能を決定する因子である。",
+        "d": "増感紙のオルソ系はレギュラー系に比べて X 線・可視光変換効率が高い。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "explanation": "（１）デジタル化は標本化をしてから量子化が行われる。 ※量子化 標本化によって画像は時間的、空間的に離散的に分布した画素に分解されるが画素に関し"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "正しいのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "女性の罹患率は乳癌が１位である。",
+        "b": "女性の死亡率で乳癌が１位である。",
+        "c": "乳癌検診の指針として 40 歳～ 80 歳までを対象としている。",
+        "d": "特異度が高いと偽陽性は少なくなる。",
+        "e": "精検受診率とは 1 次検診を受けた人のうち精密検査が必要な人の割合である。"
+      },
+      "correctAnswer": "a",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（２）女性の死亡率で乳癌が 2 位である。 （３）乳癌検診は 40 歳以上で上限の制限はない。 （５）精検受診率とは要精検者のうち精密検査を受けた者の割合である。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "乳癌について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "日本の罹患数は 10 万人を超えている。",
+        "b": "日本の乳癌の年間の死亡数は 2 万人を超えている。",
+        "c": "乳癌は他の癌より若い年代が多い。",
+        "d": "自己発見よりも検診による癌の発見が年々増加している。",
+        "e": "dense breast 対策については超音波の導入の検討がなされている。"
+      },
+      "correctAnswer": "a",
+      "category": "pathology",
+      "categories": [
+        "pathology",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "b"
+      ],
+      "explanation": "（１）日本の罹患数は 8 万人を超えている。 （２）日本の乳癌の死亡数は 14000 人を超えている。 ※近年の医療統計"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "MMG 装置の AEC について正しいのはどれか。",
+      "choices": {
+        "a": "カセッテ後面検出方式である。",
+        "b": "電離箱検出器が使用されている。",
+        "c": "半導体検出器はシンチレータである。",
+        "d": "管電圧特性では管電圧が低いと露光量が小さくなる。",
+        "e": "被写体厚特性では被写体厚が厚くなると露光量が大きくなる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（２）半導体検出器が使用されている。 （３）半導体検出器は Si、Ge である。 （４）管電圧特性では管電圧が高いと露光量が小さくなる。"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "アナログフィルムについて誤っているのはどれか。",
+      "choices": {
+        "a": "スクリーンはバック側に貼る。",
+        "b": "乳剤面を受光部側にする。",
+        "c": "増感紙はオルソ系を使用する。",
+        "d": "濃度計は平行濃度計を使用する。",
+        "e": "高感度・高コントラストフィルムを使用する。"
+      },
+      "correctAnswer": "d",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "explanation": "（４）濃度計は拡散濃度計を使用。 ※濃度計 Ｘ線写真の濃度測定に通常使用される濃度計は拡散濃度計である。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "液晶モニタについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "階調特性は GSDF である。",
+        "b": "CRT より視野角が広い。",
+        "c": "5M モニタのピクセルサイズは 165 μ m である。",
+        "d": "バックライトの輝度が上がると、最高輝度、最低輝度が同じ比率で上がる。"
+      },
+      "correctAnswer": "b",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "b",
+        "d"
+      ],
+      "explanation": "（２）CRT より視野角が狭い。 （４）5M モニタの解像度(ピクセル数)は 2560 × 2048 である。 ※ GSDF"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "CC 撮影について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "受診者は装置に対して真正面にする。",
+        "b": "MLO 撮影の補完なので内側を欠かさないようにする。",
+        "c": "できるだけ外側の乳腺を入れる。",
+        "d": "ブラインドエリアは下部にある。",
+        "e": "乳腺が伸びにくいので圧迫板で伸ばすと良い。"
+      },
+      "correctAnswer": "d",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）ブラインドエリアは上部にある。 （５）片手で引き伸ばし押さえながら圧迫板で圧迫する。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "MLO 撮影について誤っているのはどれか。",
+      "choices": {
+        "a": "まっすぐに立つ。",
+        "b": "外側乳腺を十分に寄せた手の角度に合わせる。",
+        "c": "十分に外側と下部を寄せる。",
+        "d": "片手でできるだけ沢山の乳腺を挟む。",
+        "e": "圧迫の強さが大きいほど効果が高い。"
+      },
+      "correctAnswer": "e",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "anatomy"
+      ],
+      "explanation": "（５）圧迫の強い圧力が大きな効果を生むわけではない。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "正しいのはどれか。",
+      "choices": {
+        "a": "SIO 撮影では角度を一定にする。",
+        "b": "スポット撮影は通常撮影よりコントラストが良い。",
+        "c": "接線撮影は乳腺の重なりの部分の病変に適さない。",
+        "d": "外側に病変がある場合の撮影は MLO と XCC である。",
+        "e": "ML 撮影で下部、CC で内側の場合、D 領域である。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control",
+        "anatomy",
+        "pathology"
+      ],
+      "explanation": "（１）SIO 撮影では角度を一定にするのではなく、乳頭と腫瘤を結ぶラインを乳房支 持台面の角度とすれば良い。 （４）外側に病変がある場合の撮影は XCC である。MLO ではない。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "ノイズと関係のないものはどれか。2 つ選べ。",
+      "choices": {
+        "a": "X 線量子モトル",
+        "b": "RMS 粒状度",
+        "c": "ROC 解析",
+        "d": "CDMAM ファントム",
+        "e": "ウィナースペクトル"
+      },
+      "correctAnswer": "c",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "c",
+        "d"
+      ],
+      "explanation": "（３）ROC 解析：診断の正確さを評価するための手法。 （４）CDMAM ファントム：低コントラストと空間分解能描出能力の評価。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "センシトメトリについて誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "自動現像機の濃度管理に使用される。",
+        "b": "感度の指標値は平均階調度である。",
+        "c": "カブリは高いほうが良い。",
+        "d": "21 段ステップはΔ logE=0.15/ステップである。",
+        "e": "2 ステップごとに√ 2 倍の露光量となる。"
+      },
+      "correctAnswer": "c",
+      "category": "image_reading",
+      "categories": [
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "c",
+        "e"
+      ],
+      "explanation": "（３）カブリは低いほうが良い。 （５）2 ステップごとに 2 倍の露光量となる。"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "フィルターが違っても k 吸収端は同じである。",
+        "b": "ターゲットにより特性 X 線エネルギーが決まっている。",
+        "c": "モニタによる石灰化の観察はピクセル等倍表示が良い。",
+        "d": "ハードコピーの濃度分解能はフィルムより優れている。",
+        "e": "写真濃度が 0.3 増加すると透過光量は 1/2 になる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging"
+      ],
+      "correctAnswers": [
+        "a",
+        "d"
+      ],
+      "explanation": "（１）フィルターによって k 吸収端が異なる。 （４）ハードコピーの濃度分解能はフィルムより劣る。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "デジタルで粒状性に一番関係するものはどれか。",
+      "choices": {
+        "a": "量子モトル",
+        "b": "X 線モトル",
+        "c": "焦点",
+        "d": "散乱線",
+        "e": "スクリーンモトル"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "digital_imaging"
+      ],
+      "explanation": "（１）量子モトル ※粒状性を左右する因子 モトル構成寄与率が最も高いのは量子モトルであり(70 ～ 80 ％)、粒状性に大きく寄与す"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "正しいのはどれか。2 つ選べ。 （１）吸収線量は線質(管電圧)に依存する。",
+      "choices": {
+        "a": "大焦点の管軸方向は 0.45 ㎜以内でなくてはいけない。",
+        "b": "MMG 用グリッドの 1 次Ｘ線透過率は 60 パーセント以下である。",
+        "c": "高精細モニタで bit 数が小さいと最低濃度は低くなる。"
+      },
+      "correctAnswer": "a",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "image_reading",
+        "digital_imaging",
+        "screening"
+      ],
+      "correctAnswers": [
+        "a",
+        "e"
+      ],
+      "explanation": "（２）大焦点の管球管軸方向は 0.65 ㎜以下とする。 （３）MMG 用グリッドの 1 次Ｘ線透過率は 0.72 以下である。 （４）bit 数が小さいからといって最低濃度は低くなるわけではない。"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "圧迫板の性能で基準を満たしていないのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "圧迫板の傷や尖っているところがないことを確認した。",
+        "b": "1 分間の持続圧迫が－ 20N であった。",
+        "c": "停電時、圧迫を手動で解除できることを確認した。",
+        "d": "表示値が 105N の時、実測値が 124N であった。",
+        "e": "10N のときの被写体厚の表示値は 42 ㎜、実測値 49 ㎜であった。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "b",
+        "e"
+      ],
+      "explanation": "（２）1 分間の持続圧迫が－ 20N：－ 10N 以内が望ましい。 （５）表示値 42 ㎜、実測値 49 ㎜。49 － 42 ＝ 7 ㎜：± 5 ㎜以内。"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "AEC の性能(アナログ)について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "PMMA ファントムを使用する。",
+        "b": "PMMA ファントムの厚みを変えて照射し、濃度を測定する。",
+        "c": "ファントム濃度は D ＝ 1.7 ～ 1.9 にする。",
+        "d": "施設が定めた基準値± 0.05 であれば良い。",
+        "e": "AEC 動作時の再現性は変動係数が 0.02 以下とする。"
+      },
+      "correctAnswer": "d",
+      "category": "xray_physics",
+      "categories": [
+        "xray_physics",
+        "quality_control",
+        "image_reading"
+      ],
+      "correctAnswers": [
+        "d",
+        "e"
+      ],
+      "explanation": "（４）施設が定めた基準値± 0.15 であれば良い。 （５）AEC 動作時の再現性は変動係数が 0.05 以下とする。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "画像歪みの管理について誤っているのはどれか。2 つ選べ。",
+      "choices": {
+        "a": "4 メッシュの金網を使用する。",
+        "b": "厚さ 20 ㎜の PMMA ファントムの上に金網を載せる。",
+        "c": "圧迫板を外す。",
+        "d": "マニュアル撮影を行う。",
+        "e": "幾何学的歪みがないか目視で確認する。"
+      },
+      "correctAnswer": "b",
+      "category": "positioning",
+      "categories": [
+        "positioning",
+        "quality_control"
+      ],
+      "correctAnswers": [
+        "b",
+        "c"
+      ],
+      "explanation": "（２）金網を 2 枚の PMMA(厚さ 10 ㎜)で挟み、乳房指示台の上に置く。 （３）圧迫板は PMMA に接するように配置する。"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "モニタの管理について誤っているのはどれか。",
+      "choices": {
+        "a": "TG18-QC を使用する。",
+        "b": "院内にあるすべてのモニタで実施すること。",
+        "c": "定期試験には輝度計が必要である。",
+        "d": "キャリブレーションの実施は不要である。",
+        "e": "画像表示システムは基準値作成時とできるだけ同じ環境下で行う。"
+      },
+      "correctAnswer": "d",
+      "category": "quality_control",
+      "categories": [
+        "quality_control",
+        "digital_imaging"
+      ],
+      "explanation": "（４）キャリブレーションの実施が必要である。 ※ TG18Q-QC テストパターン 全体評価試験、グレースケール試験、アーチファクト試験などの画像表示システムの管理"
+    }
+  ]
+}
