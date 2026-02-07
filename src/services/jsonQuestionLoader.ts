@@ -15,7 +15,7 @@ import {
 } from '../types/questionData';
 
 /**
- * JSONファイルから問題データを読み込む
+ * JSONファイルから問題データを読み込む（最適化版）
  */
 export async function loadQuestionsFromJson(
   round: number,
@@ -23,10 +23,17 @@ export async function loadQuestionsFromJson(
 ): Promise<Question[]> {
   const jsonPath = getQuestionDataPath(round, sourceType);
 
-  console.log(`[jsonQuestionLoader] JSONから問題を読み込み: ${jsonPath}`);
-
   try {
-    const response = await fetch(jsonPath);
+    // fetchのタイムアウトを設定（10秒）
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 10000);
+
+    const response = await fetch(jsonPath, {
+      signal: controller.signal,
+      cache: 'default' // ブラウザキャッシュを活用
+    });
+
+    clearTimeout(timeoutId);
 
     if (!response.ok) {
       console.warn(`[jsonQuestionLoader] JSONファイルが見つかりません: ${jsonPath}`);
@@ -47,23 +54,18 @@ export async function loadQuestionsFromJson(
       return [];
     }
 
-    // 問題データを変換
+    // 問題データを変換（最適化: mapの結果を直接返す）
     const questions = data.questions.map(item =>
       convertToQuestion(item, round, data.year, sourceType)
     );
 
-    // カテゴリ情報の確認ログ
-    const categoryCounts: Record<string, number> = {};
-    questions.forEach(q => {
-      if (q.category) {
-        categoryCounts[q.category] = (categoryCounts[q.category] || 0) + 1;
-      }
-    });
-    console.log(`[jsonQuestionLoader] ${sourceType}_${round}: ${questions.length}問を読み込み (カテゴリ別:`, categoryCounts, ')');
-
     return questions;
-  } catch (error) {
-    console.error(`[jsonQuestionLoader] 読み込みエラー:`, error);
+  } catch (error: any) {
+    if (error.name === 'AbortError') {
+      console.warn(`[jsonQuestionLoader] タイムアウト: ${jsonPath}`);
+    } else {
+      console.error(`[jsonQuestionLoader] 読み込みエラー (${jsonPath}):`, error);
+    }
     return [];
   }
 }
@@ -135,18 +137,29 @@ function convertToQuestion(
 }
 
 /**
- * 全マンモ認定問題を読み込む
+ * 全マンモ認定問題を読み込む（並列読み込みで高速化）
  */
 export async function loadAllMammoQuestions(): Promise<Question[]> {
-  const allQuestions: Question[] = [];
   const allPaths = getAllMammoQuestionPaths();
+  const startTime = performance.now();
 
-  for (const { round, sourceType } of allPaths) {
-    const questions = await loadQuestionsFromJson(round, sourceType);
-    allQuestions.push(...questions);
-  }
+  // 全てのJSONファイルを並列で読み込む
+  const loadPromises = allPaths.map(({ round, sourceType }) =>
+    loadQuestionsFromJson(round, sourceType).catch((error) => {
+      console.warn(`[jsonQuestionLoader] ${sourceType}_${round} の読み込みに失敗:`, error);
+      return []; // エラー時は空配列を返す
+    })
+  );
 
-  console.log(`[jsonQuestionLoader] 全マンモ認定問題: ${allQuestions.length}問`);
+  // 全ての読み込みを並列実行
+  const results = await Promise.all(loadPromises);
+  
+  // 結果を結合
+  const allQuestions = results.flat();
+  
+  const loadTime = ((performance.now() - startTime) / 1000).toFixed(2);
+  console.log(`[jsonQuestionLoader] 全マンモ認定問題: ${allQuestions.length}問 (読み込み時間: ${loadTime}秒)`);
+  
   return allQuestions;
 }
 

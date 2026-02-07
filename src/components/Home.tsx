@@ -32,23 +32,31 @@ const Home: FC<HomeProps> = ({ onStartSession }) => {
   const [selectedCategories, setSelectedCategories] = useState<CategoryId[]>([...CATEGORY_LIST]);
   const [questionCount, setQuestionCount] = useState(10);
 
-  // コンポーネントマウント時に問題を読み込む
+  // コンポーネントマウント時に問題を読み込む（最適化版）
   useEffect(() => {
     const loadQuestions = async () => {
       try {
         setLoading(true);
         setLoadError(null);
 
+        // 問題を読み込む（並列読み込みで高速化）
         const allQuestions = await generateAllQuestions();
 
         if (allQuestions.length > 0) {
-          await saveQuestions(allQuestions);
-          // 全回次を選択
+          // 全回次を選択（すぐに設定してUIを更新）
           const allRounds = [...new Set(allQuestions.map(q => q.examNumber))];
           setSelectedRounds(allRounds);
+          
+          // 問題をすぐに設定（読み込み完了を待たない）
+          setAllLoadedQuestions(allQuestions);
+          
+          // データベースへの保存は非同期で実行（読み込みをブロックしない）
+          saveQuestions(allQuestions).catch((error) => {
+            console.warn('[Home] データベースへの保存に失敗しました（問題は使用可能です）:', error);
+          });
+        } else {
+          setAllLoadedQuestions([]);
         }
-
-        setAllLoadedQuestions(allQuestions);
       } catch (error: any) {
         console.error('[Home] エラー:', error);
         setLoadError(`問題の読み込みに失敗しました: ${error.message}`);
